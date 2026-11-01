@@ -1,0 +1,17 @@
+[
+{"id":4562765,"name":"Barahona","lat":18.35134,"lng":-66.44545,"population":2632,"fcode":"PPL","municipality":"Barahona Barrio"},
+{"id":7275024,"name":"Barahona Comunidad","lat":18.35229,"lng":-66.44428,"population":0,"fcode":"PPL","municipality":"Barahona Barrio"},
+{"id":4563869,"name":"Colinas de Monte Llano","lat":18.33356,"lng":-66.39684,"population":0,"fcode":"PPL","municipality":"Unibón Barrio"},
+{"id":4565018,"name":"Franquez","lat":18.34023,"lng":-66.42767,"population":2021,"fcode":"PPL","municipality":"Fránquez Barrio"},
+{"id":7275062,"name":"Fránquez Comunidad","ascii":"Franquez Comunidad","lat":18.34007,"lng":-66.42762,"population":0,"fcode":"PPL","municipality":"Fránquez Barrio"},
+{"id":4565256,"name":"Hacienda María","ascii":"Hacienda Maria","lat":18.31162,"lng":-66.44462,"population":0,"fcode":"PPL","municipality":"San Lorenzo Barrio"},
+{"id":4565660,"name":"Jardines de Monte Llano","lat":18.32829,"lng":-66.39906,"population":0,"fcode":"PPL","municipality":"Monte Llano Barrio"},
+{"id":4565937,"name":"Las Cumbres","lat":18.34078,"lng":-66.406,"population":0,"fcode":"PPL","municipality":"Morovis Norte Barrio"},
+{"id":4566333,"name":"Morovis","lat":18.32578,"lng":-66.40656,"population":2414,"fcode":"PPLA","municipality":"Morovis Barrio-Pueblo"},
+{"id":7276373,"name":"Morovis Zona Urbana","lat":18.32695,"lng":-66.40588,"population":0,"fcode":"PPL","municipality":"Morovis Barrio-Pueblo"},
+{"id":4567583,"name":"Ramón Pabón","ascii":"Ramon Pabon","lat":18.33356,"lng":-66.36906,"population":0,"fcode":"PPL","municipality":"Unibón Barrio"},
+{"id":4567704,"name":"Residencial Riverdo Tomas M Sorrolla","lat":18.32217,"lng":-66.40711,"population":0,"fcode":"PPL","municipality":"Monte Llano Barrio"},
+{"id":4568003,"name":"Russe","lat":18.32217,"lng":-66.40323,"population":0,"fcode":"PPL","municipality":"Monte Llano Barrio"},
+{"id":4568207,"name":"Santa Domingo","lat":18.32912,"lng":-66.4085,"population":0,"fcode":"PPL","municipality":"Morovis Norte Barrio"},
+{"id":4568698,"name":"Villas del Norte","lat":18.33801,"lng":-66.40434,"population":0,"fcode":"PPL","municipality":"Morovis Norte Barrio"}
+]

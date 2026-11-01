@@ -1,0 +1,18 @@
+[
+{"id":4562842,"name":"Bayamoncito","lat":18.23662,"lng":-66.17017,"population":0,"fcode":"PPL"},
+{"id":4563919,"name":"Comerío","ascii":"Comerio","lat":18.21801,"lng":-66.226,"population":4649,"fcode":"PPLA","municipality":"Comerío Barrio-Pueblo"},
+{"id":7276422,"name":"Comerío Zona Urbana","ascii":"Comerio Zona Urbana","lat":18.22007,"lng":-66.22456,"population":0,"fcode":"PPL","municipality":"Comerío Barrio-Pueblo"},
+{"id":4563947,"name":"Comunidad Las Casitas","lat":18.22023,"lng":-66.22267,"population":0,"fcode":"PPL","municipality":"Comerío Barrio-Pueblo"},
+{"id":4564522,"name":"Escuela La Prieta","lat":18.24912,"lng":-66.19517,"population":0,"fcode":"PPL","municipality":"Cedrito Barrio"},
+{"id":4565521,"name":"Iglesia Virgen de la Providencia","lat":18.24829,"lng":-66.19406,"population":0,"fcode":"PPL","municipality":"Cedrito Barrio"},
+{"id":4565770,"name":"La Guitarra","lat":18.20329,"lng":-66.25517,"population":0,"fcode":"PPL","municipality":"Río Hondo Barrio"},
+{"id":4565771,"name":"La Hacienda","lat":18.21523,"lng":-66.231,"population":0,"fcode":"PPL","municipality":"Comerío Barrio-Pueblo"},
+{"id":4566256,"name":"Minima La Plata","lat":18.21551,"lng":-66.22906,"population":0,"fcode":"PPL","municipality":"Comerío Barrio-Pueblo"},
+{"id":4566497,"name":"Palomas","lat":18.23246,"lng":-66.25628,"population":1742,"fcode":"PPL","municipality":"Palomas Barrio"},
+{"id":7274968,"name":"Palomas Comunidad","lat":18.23527,"lng":-66.25344,"population":0,"fcode":"PPL","municipality":"Palomas Barrio"},
+{"id":4566734,"name":"Piñas","ascii":"Pinas","lat":18.1844,"lng":-66.22767,"population":0,"fcode":"PPL","municipality":"Piñas Barrio"},
+{"id":4567694,"name":"Residencial Manuel Martorell","lat":18.22134,"lng":-66.22239,"population":0,"fcode":"PPL","municipality":"Comerío Barrio-Pueblo"},
+{"id":4567847,"name":"Río Hondo","ascii":"Rio Hondo","lat":18.21273,"lng":-66.24961,"population":0,"fcode":"PPL","municipality":"Río Hondo Barrio"},
+{"id":4568282,"name":"Sector Laso","lat":18.21885,"lng":-66.22267,"population":0,"fcode":"PPL","municipality":"Vega Redonda Barrio"},
+{"id":4568301,"name":"Sector Villa Brava","lat":18.21023,"lng":-66.22906,"population":0,"fcode":"PPL","municipality":"Piñas Barrio"}
+]

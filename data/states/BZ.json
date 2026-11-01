@@ -1,0 +1,80 @@
+[
+  {
+    "code": "BZ",
+    "iso": "BZ-BZ",
+    "name": "Belize",
+    "type": "distrito",
+    "admin1": "01",
+    "id": 3582676,
+    "lat": 17.55,
+    "lng": -88.41667,
+    "timezone": "America/Belize",
+    "population": 116914,
+    "cities_count": 66
+  },
+  {
+    "code": "CY",
+    "iso": "BZ-CY",
+    "name": "Cayo",
+    "type": "distrito",
+    "admin1": "02",
+    "id": 3582429,
+    "lat": 17,
+    "lng": -88.9,
+    "timezone": "America/Belize",
+    "population": 103413,
+    "cities_count": 133
+  },
+  {
+    "code": "CZL",
+    "iso": "BZ-CZL",
+    "name": "Corozal",
+    "type": "distrito",
+    "admin1": "03",
+    "id": 3582302,
+    "lat": 18.21667,
+    "lng": -88.31667,
+    "timezone": "America/Belize",
+    "population": 46071,
+    "cities_count": 69
+  },
+  {
+    "code": "OW",
+    "iso": "BZ-OW",
+    "name": "Orange Walk",
+    "type": "distrito",
+    "admin1": "04",
+    "id": 3581511,
+    "lat": 17.76667,
+    "lng": -88.8,
+    "timezone": "America/Belize",
+    "population": 55622,
+    "cities_count": 91
+  },
+  {
+    "code": "SC",
+    "iso": "BZ-SC",
+    "name": "Stann Creek",
+    "type": "distrito",
+    "admin1": "05",
+    "id": 3580975,
+    "lat": 16.83333,
+    "lng": -88.46667,
+    "timezone": "America/Belize",
+    "population": 41032,
+    "cities_count": 57
+  },
+  {
+    "code": "TOL",
+    "iso": "BZ-TOL",
+    "name": "Toledo",
+    "type": "distrito",
+    "admin1": "06",
+    "id": 3580913,
+    "lat": 16.33333,
+    "lng": -88.86667,
+    "timezone": "America/Belize",
+    "population": 38259,
+    "cities_count": 104
+  }
+]

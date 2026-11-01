@@ -1,0 +1,15 @@
+[
+{"id":4562791,"name":"Barriada Monte Santo","lat":18.13107,"lng":-65.45127,"population":0,"fcode":"PPL","municipality":"Florida Barrio"},
+{"id":4563909,"name":"Colonia Luján","ascii":"Colonia Lujan","lat":18.12135,"lng":-65.44266,"population":0,"fcode":"PPL","municipality":"Puerto Ferro Barrio"},
+{"id":4563910,"name":"Colonia Puerto Real","lat":18.11052,"lng":-65.48155,"population":0,"fcode":"PPL","municipality":"Puerto Real Barrio"},
+{"id":4564108,"name":"Destino","lat":18.1283,"lng":-65.43627,"population":0,"fcode":"PPL","municipality":"Puerto Ferro Barrio"},
+{"id":4564861,"name":"Esperanza","lat":18.09719,"lng":-65.47071,"population":1092,"fcode":"PPL","municipality":"Puerto Real Barrio"},
+{"id":7275060,"name":"Esperanza Comunidad","lat":18.10232,"lng":-65.47974,"population":0,"fcode":"PPL","municipality":"Puerto Real Barrio"},
+{"id":4565142,"name":"Hacienda Arcadia","lat":18.12469,"lng":-65.52099,"population":0,"fcode":"PPL","municipality":"Mosquito Barrio"},
+{"id":4565575,"name":"Isabel Segunda","lat":18.14913,"lng":-65.44266,"population":9301,"fcode":"PPLA","municipality":"Isabel Segunda"},
+{"id":4566341,"name":"Moscou","lat":18.14857,"lng":-65.43266,"population":0,"fcode":"PPL","municipality":"Puerto Diablo Barrio"},
+{"id":4566342,"name":"Mosquito","lat":18.1258,"lng":-65.5196,"population":0,"fcode":"PPL","municipality":"Mosquito Barrio"},
+{"id":4566910,"name":"Proyecto Barracón","ascii":"Proyecto Barracon","lat":18.1358,"lng":-65.45766,"population":0,"fcode":"PPL","municipality":"Florida Barrio"},
+{"id":4568228,"name":"Santa María","ascii":"Santa Maria","lat":18.15218,"lng":-65.4321,"population":0,"fcode":"PPL","municipality":"Puerto Diablo Barrio"},
+{"id":7276396,"name":"Vieques Zona Urbana","lat":18.14655,"lng":-65.44478,"population":0,"fcode":"PPL","municipality":"Isabel Segunda"}
+]

@@ -1,0 +1,21 @@
+[
+{"id":4562626,"name":"April Garden","lat":18.16857,"lng":-65.87266,"population":0,"fcode":"PPL","municipality":"Tejas Barrio"},
+{"id":4562788,"name":"Barriada La Rivera","lat":18.18357,"lng":-65.86322,"population":0,"fcode":"PPL","municipality":"Las Piedras Barrio-Pueblo"},
+{"id":4562905,"name":"Boqueron","lat":18.20746,"lng":-65.8485,"population":1218,"fcode":"PPL","municipality":"Boquerón Barrio"},
+{"id":7275030,"name":"Boquerón Comunidad","ascii":"Boqueron Comunidad","lat":18.20111,"lng":-65.84391,"population":0,"fcode":"PPL","municipality":"Boquerón Barrio"},
+{"id":4564925,"name":"Extension Las Mercedes","lat":18.17246,"lng":-65.86294,"population":0,"fcode":"PPL","municipality":"Collores Barrio"},
+{"id":4565760,"name":"La Fermina","lat":18.17551,"lng":-65.8535,"population":3177,"fcode":"PPL"},
+{"id":4565966,"name":"Las Mercedes","lat":18.17524,"lng":-65.86711,"population":0,"fcode":"PPL","municipality":"Tejas Barrio"},
+{"id":4565980,"name":"Las Piedras","lat":18.18301,"lng":-65.86627,"population":6655,"fcode":"PPLA","municipality":"Las Piedras Barrio-Pueblo"},
+{"id":7276365,"name":"Las Piedras Zona Urbana","lat":18.17842,"lng":-65.87081,"population":0,"fcode":"PPL","municipality":"Tejas Barrio"},
+{"id":4565989,"name":"Las Torres","lat":18.21912,"lng":-65.83322,"population":0,"fcode":"PPL","municipality":"Boquerón Barrio"},
+{"id":4566229,"name":"Melillas","lat":18.20662,"lng":-65.8435,"population":0,"fcode":"PPL","municipality":"Boquerón Barrio"},
+{"id":4566519,"name":"Parkhurst","lat":18.1769,"lng":-65.87516,"population":0,"fcode":"PPL","municipality":"Montones Barrio"},
+{"id":4566913,"name":"Pueblito del Rio","lat":18.22801,"lng":-65.86294,"population":1481,"fcode":"PPL","municipality":"El Río Barrio"},
+{"id":7274982,"name":"Pueblito Del Río Comunidad","ascii":"Pueblito Del Rio Comunidad","lat":18.22802,"lng":-65.86157,"population":0,"fcode":"PPL","municipality":"El Río Barrio"},
+{"id":4567601,"name":"Reparto Arenales","lat":18.18551,"lng":-65.87016,"population":0,"fcode":"PPL","municipality":"Quebrada Arenas Barrio"},
+{"id":4567681,"name":"Residencial La Rivera","lat":18.18051,"lng":-65.86516,"population":0,"fcode":"PPL","municipality":"Las Piedras Barrio-Pueblo"},
+{"id":4567730,"name":"Río","ascii":"Rio","lat":18.22801,"lng":-65.85877,"population":0,"fcode":"PPL","municipality":"El Río Barrio"},
+{"id":4568278,"name":"Sector La Sabana","lat":18.17385,"lng":-65.86683,"population":0,"fcode":"PPL","municipality":"Collores Barrio"},
+{"id":4568285,"name":"Sector Los Garbanzos","lat":18.16579,"lng":-65.86655,"population":0,"fcode":"PPL","municipality":"Tejas Barrio"}
+]

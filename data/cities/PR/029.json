@@ -1,0 +1,18 @@
+[
+{"id":4562860,"name":"Benitez","lat":18.27357,"lng":-65.87905,"population":1334,"fcode":"PPL","municipality":"Lomas Barrio"},
+{"id":7275027,"name":"Benítez Comunidad","ascii":"Benitez Comunidad","lat":18.27253,"lng":-65.87883,"population":0,"fcode":"PPL","municipality":"Lomas Barrio"},
+{"id":4563059,"name":"Campo Rico","lat":18.33717,"lng":-65.89794,"population":3218,"fcode":"PPL","municipality":"Hato Puerco Barrio"},
+{"id":7275037,"name":"Campo Rico Comunidad","lat":18.33713,"lng":-65.89735,"population":0,"fcode":"PPL","municipality":"Hato Puerco Barrio"},
+{"id":4563168,"name":"Canovanas","lat":18.3751,"lng":-65.89934,"population":8437,"fcode":"PPLA","municipality":"Canóvanas Barrio-Pueblo"},
+{"id":7276414,"name":"Canóvanas Zona Urbana","ascii":"Canovanas Zona Urbana","lat":18.37826,"lng":-65.90562,"population":0,"fcode":"PPL","municipality":"Canóvanas Barrio-Pueblo"},
+{"id":4564033,"name":"Country View","lat":18.3805,"lng":-65.901,"population":0,"fcode":"PPL","municipality":"Canóvanas Barrio-Pueblo"},
+{"id":4565642,"name":"Jardines de Canovanas","lat":18.37912,"lng":-65.89489,"population":0,"fcode":"PPL","municipality":"Canóvanas Barrio-Pueblo"},
+{"id":4566035,"name":"Lomas","lat":18.26857,"lng":-65.90878,"population":953,"fcode":"PPL","municipality":"Lomas Barrio"},
+{"id":7274945,"name":"Lomas Comunidad","lat":18.26876,"lng":-65.9091,"population":0,"fcode":"PPL","municipality":"Lomas Barrio"},
+{"id":4567560,"name":"Quintas de Canovanas","lat":18.37106,"lng":-65.89794,"population":0,"fcode":"PPL","municipality":"Canóvanas Barrio-Pueblo"},
+{"id":4567672,"name":"Residencial Jesus T Pinero","lat":18.37634,"lng":-65.89905,"population":0,"fcode":"PPL","municipality":"Canóvanas Barrio-Pueblo"},
+{"id":4568109,"name":"San Isidro","lat":18.39217,"lng":-65.88544,"population":8071,"fcode":"PPL","municipality":"Canóvanas Barrio"},
+{"id":7275002,"name":"San Isidro Comunidad","lat":18.39184,"lng":-65.88527,"population":0,"fcode":"PPL","municipality":"Canóvanas Barrio"},
+{"id":4568194,"name":"Santa Barbara","lat":18.39356,"lng":-65.91878,"population":5168,"fcode":"PPL","municipality":"Torrecilla Alta Barrio"},
+{"id":7275004,"name":"Santa Bárbara Comunidad","ascii":"Santa Barbara Comunidad","lat":18.39514,"lng":-65.91755,"population":0,"fcode":"PPL","municipality":"Torrecilla Alta Barrio"}
+]

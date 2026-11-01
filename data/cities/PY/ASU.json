@@ -1,0 +1,14 @@
+[
+{"id":3439389,"name":"Asunción","ascii":"Asuncion","lat":-25.28646,"lng":-57.647,"population":1482200,"fcode":"PPLC","municipality":"Asuncion"},
+{"id":11673335,"name":"Central","lat":-25.22966,"lng":-57.56588,"population":0,"fcode":"PPLL","municipality":"Asuncion"},
+{"id":11673334,"name":"Las Colinas","lat":-25.23352,"lng":-57.55405,"population":0,"fcode":"PPLL","municipality":"Asuncion"},
+{"id":11673333,"name":"Las Mercedes","lat":-25.24744,"lng":-57.55588,"population":0,"fcode":"PPLL","municipality":"Asuncion"},
+{"id":11673340,"name":"San Antonio","lat":-25.24447,"lng":-57.58486,"population":0,"fcode":"PPLL","municipality":"Asuncion"},
+{"id":3439363,"name":"San Blás","ascii":"San Blas","lat":-25.22699,"lng":-57.57142,"population":0,"fcode":"PPLL","municipality":"Asuncion"},
+{"id":11673336,"name":"San Francisco","lat":-25.23078,"lng":-57.57218,"population":0,"fcode":"PPLL","municipality":"Asuncion"},
+{"id":11673311,"name":"Urbanización Prados Verdes","ascii":"Urbanizacion Prados Verdes","lat":-25.32982,"lng":-57.6369,"population":0,"fcode":"PPLL","municipality":"Asuncion"},
+{"id":11673304,"name":"Villa Aranjuez","lat":-25.3109,"lng":-57.63262,"population":0,"fcode":"PPLL","municipality":"Asuncion"},
+{"id":11673313,"name":"Villa Los Portales","lat":-25.33479,"lng":-57.63616,"population":0,"fcode":"PPLL","municipality":"Asuncion"},
+{"id":11673312,"name":"Villa Soledad","lat":-25.33277,"lng":-57.6361,"population":0,"fcode":"PPLL","municipality":"Asuncion"},
+{"id":11673345,"name":"Viñas-Cué","ascii":"Vinas-Cue","lat":-25.23593,"lng":-57.58141,"population":0,"fcode":"PPLL","municipality":"Asuncion"}
+]

@@ -1,0 +1,22 @@
+[
+{"id":4562484,"name":"Acevedo","lat":18.2619,"lng":-66.98351,"population":0,"fcode":"PPL","municipality":"Maravilla Este Barrio"},
+{"id":4564161,"name":"El Bosque","lat":18.24912,"lng":-66.98934,"population":0,"fcode":"PPL","municipality":"Las Marías Barrio-Pueblo"},
+{"id":4565016,"name":"Francisco Serrano","lat":18.24912,"lng":-66.99351,"population":0,"fcode":"PPL","municipality":"Maravilla Sur Barrio"},
+{"id":4565151,"name":"Hacienda Bermúdez","ascii":"Hacienda Bermudez","lat":18.24801,"lng":-67.07018,"population":0,"fcode":"PPL"},
+{"id":4565155,"name":"Hacienda Buena Vista","lat":18.24968,"lng":-66.95323,"population":0,"fcode":"PPL","municipality":"Buena Vista Barrio"},
+{"id":4565167,"name":"Hacienda Casey","lat":18.25023,"lng":-67.07601,"population":0,"fcode":"PPL","municipality":"Anones Barrio"},
+{"id":4565175,"name":"Hacienda Constancia","lat":18.2119,"lng":-66.94157,"population":0,"fcode":"PPL","municipality":"Cerrote Barrio"},
+{"id":4565192,"name":"Hacienda Esperanza","lat":18.23745,"lng":-67.0449,"population":0,"fcode":"PPL","municipality":"Río Cañas Barrio"},
+{"id":4565193,"name":"Hacienda Esperanza","lat":18.25468,"lng":-67.07212,"population":0,"fcode":"PPL","municipality":"Anones Barrio"},
+{"id":4565196,"name":"Hacienda Espino","lat":18.2494,"lng":-66.92129,"population":0,"fcode":"PPL","municipality":"Espino Barrio"},
+{"id":4565217,"name":"Hacienda Josefa","lat":18.2019,"lng":-66.94823,"population":0,"fcode":"PPL","municipality":"Bucarabones Barrio"},
+{"id":4565219,"name":"Hacienda Juanita","lat":18.23829,"lng":-67.01323,"population":0,"fcode":"PPL","municipality":"Furnias Barrio"},
+{"id":4565233,"name":"Hacienda La Milagrosa","lat":18.21857,"lng":-67.0024,"population":0,"fcode":"PPL","municipality":"Maravilla Sur Barrio"},
+{"id":4565239,"name":"Hacienda Lamberti","lat":18.26134,"lng":-67.06462,"population":0,"fcode":"PPL","municipality":"Anones Barrio"},
+{"id":4565263,"name":"Hacienda Merle","lat":18.22079,"lng":-67.02601,"population":0,"fcode":"PPL","municipality":"Río Cañas Barrio"},
+{"id":4565282,"name":"Hacienda Plato Indio","lat":18.22384,"lng":-67.03351,"population":0,"fcode":"PPL","municipality":"Río Cañas Barrio"},
+{"id":4565958,"name":"Las Marías","ascii":"Las Marias","lat":18.2519,"lng":-66.99212,"population":1031,"fcode":"PPLA","municipality":"Maravilla Sur Barrio"},
+{"id":7276364,"name":"Las Marías Zona Urbana","ascii":"Las Marias Zona Urbana","lat":18.25452,"lng":-66.9867,"population":0,"fcode":"PPL","municipality":"Maravilla Este Barrio"},
+{"id":4566356,"name":"Muñoz Torruellas","ascii":"Munoz Torruellas","lat":18.25468,"lng":-66.98546,"population":0,"fcode":"PPL","municipality":"Maravilla Este Barrio"},
+{"id":4566401,"name":"Naranjales","lat":18.20968,"lng":-66.99879,"population":0,"fcode":"PPL","municipality":"Maravilla Sur Barrio"}
+]

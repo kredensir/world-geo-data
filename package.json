@@ -1,0 +1,14 @@
+{
+  "name": "world-geo-data",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Base de datos geográfica abierta de países, provincias y ciudades",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "validate": "node scripts/validate.js"
+  }
+}

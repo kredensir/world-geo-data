@@ -1,0 +1,16 @@
+[
+{"id":4562592,"name":"Amador","lat":18.47661,"lng":-66.94046,"population":0,"fcode":"PPL","municipality":"Quebradillas Barrio-Pueblo"},
+{"id":4562698,"name":"Avila","lat":18.47328,"lng":-66.93657,"population":0,"fcode":"PPL","municipality":"Quebradillas Barrio-Pueblo"},
+{"id":4563003,"name":"Cacao","lat":18.43661,"lng":-66.93712,"population":2068,"fcode":"PPL","municipality":"San Antonio Barrio"},
+{"id":7275035,"name":"Cacao Comunidad","lat":18.45235,"lng":-66.95592,"population":0,"fcode":"PPL","municipality":"Cacao Barrio"},
+{"id":4564094,"name":"Del Carmen","lat":18.46967,"lng":-66.93712,"population":0,"fcode":"PPL","municipality":"Quebradillas Barrio-Pueblo"},
+{"id":4564907,"name":"Estancias del Rocio","lat":18.47911,"lng":-66.9424,"population":0,"fcode":"PPL","municipality":"Quebradillas Barrio-Pueblo"},
+{"id":4565745,"name":"La Casa de Piedra","lat":18.42578,"lng":-66.92379,"population":0,"fcode":"PPL","municipality":"San Antonio Barrio"},
+{"id":4567552,"name":"Quebradillas","lat":18.47383,"lng":-66.93851,"population":5620,"fcode":"PPLA","municipality":"Quebradillas Barrio-Pueblo"},
+{"id":7276380,"name":"Quebradillas Zona Urbana","lat":18.47317,"lng":-66.93601,"population":0,"fcode":"PPL","municipality":"Quebradillas Barrio-Pueblo"},
+{"id":4568077,"name":"San Antonio","lat":18.43961,"lng":-66.93149,"population":1203,"fcode":"PPL","municipality":"Cacao Barrio"},
+{"id":7275001,"name":"San Antonio Comunidad","lat":18.4382,"lng":-66.93616,"population":0,"fcode":"PPL","municipality":"San Antonio Barrio"},
+{"id":4568166,"name":"San Rafael","lat":18.47661,"lng":-66.94629,"population":0,"fcode":"PPL","municipality":"Terranova Barrio"},
+{"id":4568280,"name":"Sector LaSalle","lat":18.45272,"lng":-66.93657,"population":0,"fcode":"PPL","municipality":"Cacao Barrio"},
+{"id":4568641,"name":"Villa Norma","lat":18.47022,"lng":-66.93101,"population":0,"fcode":"PPL","municipality":"San José Barrio"}
+]

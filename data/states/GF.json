@@ -1,0 +1,15 @@
+[
+  {
+    "code": "GF",
+    "iso": "GF-GF",
+    "name": "Guayana Francesa",
+    "type": "territorio",
+    "admin1": "GF",
+    "id": 6690605,
+    "lat": 3.99929,
+    "lng": -52.99856,
+    "timezone": "America/Cayenne",
+    "population": 292354,
+    "cities_count": 501
+  }
+]

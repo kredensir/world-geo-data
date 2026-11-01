@@ -1,0 +1,17 @@
+[
+{"id":4562573,"name":"Alturas de Cibuco","lat":18.34328,"lng":-66.33156,"population":0,"fcode":"PPL","municipality":"Cibuco Barrio"},
+{"id":4562862,"name":"Berio","lat":18.27051,"lng":-66.34406,"population":0,"fcode":"PPL","municipality":"Palmarito Barrio"},
+{"id":4564003,"name":"Corozal","lat":18.34106,"lng":-66.31684,"population":11297,"fcode":"PPLA","municipality":"Corozal Barrio-Pueblo"},
+{"id":7276423,"name":"Corozal Zona Urbana","lat":18.34102,"lng":-66.31245,"population":0,"fcode":"PPL","municipality":"Corozal Barrio-Pueblo"},
+{"id":4564171,"name":"El Centro","lat":18.34801,"lng":-66.32406,"population":0,"fcode":"PPL","municipality":"Pueblo Barrio"},
+{"id":4564917,"name":"Extension Alturas de Cibuco","lat":18.34551,"lng":-66.33239,"population":0,"fcode":"PPL","municipality":"Cibuco Barrio"},
+{"id":4565728,"name":"La Aldea","lat":18.33856,"lng":-66.31711,"population":0,"fcode":"PPL","municipality":"Corozal Barrio-Pueblo"},
+{"id":4566030,"name":"Loma Linda","lat":18.33634,"lng":-66.32239,"population":0,"fcode":"PPL","municipality":"Dos Bocas Barrio"},
+{"id":4566226,"name":"Medina","lat":18.29829,"lng":-66.2985,"population":0,"fcode":"PPL","municipality":"Palos Blancos Barrio"},
+{"id":4566460,"name":"Ortíz","ascii":"Ortiz","lat":18.32662,"lng":-66.31989,"population":0,"fcode":"PPL","municipality":"Dos Bocas Barrio"},
+{"id":4566467,"name":"Padilla","lat":18.3219,"lng":-66.34461,"population":0,"fcode":"PPL","municipality":"Padilla Barrio"},
+{"id":4566476,"name":"Palmarejo","lat":18.31801,"lng":-66.29711,"population":0,"fcode":"PPL","municipality":"Palmarejo Barrio"},
+{"id":4568094,"name":"San Feliz","lat":18.33745,"lng":-66.32072,"population":0,"fcode":"PPL","municipality":"Corozal Barrio-Pueblo"},
+{"id":4568333,"name":"Silvia","lat":18.3369,"lng":-66.33295,"population":0,"fcode":"PPL","municipality":"Cibuco Barrio"},
+{"id":4568336,"name":"Sobrino","lat":18.33662,"lng":-66.3185,"population":0,"fcode":"PPL","municipality":"Corozal Barrio-Pueblo"}
+]

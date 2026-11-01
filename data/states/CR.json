@@ -1,0 +1,93 @@
+[
+  {
+    "code": "A",
+    "iso": "CR-A",
+    "name": "Alajuela",
+    "type": "provincia",
+    "admin1": "01",
+    "id": 3624953,
+    "lat": 10.5,
+    "lng": -84.5,
+    "timezone": "America/Costa_Rica",
+    "population": 885571,
+    "cities_count": 947
+  },
+  {
+    "code": "C",
+    "iso": "CR-C",
+    "name": "Cartago",
+    "type": "provincia",
+    "admin1": "02",
+    "id": 3624368,
+    "lat": 9.83333,
+    "lng": -83.75,
+    "timezone": "America/Costa_Rica",
+    "population": 490903,
+    "cities_count": 369
+  },
+  {
+    "code": "G",
+    "iso": "CR-G",
+    "name": "Guanacaste",
+    "type": "provincia",
+    "admin1": "03",
+    "id": 3623582,
+    "lat": 10.5,
+    "lng": -85.25,
+    "timezone": "America/Costa_Rica",
+    "population": 354154,
+    "cities_count": 790
+  },
+  {
+    "code": "H",
+    "iso": "CR-H",
+    "name": "Heredia",
+    "type": "provincia",
+    "admin1": "04",
+    "id": 3623484,
+    "lat": 10.33333,
+    "lng": -84,
+    "timezone": "America/Costa_Rica",
+    "population": 433677,
+    "cities_count": 187
+  },
+  {
+    "code": "L",
+    "iso": "CR-L",
+    "name": "Limón",
+    "type": "provincia",
+    "admin1": "06",
+    "id": 3623064,
+    "lat": 10,
+    "lng": -83.21667,
+    "timezone": "America/Costa_Rica",
+    "population": 386862,
+    "cities_count": 566
+  },
+  {
+    "code": "P",
+    "iso": "CR-P",
+    "name": "Puntarenas",
+    "type": "provincia",
+    "admin1": "07",
+    "id": 3622226,
+    "lat": 9.97794,
+    "lng": -84.83068,
+    "timezone": "America/Costa_Rica",
+    "population": 410929,
+    "cities_count": 969
+  },
+  {
+    "code": "SJ",
+    "iso": "CR-SJ",
+    "name": "San José",
+    "type": "provincia",
+    "admin1": "08",
+    "id": 3621837,
+    "lat": 9.66667,
+    "lng": -84,
+    "timezone": "America/Costa_Rica",
+    "population": 1635144,
+    "cities_count": 695
+  }
+]

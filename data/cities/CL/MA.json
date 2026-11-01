@@ -1,0 +1,11 @@
+[
+{"id":3897148,"name":"Cámeron","ascii":"Cameron","lat":-53.63988,"lng":-69.64693,"population":0,"fcode":"PPLA3","municipality":"Provincia de Tierra del Fuego"},
+{"id":12524973,"name":"Clarencia","lat":-52.91973,"lng":-70.04794,"population":0,"fcode":"PPL"},
+{"id":13631345,"name":"Kanasaka","lat":-54.94093,"lng":-68.56618,"population":0,"fcode":"PPL","municipality":"Provincia Antártica Chilena"},
+{"id":3875367,"name":"Porvenir","lat":-53.296,"lng":-70.36629,"population":6809,"fcode":"PPLA2","municipality":"Provincia de Tierra del Fuego"},
+{"id":3874958,"name":"Puerto Natales","lat":-51.72987,"lng":-72.50603,"population":18505,"fcode":"PPL","municipality":"Provincia de Última Esperanza"},
+{"id":3874926,"name":"Puerto Williams","lat":-54.93355,"lng":-67.60963,"population":2000,"fcode":"PPLA2","municipality":"Provincia Antártica Chilena","timezone":"America/Santiago"},
+{"id":3874787,"name":"Punta Arenas","lat":-53.16282,"lng":-70.90922,"population":117430,"fcode":"PPLA","municipality":"Provincia de Magallanes"},
+{"id":11326001,"name":"Timaukel","lat":-53.72566,"lng":-69.99261,"population":204,"fcode":"PPL","municipality":"Provincia de Tierra del Fuego"},
+{"id":7536052,"name":"Torres del Paine","lat":-50.98264,"lng":-72.49877,"population":180,"fcode":"PPL","municipality":"Provincia de Última Esperanza"}
+]
