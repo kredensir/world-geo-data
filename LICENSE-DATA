@@ -1,0 +1,32 @@
+World Geo Data - Licencia de los datos
+=======================================
+
+Los archivos de las carpetas `data/` y `scripts/data/` se distribuyen bajo la licencia
+Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
+Resumen: https://creativecommons.org/licenses/by/4.0/
+Texto legal: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Sos libre de:
+
+- Compartir: copiar y redistribuir el material en cualquier medio o formato.
+- Adaptar: remezclar, transformar y construir a partir del material para
+  cualquier propósito, incluso comercial.
+
+Bajo las siguientes condiciones:
+
+- Atribución: tenés que dar crédito de manera adecuada, brindar un enlace a
+  la licencia e indicar si se hicieron cambios. Podés hacerlo de cualquier
+  manera razonable, pero no de una forma que sugiera que el licenciante te
+  respalda o respalda el uso que hacés del material.
+
+Atribución sugerida:
+
+  "World Geo Data" (https://github.com/kredensir/world-geo-data)
+  Datos base: GeoNames (https://www.geonames.org/), CC BY 4.0.
+  Códigos ISO 3166-2: iso-3166-2.js (MIT).
+  Nombres de países en español: umpirsky/country-list (MIT).
+
+Los datos se proveen "tal cual", sin garantías de exactitud. Para usos
+legales, electorales o administrativos, verificá la información con la
+fuente oficial correspondiente.

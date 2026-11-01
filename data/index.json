@@ -1,0 +1,182 @@
+{
+  "version": "2.0.0",
+  "generated_at": "2026-11-01T23:42:16.689Z",
+  "sources": [
+    {
+      "name": "GeoNames",
+      "url": "https://download.geonames.org/export/dump/",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "name": "iso-3166-2.js",
+      "url": "https://github.com/olahol/iso-3166-2.js",
+      "license": "MIT",
+      "license_url": "https://opensource.org/licenses/MIT"
+    },
+    {
+      "name": "umpirsky/country-list",
+      "url": "https://github.com/umpirsky/country-list",
+      "license": "MIT",
+      "license_url": "https://opensource.org/licenses/MIT"
+    }
+  ],
+  "totals": {
+    "countries": 250,
+    "countries_with_states": 25,
+    "states": 508,
+    "cities": 585789
+  },
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "states": 24,
+      "cities": 14582
+    },
+    {
+      "code": "BZ",
+      "name": "Belice",
+      "states": 6,
+      "cities": 520
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "states": 9,
+      "cities": 25625
+    },
+    {
+      "code": "BR",
+      "name": "Brasil",
+      "states": 27,
+      "cities": 66843
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "states": 16,
+      "cities": 2916
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "states": 33,
+      "cities": 33950
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "states": 7,
+      "cities": 4523
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "states": 16,
+      "cities": 15747
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "states": 24,
+      "cities": 10631
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "states": 14,
+      "cities": 3497
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "states": 22,
+      "cities": 16262
+    },
+    {
+      "code": "GF",
+      "name": "Guayana Francesa",
+      "states": 1,
+      "cities": 501
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "states": 10,
+      "cities": 773
+    },
+    {
+      "code": "HT",
+      "name": "Haití",
+      "states": 10,
+      "cities": 10860
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "states": 18,
+      "cities": 12183
+    },
+    {
+      "code": "MX",
+      "name": "México",
+      "states": 32,
+      "cities": 265545
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "states": 17,
+      "cities": 2355
+    },
+    {
+      "code": "PA",
+      "name": "Panamá",
+      "states": 14,
+      "cities": 11931
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "states": 18,
+      "cities": 4634
+    },
+    {
+      "code": "PE",
+      "name": "Perú",
+      "states": 26,
+      "cities": 46772
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "states": 78,
+      "cities": 2471
+    },
+    {
+      "code": "DO",
+      "name": "República Dominicana",
+      "states": 32,
+      "cities": 7851
+    },
+    {
+      "code": "SR",
+      "name": "Surinam",
+      "states": 10,
+      "cities": 460
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "states": 19,
+      "cities": 1028
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "states": 25,
+      "cities": 23329
+    }
+  ]
+}

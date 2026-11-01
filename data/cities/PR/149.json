@@ -1,0 +1,14 @@
+[
+{"id":4563753,"name":"Céspedes","ascii":"Cespedes","lat":18.13829,"lng":-66.46767,"population":0,"fcode":"PPL","municipality":"Hato Puerco Arriba Barrio"},
+{"id":4563940,"name":"Comunidad Borinquen","lat":18.12663,"lng":-66.49434,"population":0,"fcode":"PPL","municipality":"Villalba Barrio-Pueblo"},
+{"id":4565187,"name":"Hacienda El Semil","lat":18.12913,"lng":-66.52017,"population":0,"fcode":"PPL","municipality":"Villalba Arriba Barrio"},
+{"id":4565246,"name":"Hacienda Limón","ascii":"Hacienda Limon","lat":18.15774,"lng":-66.44517,"population":0,"fcode":"PPL","municipality":"Caonillas Arriba Barrio"},
+{"id":4565626,"name":"Jagueyes","lat":18.11024,"lng":-66.50851,"population":0,"fcode":"PPL","municipality":"Villalba Abajo Barrio"},
+{"id":4566459,"name":"Ortiga","lat":18.16579,"lng":-66.44739,"population":0,"fcode":"PPL","municipality":"Caonillas Arriba Barrio"},
+{"id":4566474,"name":"Palma Sola","lat":18.09496,"lng":-66.45962,"population":0,"fcode":"PPL","municipality":"Caonillas Abajo Barrio"},
+{"id":4567651,"name":"Residencial Efrain Suarez Negron","lat":18.12996,"lng":-66.49545,"population":0,"fcode":"PPL","municipality":"Villalba Barrio-Pueblo"},
+{"id":4568307,"name":"Semil","lat":18.12246,"lng":-66.51656,"population":0,"fcode":"PPL","municipality":"Villalba Arriba Barrio"},
+{"id":4568683,"name":"Villalba","lat":18.12718,"lng":-66.49212,"population":4555,"fcode":"PPLA","municipality":"Villalba Barrio-Pueblo"},
+{"id":7276397,"name":"Villalba Zona Urbana","lat":18.12789,"lng":-66.48147,"population":0,"fcode":"PPL","municipality":"Hato Puerco Arriba Barrio"},
+{"id":4568712,"name":"Vista Bella","lat":18.12802,"lng":-66.49601,"population":0,"fcode":"PPL","municipality":"Villalba Arriba Barrio"}
+]

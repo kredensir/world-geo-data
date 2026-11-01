@@ -1,0 +1,22 @@
+[
+{"id":4562830,"name":"Bay View","lat":18.44689,"lng":-66.13489,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4563298,"name":"Cataño","ascii":"Catano","lat":18.44134,"lng":-66.11822,"population":28093,"fcode":"PPLA","municipality":"Cataño Barrio-Pueblo"},
+{"id":7276416,"name":"Cataño Zona Urbana","ascii":"Catano Zona Urbana","lat":18.44157,"lng":-66.13884,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4563989,"name":"Coqui II","lat":18.43495,"lng":-66.13433,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4564049,"name":"Cucharillas","lat":18.4355,"lng":-66.15378,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4564146,"name":"Dos Rios","lat":18.43411,"lng":-66.16683,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4564260,"name":"Enramada","lat":18.42911,"lng":-66.16239,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4565715,"name":"Juana Matos","lat":18.43661,"lng":-66.12989,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4565976,"name":"Las Palmas","lat":18.42384,"lng":-66.14406,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4565993,"name":"Las Vegas","lat":18.43134,"lng":-66.14517,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4566147,"name":"Mansion del Norte","lat":18.44078,"lng":-66.16267,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4566148,"name":"Mansion del Rio","lat":18.43884,"lng":-66.16322,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4566149,"name":"Mansion del Sur","lat":18.43495,"lng":-66.16267,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4566183,"name":"Marina Bahia","lat":18.45189,"lng":-66.14683,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4566921,"name":"Puente Blanco","lat":18.42717,"lng":-66.13489,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4567653,"name":"Residencial El Coqui","lat":18.43856,"lng":-66.12961,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4567677,"name":"Residencial Juana Matos","lat":18.43634,"lng":-66.12878,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4567695,"name":"Residencial Matienzo Cintron","lat":18.4405,"lng":-66.12378,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4568573,"name":"Valparaiso","lat":18.43134,"lng":-66.16544,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"},
+{"id":4568719,"name":"Vista del Morro","lat":18.44883,"lng":-66.14961,"population":0,"fcode":"PPL","municipality":"Palmas Barrio"}
+]

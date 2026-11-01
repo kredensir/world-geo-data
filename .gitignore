@@ -1,0 +1,10 @@
+# Dependencias
+node_modules/
+
+# Cache de fuentes (GeoNames, etc.)
+.cache/
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+*.log

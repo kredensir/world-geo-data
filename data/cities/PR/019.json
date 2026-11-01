@@ -1,0 +1,18 @@
+[
+{"id":4562551,"name":"Almira","lat":18.43689,"lng":-66.17072,"population":0,"fcode":"PPL"},
+{"id":4562774,"name":"Barrancas","lat":18.22357,"lng":-66.3135,"population":0,"fcode":"PPL","municipality":"Barrancas Barrio"},
+{"id":4562778,"name":"Barranquitas","lat":18.18662,"lng":-66.30628,"population":3021,"fcode":"PPLA","municipality":"Barranquitas Barrio-Pueblo"},
+{"id":7276409,"name":"Barranquitas Zona Urbana","lat":18.18476,"lng":-66.31017,"population":0,"fcode":"PPL","municipality":"Barranquitas Barrio-Pueblo"},
+{"id":4562959,"name":"Brisas de Aibonito","lat":18.13357,"lng":-66.25322,"population":0,"fcode":"PPL"},
+{"id":4563250,"name":"Carro","lat":18.18968,"lng":-66.33795,"population":0,"fcode":"PPL","municipality":"Palo Hincado Barrio"},
+{"id":4564169,"name":"El Cartijo","lat":18.18274,"lng":-66.30989,"population":0,"fcode":"PPL","municipality":"Barranquitas Barrio-Pueblo"},
+{"id":4565361,"name":"Helechal","lat":18.15968,"lng":-66.31045,"population":0,"fcode":"PPL","municipality":"Helechal Barrio"},
+{"id":4565827,"name":"La Vega","lat":18.18829,"lng":-66.31656,"population":0,"fcode":"PPL","municipality":"Barranquitas Barrio-Pueblo"},
+{"id":4565940,"name":"Las Flores","lat":18.1819,"lng":-66.30295,"population":0,"fcode":"PPL","municipality":"Barranquitas Barrio-Pueblo"},
+{"id":4565985,"name":"Las Quintas","lat":18.13774,"lng":-66.25183,"population":0,"fcode":"PPL"},
+{"id":4567177,"name":"Quebrada Grande","lat":18.18468,"lng":-66.27628,"population":0,"fcode":"PPL","municipality":"Honduras Barrio"},
+{"id":4567605,"name":"Reparto Colinas de Monte Verde","lat":18.19079,"lng":-66.30989,"population":0,"fcode":"PPL","municipality":"Barrancas Barrio"},
+{"id":4567707,"name":"Residencial Villa Universidad","lat":18.18246,"lng":-66.30434,"population":0,"fcode":"PPL","municipality":"Barranquitas Barrio-Pueblo"},
+{"id":4568302,"name":"Sector Villa Casino","lat":18.18607,"lng":-66.29378,"population":0,"fcode":"PPL","municipality":"Quebrada Grande Barrio"},
+{"id":4568654,"name":"Villa Ronga","lat":18.1844,"lng":-66.311,"population":0,"fcode":"PPL","municipality":"Barranquitas Barrio-Pueblo"}
+]

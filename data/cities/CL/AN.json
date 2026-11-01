@@ -1,0 +1,16 @@
+[
+{"id":3899539,"name":"Antofagasta","lat":-23.65094,"lng":-70.39752,"population":401096,"fcode":"PPLA","municipality":"Provincia de Antofagasta"},
+{"id":3898793,"name":"Baquedano","lat":-23.33374,"lng":-69.84055,"population":858,"fcode":"PPLA3","municipality":"Provincia de Antofagasta"},
+{"id":3897347,"name":"Calama","lat":-22.45667,"lng":-68.92371,"population":166334,"fcode":"PPLA2","municipality":"Provincia de El Loa"},
+{"id":8658761,"name":"Caleta El Rio","lat":-22.34646,"lng":-70.24886,"population":0,"fcode":"PPLL","municipality":"Provincia de Tocopilla"},
+{"id":12368423,"name":"El Vigía","ascii":"El Vigia","lat":-24.37387,"lng":-70.54967,"population":0,"fcode":"PPL"},
+{"id":8365495,"name":"Lever","lat":-23.31296,"lng":-67.10683,"population":0,"fcode":"PPLL","municipality":"Provincia de El Loa"},
+{"id":3878253,"name":"María Elena","ascii":"Maria Elena","lat":-22.34449,"lng":-69.66178,"population":7530,"fcode":"PPL","municipality":"Provincia de Tocopilla"},
+{"id":3880143,"name":"Mejillones","lat":-23.10003,"lng":-70.44703,"population":14084,"fcode":"PPL","municipality":"Provincia de Antofagasta"},
+{"id":3878084,"name":"Ollagüe","ascii":"Ollaguee","lat":-21.22496,"lng":-68.25352,"population":199,"fcode":"PPL","municipality":"Provincia de El Loa"},
+{"id":3874193,"name":"Quillagua","lat":-21.65748,"lng":-69.53468,"population":141,"fcode":"PPL","municipality":"Provincia de Tocopilla"},
+{"id":3871781,"name":"San Pedro de Atacama","lat":-22.9111,"lng":-68.20113,"population":10960,"fcode":"PPL","municipality":"Provincia de El Loa"},
+{"id":3870907,"name":"Sierra Gorda","lat":-22.89061,"lng":-69.31959,"population":1069,"fcode":"PPL","municipality":"Provincia de Antofagasta"},
+{"id":3870243,"name":"Taltal","lat":-25.40713,"lng":-70.48554,"population":11132,"fcode":"PPL","municipality":"Provincia de Antofagasta"},
+{"id":3869716,"name":"Tocopilla","lat":-22.09198,"lng":-70.19792,"population":25400,"fcode":"PPLA2","municipality":"Provincia de Tocopilla"}
+]

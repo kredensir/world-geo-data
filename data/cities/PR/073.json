@@ -1,0 +1,21 @@
+[
+{"id":4050322,"name":"Coabey","lat":18.20746,"lng":-66.56073,"population":0,"fcode":"PPL","municipality":"Coabey Barrio"},
+{"id":4563902,"name":"Collores","lat":18.19829,"lng":-66.62212,"population":0,"fcode":"PPL","municipality":"Collores Barrio"},
+{"id":4565184,"name":"Hacienda El Banco","lat":18.17218,"lng":-66.65156,"population":0,"fcode":"PPL","municipality":"Pica Barrio"},
+{"id":4565211,"name":"Hacienda Gripiñas","ascii":"Hacienda Gripinas","lat":18.19579,"lng":-66.57656,"population":0,"fcode":"PPL","municipality":"Veguitas Barrio"},
+{"id":4565216,"name":"Hacienda Jauca","lat":18.18496,"lng":-66.64017,"population":0,"fcode":"PPL","municipality":"Jauca Barrio"},
+{"id":4565245,"name":"Hacienda Limón","ascii":"Hacienda Limon","lat":18.27884,"lng":-66.59378,"population":0,"fcode":"PPL","municipality":"Mameyes Arriba Barrio"},
+{"id":4565248,"name":"Hacienda Los Planes","lat":18.19024,"lng":-66.58823,"population":0,"fcode":"PPL","municipality":"Veguitas Barrio"},
+{"id":4565313,"name":"Hacienda Santa Bárbara","ascii":"Hacienda Santa Barbara","lat":18.25384,"lng":-66.56267,"population":0,"fcode":"PPL","municipality":"Mameyes Arriba Barrio"},
+{"id":4565323,"name":"Hacienda Santa Rosa","lat":18.18357,"lng":-66.62045,"population":0,"fcode":"PPL","municipality":"Collores Barrio"},
+{"id":4565335,"name":"Hacienda Vega Grande","lat":18.2744,"lng":-66.58101,"population":0,"fcode":"PPL","municipality":"Mameyes Arriba Barrio"},
+{"id":4565679,"name":"Jayuya","lat":18.21857,"lng":-66.59156,"population":3587,"fcode":"PPLA","municipality":"Jayuya Barrio-Pueblo"},
+{"id":4565680,"name":"Jayuya Abajo","lat":18.21801,"lng":-66.61545,"population":0,"fcode":"PPL","municipality":"Jayuya Abajo Barrio"},
+{"id":7276437,"name":"Jayuya Zona Urbana","lat":18.21888,"lng":-66.59682,"population":0,"fcode":"PPL","municipality":"Jayuya Abajo Barrio"},
+{"id":4565790,"name":"La Monserrate","lat":18.21496,"lng":-66.59351,"population":0,"fcode":"PPL","municipality":"Veguitas Barrio"},
+{"id":4565799,"name":"La Pica","lat":18.15885,"lng":-66.64962,"population":0,"fcode":"PPL"},
+{"id":4567680,"name":"Residencial La Montana","lat":18.21718,"lng":-66.59795,"population":0,"fcode":"PPL","municipality":"Jayuya Abajo Barrio"},
+{"id":4567696,"name":"Residencial Mattei","lat":18.21968,"lng":-66.58962,"population":0,"fcode":"PPL","municipality":"Jayuya Barrio-Pueblo"},
+{"id":4568196,"name":"Santa Bárbara","ascii":"Santa Barbara","lat":18.21773,"lng":-66.60573,"population":0,"fcode":"PPL","municipality":"Jayuya Abajo Barrio"},
+{"id":4568536,"name":"Vega Linda","lat":18.21746,"lng":-66.59128,"population":0,"fcode":"PPL","municipality":"Veguitas Barrio"}
+]

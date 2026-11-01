@@ -1,0 +1,21 @@
+[
+{"id":4564018,"name":"Costa Brava","lat":18.50522,"lng":-67.03129,"population":0,"fcode":"PPL","municipality":"Isabela Barrio-Pueblo"},
+{"id":4565577,"name":"Isabela","lat":18.50078,"lng":-67.02435,"population":12505,"fcode":"PPLA","municipality":"Isabela Barrio-Pueblo"},
+{"id":7276436,"name":"Isabela Zona Urbana","lat":18.50159,"lng":-67.02338,"population":0,"fcode":"PPL","municipality":"Isabela Barrio-Pueblo"},
+{"id":4565630,"name":"Jardin Caribe","lat":18.50022,"lng":-67.02879,"population":0,"fcode":"PPL","municipality":"Isabela Barrio-Pueblo"},
+{"id":4565673,"name":"Jardines del Noreste","lat":18.50189,"lng":-67.02962,"population":0,"fcode":"PPL","municipality":"Isabela Barrio-Pueblo"},
+{"id":4565828,"name":"La Vega","lat":18.40245,"lng":-67.0024,"population":0,"fcode":"PPL","municipality":"Galateo Alto Barrio"},
+{"id":4565905,"name":"Lamela","lat":18.50494,"lng":-67.0274,"population":0,"fcode":"PPL","municipality":"Isabela Barrio-Pueblo"},
+{"id":4566062,"name":"Los Flamboyanes","lat":18.49522,"lng":-67.01435,"population":0,"fcode":"PPL","municipality":"Isabela Barrio-Pueblo"},
+{"id":4566330,"name":"Mora","lat":18.463,"lng":-67.03268,"population":1857,"fcode":"PPL","municipality":"Guerrero Barrio"},
+{"id":7274958,"name":"Mora Comunidad","lat":18.46253,"lng":-67.03223,"population":0,"fcode":"PPL","municipality":"Guerrero Barrio"},
+{"id":4566912,"name":"Pueblito de Ponce","lat":18.43383,"lng":-66.9674,"population":0,"fcode":"PPL","municipality":"Llanadas Barrio"},
+{"id":4567616,"name":"Reparto Miraflores","lat":18.49133,"lng":-67.02685,"population":0,"fcode":"PPL","municipality":"Mora Barrio"},
+{"id":4568195,"name":"Santa Barbara","lat":18.50078,"lng":-67.03518,"population":0,"fcode":"PPL","municipality":"Isabela Barrio-Pueblo"},
+{"id":4568274,"name":"Sector Florida","lat":18.49467,"lng":-67.02962,"population":0,"fcode":"PPL","municipality":"Bejucos Barrio"},
+{"id":4568283,"name":"Sector Loma Santa","lat":18.4905,"lng":-67.02962,"population":0,"fcode":"PPL","municipality":"Bejucos Barrio"},
+{"id":4568337,"name":"Sol y Mar","lat":18.48522,"lng":-67.01073,"population":0,"fcode":"PPL","municipality":"Mora Barrio"},
+{"id":4568669,"name":"Villa de Espana","lat":18.49605,"lng":-67.02601,"population":0,"fcode":"PPL","municipality":"Isabela Barrio-Pueblo"},
+{"id":4568649,"name":"Villa Pesquera","lat":18.50633,"lng":-67.02324,"population":0,"fcode":"PPL","municipality":"Guayabos Barrio"},
+{"id":4568728,"name":"Vistas de Medina","lat":18.49105,"lng":-67.01185,"population":0,"fcode":"PPL","municipality":"Mora Barrio"}
+]

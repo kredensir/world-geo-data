@@ -1,0 +1,18 @@
+[
+{"id":3660452,"name":"Ayangue","lat":-1.97795,"lng":-80.75237,"population":0,"fcode":"PPL"},
+{"id":3745527,"name":"Ballenita","lat":-2.20528,"lng":-80.87305,"population":0,"fcode":"PPL","municipality":"Santa Elena"},
+{"id":3660319,"name":"Barcelona","lat":-1.93579,"lng":-80.6866,"population":0,"fcode":"PPL"},
+{"id":3659963,"name":"Cadeate","lat":-1.86936,"lng":-80.73837,"population":0,"fcode":"PPL"},
+{"id":3659210,"name":"Chinchipe","lat":-2.19951,"lng":-80.9822,"population":0,"fcode":"PPL","municipality":"Salinas"},
+{"id":3746142,"name":"La Curia","lat":-1.77457,"lng":-80.76499,"population":0,"fcode":"PPL"},
+{"id":3746164,"name":"Libertador Bolívar","ascii":"Libertador Bolivar","lat":-1.88203,"lng":-80.73418,"population":0,"fcode":"PPL"},
+{"id":3654059,"name":"Montañita","ascii":"Montanita","lat":-1.82736,"lng":-80.75293,"population":0,"fcode":"PPL"},
+{"id":3653731,"name":"Olón","ascii":"Olon","lat":-1.79772,"lng":-80.75734,"population":0,"fcode":"PPL"},
+{"id":3652100,"name":"Salinas","lat":-2.21452,"lng":-80.95151,"population":43862,"fcode":"PPL","municipality":"Salinas"},
+{"id":3652015,"name":"San Antonio","lat":-1.87361,"lng":-80.73595,"population":0,"fcode":"PPL"},
+{"id":3654909,"name":"San Francisco de Las Núñez","ascii":"San Francisco de Las Nunez","lat":-1.74256,"lng":-80.77647,"population":0,"fcode":"PPL"},
+{"id":3651791,"name":"San José de Ancón","ascii":"San Jose de Ancon","lat":-1.75991,"lng":-80.76901,"population":0,"fcode":"PPLA3"},
+{"id":3651438,"name":"Santa Elena","lat":-2.22652,"lng":-80.85807,"population":42214,"fcode":"PPLA","municipality":"Santa Elena"},
+{"id":3651035,"name":"Sinchal","lat":-1.94003,"lng":-80.69779,"population":0,"fcode":"PPL"},
+{"id":3650307,"name":"Valdivia","lat":-1.94051,"lng":-80.72422,"population":0,"fcode":"PPL"}
+]

@@ -1,0 +1,10 @@
+[
+{"id":4563445,"name":"Centro Calvache","lat":18.31356,"lng":-67.22685,"population":0,"fcode":"PPL","municipality":"Calvache Barrio"},
+{"id":4563484,"name":"Centro Puntas","lat":18.36328,"lng":-67.26351,"population":0,"fcode":"PPL","municipality":"Puntas Barrio"},
+{"id":4563991,"name":"Córcega","ascii":"Corcega","lat":18.31773,"lng":-67.2424,"population":0,"fcode":"PPL","municipality":"Calvache Barrio"},
+{"id":4566706,"name":"Pico Alalaya","lat":18.343,"lng":-67.2449,"population":0,"fcode":"PPL","municipality":"Ensenada Barrio"},
+{"id":4567723,"name":"Rincón","ascii":"Rincon","lat":18.34023,"lng":-67.2499,"population":1499,"fcode":"PPLA","municipality":"Rincón Barrio-Pueblo"},
+{"id":7276381,"name":"Rincón Zona Urbana","ascii":"Rincon Zona Urbana","lat":18.33881,"lng":-67.25163,"population":0,"fcode":"PPL","municipality":"Rincón Barrio-Pueblo"},
+{"id":4568347,"name":"Stella","lat":18.32189,"lng":-67.24685,"population":1293,"fcode":"PPL","municipality":"Pueblo Barrio"},
+{"id":7275007,"name":"Stella Comunidad","lat":18.32293,"lng":-67.24709,"population":0,"fcode":"PPL","municipality":"Pueblo Barrio"}
+]

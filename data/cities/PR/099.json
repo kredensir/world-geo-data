@@ -1,0 +1,18 @@
+[
+{"id":4562483,"name":"Aceitunas","lat":18.44328,"lng":-67.0649,"population":1688,"fcode":"PPL","municipality":"Aceitunas Barrio"},
+{"id":7275016,"name":"Aceitunas Comunidad","lat":18.44555,"lng":-67.06693,"population":0,"fcode":"PPL","municipality":"Aceitunas Barrio"},
+{"id":4563183,"name":"Capá","ascii":"Capa","lat":18.37689,"lng":-67.0574,"population":0,"fcode":"PPL","municipality":"Capá Barrio"},
+{"id":4563952,"name":"Comunidad Ramos","lat":18.39411,"lng":-67.11407,"population":0,"fcode":"PPL","municipality":"Moca Barrio-Pueblo"},
+{"id":4563954,"name":"Comunidad Sabana","lat":18.39217,"lng":-67.11824,"population":0,"fcode":"PPL","municipality":"Moca Barrio-Pueblo"},
+{"id":4829034,"name":"Cuba","lat":18.39189,"lng":-67.1049,"population":0,"fcode":"PPL","municipality":"Pueblo Barrio"},
+{"id":4565608,"name":"Isleta","lat":18.37356,"lng":-67.10851,"population":0,"fcode":"PPL","municipality":"Cruz Barrio"},
+{"id":4565791,"name":"La Monserrate","lat":18.39939,"lng":-67.1149,"population":0,"fcode":"PPL","municipality":"Pueblo Barrio"},
+{"id":4565977,"name":"Las Palmas","lat":18.39634,"lng":-67.11796,"population":0,"fcode":"PPL","municipality":"Pueblo Barrio"},
+{"id":4566087,"name":"Los Robles","lat":18.39495,"lng":-67.12018,"population":0,"fcode":"PPL","municipality":"Pueblo Barrio"},
+{"id":4566270,"name":"Moca","lat":18.39467,"lng":-67.11324,"population":4964,"fcode":"PPLA","municipality":"Moca Barrio-Pueblo"},
+{"id":4566271,"name":"Moca Gardens","lat":18.39078,"lng":-67.1074,"population":0,"fcode":"PPL","municipality":"Pueblo Barrio"},
+{"id":7276372,"name":"Moca Zona Urbana","lat":18.39707,"lng":-67.11543,"population":0,"fcode":"PPL","municipality":"Pueblo Barrio"},
+{"id":4568148,"name":"San Lorenzo","lat":18.36856,"lng":-67.10851,"population":0,"fcode":"PPL","municipality":"Cruz Barrio"},
+{"id":4568605,"name":"Villa Deloamit","lat":18.39967,"lng":-67.11685,"population":0,"fcode":"PPL","municipality":"Pueblo Barrio"},
+{"id":4568662,"name":"Villa Soto","lat":18.39772,"lng":-67.11268,"population":0,"fcode":"PPL","municipality":"Pueblo Barrio"}
+]

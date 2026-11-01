@@ -1,0 +1,17 @@
+[
+{"id":4563914,"name":"Columbia","lat":18.00441,"lng":-65.90655,"population":0,"fcode":"PPL","municipality":"Calzada Barrio"},
+{"id":4564256,"name":"Emajagua","lat":18.00052,"lng":-65.88266,"population":3099,"fcode":"PPL","municipality":"Emajagua Barrio"},
+{"id":7275059,"name":"Emajagua Comunidad","lat":18.00152,"lng":-65.88296,"population":0,"fcode":"PPL","municipality":"Emajagua Barrio"},
+{"id":4565047,"name":"Garona","lat":18.0108,"lng":-65.926,"population":0,"fcode":"PPL","municipality":"Tumbao Barrio"},
+{"id":4565633,"name":"Jardines Los Almendros","lat":18.0183,"lng":-65.906,"population":0,"fcode":"PPL","municipality":"Talante Barrio"},
+{"id":4566208,"name":"Maunabo","lat":18.00719,"lng":-65.89933,"population":2154,"fcode":"PPLA","municipality":"Maunabo Barrio-Pueblo"},
+{"id":7276370,"name":"Maunabo Zona Urbana","lat":18.00568,"lng":-65.90108,"population":0,"fcode":"PPL","municipality":"Maunabo Barrio-Pueblo"},
+{"id":4566255,"name":"Minima Calimano","lat":18.00886,"lng":-65.896,"population":0,"fcode":"PPL","municipality":"Quebrada Arenas Barrio"},
+{"id":4566492,"name":"Palo Seco","lat":18.00747,"lng":-65.93683,"population":1152,"fcode":"PPL","municipality":"Palo Seco Barrio"},
+{"id":7274966,"name":"Palo Seco Comunidad","lat":18.00929,"lng":-65.93699,"population":0,"fcode":"PPL","municipality":"Palo Seco Barrio"},
+{"id":4566942,"name":"Puerto Maunabo","lat":17.99219,"lng":-65.88766,"population":0,"fcode":"PPL","municipality":"Emajagua Barrio"},
+{"id":4567645,"name":"Residencial Carmen H Martorell","lat":18.00608,"lng":-65.89933,"population":0,"fcode":"PPL","municipality":"Maunabo Barrio-Pueblo"},
+{"id":4568165,"name":"San Pedro","lat":18.00469,"lng":-65.8985,"population":0,"fcode":"PPL","municipality":"Emajagua Barrio"},
+{"id":4568639,"name":"Villa Navarro","lat":18.00469,"lng":-65.89572,"population":0,"fcode":"PPL","municipality":"Quebrada Arenas Barrio"},
+{"id":4568709,"name":"Vista Alegre","lat":18.01163,"lng":-65.89766,"population":0,"fcode":"PPL","municipality":"Talante Barrio"}
+]

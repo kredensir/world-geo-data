@@ -1,0 +1,16 @@
+[
+{"id":4563048,"name":"Campamento Real","lat":18.07496,"lng":-66.05516,"population":0,"fcode":"PPL","municipality":"Muñoz Rivera Barrio"},
+{"id":4564233,"name":"El Remanso","lat":18.00635,"lng":-66.01989,"population":0,"fcode":"PPL","municipality":"Cacao Alto Barrio"},
+{"id":4565305,"name":"Hacienda San Isidoro","lat":17.97774,"lng":-65.97239,"population":0,"fcode":"PPL","municipality":"Jacaboa Barrio"},
+{"id":4565904,"name":"Lamboglia","lat":17.98136,"lng":-65.98572,"population":1121,"fcode":"PPL","municipality":"Bajo Barrio"},
+{"id":7274938,"name":"Lamboglia Comunidad","lat":17.98476,"lng":-65.98508,"population":0,"fcode":"PPL","municipality":"Bajo Barrio"},
+{"id":4566173,"name":"Marian I","lat":18.00719,"lng":-66.01044,"population":0,"fcode":"PPL","municipality":"Mamey Barrio"},
+{"id":4566652,"name":"Patillas","lat":18.00635,"lng":-66.01572,"population":4247,"fcode":"PPLA","municipality":"Patillas Barrio-Pueblo"},
+{"id":7276377,"name":"Patillas Zona Urbana","lat":18.00687,"lng":-66.01338,"population":0,"fcode":"PPL","municipality":"Patillas Barrio-Pueblo"},
+{"id":4566909,"name":"Providencia","lat":17.98747,"lng":-66.0035,"population":0,"fcode":"PPL","municipality":"Pollos Barrio"},
+{"id":4567596,"name":"Recio","lat":17.97163,"lng":-65.95822,"population":0,"fcode":"PPL","municipality":"Guardarraya Barrio"},
+{"id":4567708,"name":"Residencial Villa del Caribe","lat":18.00552,"lng":-66.01294,"population":0,"fcode":"PPL","municipality":"Patillas Barrio-Pueblo"},
+{"id":4568084,"name":"San Benito","lat":18.00385,"lng":-66.01127,"population":0,"fcode":"PPL","municipality":"Patillas Barrio-Pueblo"},
+{"id":4568120,"name":"San Jose","lat":18.01219,"lng":-66.016,"population":0,"fcode":"PPL","municipality":"Patillas Barrio-Pueblo"},
+{"id":4568505,"name":"Valle Alto","lat":18.01247,"lng":-66.01989,"population":0,"fcode":"PPL","municipality":"Patillas Barrio-Pueblo"}
+]

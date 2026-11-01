@@ -1,0 +1,4116 @@
+{
+  "AR": [
+    {
+      "admin1": "01",
+      "code": "B",
+      "iso": "AR-B",
+      "name": "Buenos Aires",
+      "type": "provincia",
+      "id": 3435907
+    },
+    {
+      "admin1": "02",
+      "code": "K",
+      "iso": "AR-K",
+      "name": "Catamarca",
+      "type": "provincia",
+      "id": 3862286
+    },
+    {
+      "admin1": "03",
+      "code": "H",
+      "iso": "AR-H",
+      "name": "Chaco",
+      "type": "provincia",
+      "id": 3861887
+    },
+    {
+      "admin1": "04",
+      "code": "U",
+      "iso": "AR-U",
+      "name": "Chubut",
+      "type": "provincia",
+      "id": 3861244
+    },
+    {
+      "admin1": "07",
+      "code": "C",
+      "iso": "AR-C",
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "type": "ciudad",
+      "id": 3433955
+    },
+    {
+      "admin1": "05",
+      "code": "X",
+      "iso": "AR-X",
+      "name": "Córdoba",
+      "type": "provincia",
+      "id": 3860255
+    },
+    {
+      "admin1": "06",
+      "code": "W",
+      "iso": "AR-W",
+      "name": "Corrientes",
+      "type": "provincia",
+      "id": 3435214
+    },
+    {
+      "admin1": "08",
+      "code": "E",
+      "iso": "AR-E",
+      "name": "Entre Ríos",
+      "type": "provincia",
+      "id": 3434137
+    },
+    {
+      "admin1": "09",
+      "code": "P",
+      "iso": "AR-P",
+      "name": "Formosa",
+      "type": "provincia",
+      "id": 3433896
+    },
+    {
+      "admin1": "10",
+      "code": "Y",
+      "iso": "AR-Y",
+      "name": "Jujuy",
+      "type": "provincia",
+      "id": 3853404
+    },
+    {
+      "admin1": "11",
+      "code": "L",
+      "iso": "AR-L",
+      "name": "La Pampa",
+      "type": "provincia",
+      "id": 3849574
+    },
+    {
+      "admin1": "12",
+      "code": "F",
+      "iso": "AR-F",
+      "name": "La Rioja",
+      "type": "provincia",
+      "id": 3848949
+    },
+    {
+      "admin1": "13",
+      "code": "M",
+      "iso": "AR-M",
+      "name": "Mendoza",
+      "type": "provincia",
+      "id": 3844419
+    },
+    {
+      "admin1": "14",
+      "code": "N",
+      "iso": "AR-N",
+      "name": "Misiones",
+      "type": "provincia",
+      "id": 3430657
+    },
+    {
+      "admin1": "15",
+      "code": "Q",
+      "iso": "AR-Q",
+      "name": "Neuquén",
+      "type": "provincia",
+      "id": 3843122
+    },
+    {
+      "admin1": "16",
+      "code": "R",
+      "iso": "AR-R",
+      "name": "Río Negro",
+      "type": "provincia",
+      "id": 3838830
+    },
+    {
+      "admin1": "17",
+      "code": "A",
+      "iso": "AR-A",
+      "name": "Salta",
+      "type": "provincia",
+      "id": 3838231
+    },
+    {
+      "admin1": "18",
+      "code": "J",
+      "iso": "AR-J",
+      "name": "San Juan",
+      "type": "provincia",
+      "id": 3837152
+    },
+    {
+      "admin1": "19",
+      "code": "D",
+      "iso": "AR-D",
+      "name": "San Luis",
+      "type": "provincia",
+      "id": 3837029
+    },
+    {
+      "admin1": "20",
+      "code": "Z",
+      "iso": "AR-Z",
+      "name": "Santa Cruz",
+      "type": "provincia",
+      "id": 3836350
+    },
+    {
+      "admin1": "21",
+      "code": "S",
+      "iso": "AR-S",
+      "name": "Santa Fe",
+      "type": "provincia",
+      "id": 3836276
+    },
+    {
+      "admin1": "22",
+      "code": "G",
+      "iso": "AR-G",
+      "name": "Santiago del Estero",
+      "type": "provincia",
+      "id": 3835868
+    },
+    {
+      "admin1": "23",
+      "code": "V",
+      "iso": "AR-V",
+      "name": "Tierra del Fuego",
+      "type": "provincia",
+      "id": 3834450
+    },
+    {
+      "admin1": "24",
+      "code": "T",
+      "iso": "AR-T",
+      "name": "Tucumán",
+      "type": "provincia",
+      "id": 3833578
+    }
+  ],
+  "BO": [
+    {
+      "admin1": "03",
+      "code": "B",
+      "iso": "BO-B",
+      "name": "Beni",
+      "type": "departamento",
+      "id": 3923172
+    },
+    {
+      "admin1": "01",
+      "code": "H",
+      "iso": "BO-H",
+      "name": "Chuquisaca",
+      "type": "departamento",
+      "id": 3920177
+    },
+    {
+      "admin1": "02",
+      "code": "C",
+      "iso": "BO-C",
+      "name": "Cochabamba",
+      "type": "departamento",
+      "id": 3919966
+    },
+    {
+      "admin1": "04",
+      "code": "L",
+      "iso": "BO-L",
+      "name": "La Paz",
+      "type": "departamento",
+      "id": 3911924
+    },
+    {
+      "admin1": "05",
+      "code": "O",
+      "iso": "BO-O",
+      "name": "Oruro",
+      "type": "departamento",
+      "id": 3909233
+    },
+    {
+      "admin1": "06",
+      "code": "N",
+      "iso": "BO-N",
+      "name": "Pando",
+      "type": "departamento",
+      "id": 3908600
+    },
+    {
+      "admin1": "07",
+      "code": "P",
+      "iso": "BO-P",
+      "name": "Potosí",
+      "type": "departamento",
+      "id": 3907580
+    },
+    {
+      "admin1": "08",
+      "code": "S",
+      "iso": "BO-S",
+      "name": "Santa Cruz",
+      "type": "departamento",
+      "id": 3904907
+    },
+    {
+      "admin1": "09",
+      "code": "T",
+      "iso": "BO-T",
+      "name": "Tarija",
+      "type": "departamento",
+      "id": 3903319
+    }
+  ],
+  "BR": [
+    {
+      "admin1": "01",
+      "code": "AC",
+      "iso": "BR-AC",
+      "name": "Acre",
+      "type": "estado",
+      "id": 3665474
+    },
+    {
+      "admin1": "02",
+      "code": "AL",
+      "iso": "BR-AL",
+      "name": "Alagoas",
+      "type": "estado",
+      "id": 3408096
+    },
+    {
+      "admin1": "03",
+      "code": "AP",
+      "iso": "BR-AP",
+      "name": "Amapá",
+      "type": "estado",
+      "id": 3407762
+    },
+    {
+      "admin1": "04",
+      "code": "AM",
+      "iso": "BR-AM",
+      "name": "Amazonas",
+      "type": "estado",
+      "id": 3665361
+    },
+    {
+      "admin1": "05",
+      "code": "BA",
+      "iso": "BR-BA",
+      "name": "Bahia",
+      "type": "estado",
+      "id": 3471168
+    },
+    {
+      "admin1": "06",
+      "code": "CE",
+      "iso": "BR-CE",
+      "name": "Ceará",
+      "type": "estado",
+      "id": 3402362
+    },
+    {
+      "admin1": "07",
+      "code": "DF",
+      "iso": "BR-DF",
+      "name": "Distrito Federal",
+      "type": "distrito federal",
+      "id": 3463504
+    },
+    {
+      "admin1": "08",
+      "code": "ES",
+      "iso": "BR-ES",
+      "name": "Espírito Santo",
+      "type": "estado",
+      "id": 3463930
+    },
+    {
+      "admin1": "29",
+      "code": "GO",
+      "iso": "BR-GO",
+      "name": "Goiás",
+      "type": "estado",
+      "id": 3462372
+    },
+    {
+      "admin1": "13",
+      "code": "MA",
+      "iso": "BR-MA",
+      "name": "Maranhão",
+      "type": "estado",
+      "id": 3395443
+    },
+    {
+      "admin1": "14",
+      "code": "MT",
+      "iso": "BR-MT",
+      "name": "Mato Grosso",
+      "type": "estado",
+      "id": 3457419
+    },
+    {
+      "admin1": "11",
+      "code": "MS",
+      "iso": "BR-MS",
+      "name": "Mato Grosso do Sul",
+      "type": "estado",
+      "id": 3457415
+    },
+    {
+      "admin1": "15",
+      "code": "MG",
+      "iso": "BR-MG",
+      "name": "Minas Gerais",
+      "type": "estado",
+      "id": 3457153
+    },
+    {
+      "admin1": "16",
+      "code": "PA",
+      "iso": "BR-PA",
+      "name": "Pará",
+      "type": "estado",
+      "id": 3393129
+    },
+    {
+      "admin1": "17",
+      "code": "PB",
+      "iso": "BR-PB",
+      "name": "Paraíba",
+      "type": "estado",
+      "id": 3393098
+    },
+    {
+      "admin1": "18",
+      "code": "PR",
+      "iso": "BR-PR",
+      "name": "Paraná",
+      "type": "estado",
+      "id": 3455077
+    },
+    {
+      "admin1": "30",
+      "code": "PE",
+      "iso": "BR-PE",
+      "name": "Pernambuco",
+      "type": "estado",
+      "id": 3392268
+    },
+    {
+      "admin1": "20",
+      "code": "PI",
+      "iso": "BR-PI",
+      "name": "Piauí",
+      "type": "estado",
+      "id": 3392213
+    },
+    {
+      "admin1": "21",
+      "code": "RJ",
+      "iso": "BR-RJ",
+      "name": "Rio de Janeiro",
+      "type": "estado",
+      "id": 3451189
+    },
+    {
+      "admin1": "22",
+      "code": "RN",
+      "iso": "BR-RN",
+      "name": "Rio Grande do Norte",
+      "type": "estado",
+      "id": 3390290
+    },
+    {
+      "admin1": "23",
+      "code": "RS",
+      "iso": "BR-RS",
+      "name": "Rio Grande do Sul",
+      "type": "estado",
+      "id": 3451133
+    },
+    {
+      "admin1": "24",
+      "code": "RO",
+      "iso": "BR-RO",
+      "name": "Rondônia",
+      "type": "estado",
+      "id": 3924825
+    },
+    {
+      "admin1": "25",
+      "code": "RR",
+      "iso": "BR-RR",
+      "name": "Roraima",
+      "type": "estado",
+      "id": 3662560
+    },
+    {
+      "admin1": "26",
+      "code": "SC",
+      "iso": "BR-SC",
+      "name": "Santa Catarina",
+      "type": "estado",
+      "id": 3450387
+    },
+    {
+      "admin1": "27",
+      "code": "SP",
+      "iso": "BR-SP",
+      "name": "São Paulo",
+      "type": "estado",
+      "id": 3448433
+    },
+    {
+      "admin1": "28",
+      "code": "SE",
+      "iso": "BR-SE",
+      "name": "Sergipe",
+      "type": "estado",
+      "id": 3447799
+    },
+    {
+      "admin1": "31",
+      "code": "TO",
+      "iso": "BR-TO",
+      "name": "Tocantins",
+      "type": "estado",
+      "id": 3474575
+    }
+  ],
+  "CL": [
+    {
+      "admin1": "03",
+      "code": "AN",
+      "iso": "CL-AN",
+      "name": "Antofagasta",
+      "type": "región",
+      "id": 3899537
+    },
+    {
+      "admin1": "16",
+      "code": "AP",
+      "iso": "CL-AP",
+      "name": "Arica y Parinacota",
+      "type": "región",
+      "id": 6693562
+    },
+    {
+      "admin1": "05",
+      "code": "AT",
+      "iso": "CL-AT",
+      "name": "Atacama",
+      "type": "región",
+      "id": 3899191
+    },
+    {
+      "admin1": "02",
+      "code": "AI",
+      "iso": "CL-AI",
+      "name": "Aysén",
+      "type": "región",
+      "id": 3900333
+    },
+    {
+      "admin1": "06",
+      "code": "BI",
+      "iso": "CL-BI",
+      "name": "Biobío",
+      "type": "región",
+      "id": 3898380
+    },
+    {
+      "admin1": "07",
+      "code": "CO",
+      "iso": "CL-CO",
+      "name": "Coquimbo",
+      "type": "región",
+      "id": 3893623
+    },
+    {
+      "admin1": "04",
+      "code": "AR",
+      "iso": "CL-AR",
+      "name": "La Araucanía",
+      "type": "región",
+      "id": 3899463
+    },
+    {
+      "admin1": "08",
+      "code": "LI",
+      "iso": "CL-LI",
+      "name": "Libertador General Bernardo O'Higgins",
+      "type": "región",
+      "id": 3883281
+    },
+    {
+      "admin1": "14",
+      "code": "LL",
+      "iso": "CL-LL",
+      "name": "Los Lagos",
+      "type": "región",
+      "id": 3881974
+    },
+    {
+      "admin1": "17",
+      "code": "LR",
+      "iso": "CL-LR",
+      "name": "Los Ríos",
+      "type": "región",
+      "id": 6693563
+    },
+    {
+      "admin1": "10",
+      "code": "MA",
+      "iso": "CL-MA",
+      "name": "Magallanes y de la Antártica Chilena",
+      "type": "región",
+      "id": 4036650
+    },
+    {
+      "admin1": "11",
+      "code": "ML",
+      "iso": "CL-ML",
+      "name": "Maule",
+      "type": "región",
+      "id": 3880306
+    },
+    {
+      "admin1": "18",
+      "code": "NB",
+      "iso": "CL-NB",
+      "name": "Ñuble",
+      "type": "región",
+      "id": 11979367
+    },
+    {
+      "admin1": "12",
+      "code": "RM",
+      "iso": "CL-RM",
+      "name": "Región Metropolitana de Santiago",
+      "type": "región",
+      "id": 3873544
+    },
+    {
+      "admin1": "15",
+      "code": "TA",
+      "iso": "CL-TA",
+      "name": "Tarapacá",
+      "type": "región",
+      "id": 3870116
+    },
+    {
+      "admin1": "01",
+      "code": "VS",
+      "iso": "CL-VS",
+      "name": "Valparaíso",
+      "type": "región",
+      "id": 3868621
+    }
+  ],
+  "CO": [
+    {
+      "admin1": "01",
+      "code": "AMA",
+      "iso": "CO-AMA",
+      "name": "Amazonas",
+      "type": "departamento",
+      "id": 3689982
+    },
+    {
+      "admin1": "02",
+      "code": "ANT",
+      "iso": "CO-ANT",
+      "name": "Antioquia",
+      "type": "departamento",
+      "id": 3689815
+    },
+    {
+      "admin1": "03",
+      "code": "ARA",
+      "iso": "CO-ARA",
+      "name": "Arauca",
+      "type": "departamento",
+      "id": 3689717
+    },
+    {
+      "admin1": "04",
+      "code": "ATL",
+      "iso": "CO-ATL",
+      "name": "Atlántico",
+      "type": "departamento",
+      "id": 3689436
+    },
+    {
+      "admin1": "34",
+      "code": "DC",
+      "iso": "CO-DC",
+      "name": "Bogotá D.C.",
+      "type": "distrito capital",
+      "id": 3688685
+    },
+    {
+      "admin1": "35",
+      "code": "BOL",
+      "iso": "CO-BOL",
+      "name": "Bolívar",
+      "type": "departamento",
+      "id": 3688650
+    },
+    {
+      "admin1": "36",
+      "code": "BOY",
+      "iso": "CO-BOY",
+      "name": "Boyacá",
+      "type": "departamento",
+      "id": 3688536
+    },
+    {
+      "admin1": "37",
+      "code": "CAL",
+      "iso": "CO-CAL",
+      "name": "Caldas",
+      "type": "departamento",
+      "id": 3687951
+    },
+    {
+      "admin1": "08",
+      "code": "CAQ",
+      "iso": "CO-CAQ",
+      "name": "Caquetá",
+      "type": "departamento",
+      "id": 3687479
+    },
+    {
+      "admin1": "32",
+      "code": "CAS",
+      "iso": "CO-CAS",
+      "name": "Casanare",
+      "type": "departamento",
+      "id": 3687173
+    },
+    {
+      "admin1": "09",
+      "code": "CAU",
+      "iso": "CO-CAU",
+      "name": "Cauca",
+      "type": "departamento",
+      "id": 3687029
+    },
+    {
+      "admin1": "10",
+      "code": "CES",
+      "iso": "CO-CES",
+      "name": "Cesar",
+      "type": "departamento",
+      "id": 3686880
+    },
+    {
+      "admin1": "11",
+      "code": "CHO",
+      "iso": "CO-CHO",
+      "name": "Chocó",
+      "type": "departamento",
+      "id": 3686431
+    },
+    {
+      "admin1": "12",
+      "code": "COR",
+      "iso": "CO-COR",
+      "name": "Córdoba",
+      "type": "departamento",
+      "id": 3685889
+    },
+    {
+      "admin1": "33",
+      "code": "CUN",
+      "iso": "CO-CUN",
+      "name": "Cundinamarca",
+      "type": "departamento",
+      "id": 3685413
+    },
+    {
+      "admin1": "15",
+      "code": "GUA",
+      "iso": "CO-GUA",
+      "name": "Guainía",
+      "type": "departamento",
+      "id": 3681652
+    },
+    {
+      "admin1": "14",
+      "code": "GUV",
+      "iso": "CO-GUV",
+      "name": "Guaviare",
+      "type": "departamento",
+      "id": 3681344
+    },
+    {
+      "admin1": "16",
+      "code": "HUI",
+      "iso": "CO-HUI",
+      "name": "Huila",
+      "type": "departamento",
+      "id": 3680692
+    },
+    {
+      "admin1": "17",
+      "code": "LAG",
+      "iso": "CO-LAG",
+      "name": "La Guajira",
+      "type": "departamento",
+      "id": 3678847
+    },
+    {
+      "admin1": "38",
+      "code": "MAG",
+      "iso": "CO-MAG",
+      "name": "Magdalena",
+      "type": "departamento",
+      "id": 3675686
+    },
+    {
+      "admin1": "19",
+      "code": "MET",
+      "iso": "CO-MET",
+      "name": "Meta",
+      "type": "departamento",
+      "id": 3674810
+    },
+    {
+      "admin1": "20",
+      "code": "NAR",
+      "iso": "CO-NAR",
+      "name": "Nariño",
+      "type": "departamento",
+      "id": 3674021
+    },
+    {
+      "admin1": "21",
+      "code": "NSA",
+      "iso": "CO-NSA",
+      "name": "Norte de Santander",
+      "type": "departamento",
+      "id": 3673798
+    },
+    {
+      "admin1": "22",
+      "code": "PUT",
+      "iso": "CO-PUT",
+      "name": "Putumayo",
+      "type": "departamento",
+      "id": 3671178
+    },
+    {
+      "admin1": "23",
+      "code": "QUI",
+      "iso": "CO-QUI",
+      "name": "Quindío",
+      "type": "departamento",
+      "id": 3671087
+    },
+    {
+      "admin1": "24",
+      "code": "RIS",
+      "iso": "CO-RIS",
+      "name": "Risaralda",
+      "type": "departamento",
+      "id": 3670698
+    },
+    {
+      "admin1": "25",
+      "code": "SAP",
+      "iso": "CO-SAP",
+      "name": "San Andrés, Providencia y Santa Catalina",
+      "type": "departamento",
+      "id": 3670205
+    },
+    {
+      "admin1": "26",
+      "code": "SAN",
+      "iso": "CO-SAN",
+      "name": "Santander",
+      "type": "departamento",
+      "id": 3668578
+    },
+    {
+      "admin1": "27",
+      "code": "SUC",
+      "iso": "CO-SUC",
+      "name": "Sucre",
+      "type": "departamento",
+      "id": 3667725
+    },
+    {
+      "admin1": "28",
+      "code": "TOL",
+      "iso": "CO-TOL",
+      "name": "Tolima",
+      "type": "departamento",
+      "id": 3666951
+    },
+    {
+      "admin1": "29",
+      "code": "VAC",
+      "iso": "CO-VAC",
+      "name": "Valle del Cauca",
+      "type": "departamento",
+      "id": 3666313
+    },
+    {
+      "admin1": "30",
+      "code": "VAU",
+      "iso": "CO-VAU",
+      "name": "Vaupés",
+      "type": "departamento",
+      "id": 3666254
+    },
+    {
+      "admin1": "31",
+      "code": "VID",
+      "iso": "CO-VID",
+      "name": "Vichada",
+      "type": "departamento",
+      "id": 3666082
+    }
+  ],
+  "CR": [
+    {
+      "admin1": "01",
+      "code": "A",
+      "iso": "CR-A",
+      "name": "Alajuela",
+      "type": "provincia",
+      "id": 3624953
+    },
+    {
+      "admin1": "02",
+      "code": "C",
+      "iso": "CR-C",
+      "name": "Cartago",
+      "type": "provincia",
+      "id": 3624368
+    },
+    {
+      "admin1": "03",
+      "code": "G",
+      "iso": "CR-G",
+      "name": "Guanacaste",
+      "type": "provincia",
+      "id": 3623582
+    },
+    {
+      "admin1": "04",
+      "code": "H",
+      "iso": "CR-H",
+      "name": "Heredia",
+      "type": "provincia",
+      "id": 3623484
+    },
+    {
+      "admin1": "06",
+      "code": "L",
+      "iso": "CR-L",
+      "name": "Limón",
+      "type": "provincia",
+      "id": 3623064
+    },
+    {
+      "admin1": "07",
+      "code": "P",
+      "iso": "CR-P",
+      "name": "Puntarenas",
+      "type": "provincia",
+      "id": 3622226
+    },
+    {
+      "admin1": "08",
+      "code": "SJ",
+      "iso": "CR-SJ",
+      "name": "San José",
+      "type": "provincia",
+      "id": 3621837
+    }
+  ],
+  "CU": [
+    {
+      "admin1": "AR",
+      "code": "15",
+      "iso": "CU-15",
+      "name": "Artemisa",
+      "type": "provincia",
+      "id": 7668824
+    },
+    {
+      "admin1": "05",
+      "code": "09",
+      "iso": "CU-09",
+      "name": "Camagüey",
+      "type": "provincia",
+      "id": 3566062
+    },
+    {
+      "admin1": "07",
+      "code": "08",
+      "iso": "CU-08",
+      "name": "Ciego de Ávila",
+      "type": "provincia",
+      "id": 3564175
+    },
+    {
+      "admin1": "08",
+      "code": "06",
+      "iso": "CU-06",
+      "name": "Cienfuegos",
+      "type": "provincia",
+      "id": 3564120
+    },
+    {
+      "admin1": "09",
+      "code": "12",
+      "iso": "CU-12",
+      "name": "Granma",
+      "type": "provincia",
+      "id": 3558052
+    },
+    {
+      "admin1": "10",
+      "code": "14",
+      "iso": "CU-14",
+      "name": "Guantánamo",
+      "type": "provincia",
+      "id": 3557685
+    },
+    {
+      "admin1": "12",
+      "code": "11",
+      "iso": "CU-11",
+      "name": "Holguín",
+      "type": "provincia",
+      "id": 3556965
+    },
+    {
+      "admin1": "04",
+      "code": "99",
+      "iso": "CU-99",
+      "name": "Isla de la Juventud",
+      "type": "municipio especial",
+      "id": 3556608
+    },
+    {
+      "admin1": "02",
+      "code": "03",
+      "iso": "CU-03",
+      "name": "La Habana",
+      "type": "provincia",
+      "id": 3564073
+    },
+    {
+      "admin1": "13",
+      "code": "10",
+      "iso": "CU-10",
+      "name": "Las Tunas",
+      "type": "provincia",
+      "id": 3550595
+    },
+    {
+      "admin1": "03",
+      "code": "04",
+      "iso": "CU-04",
+      "name": "Matanzas",
+      "type": "provincia",
+      "id": 3547394
+    },
+    {
+      "admin1": "MA",
+      "code": "16",
+      "iso": "CU-16",
+      "name": "Mayabeque",
+      "type": "provincia",
+      "id": 7668827
+    },
+    {
+      "admin1": "01",
+      "code": "01",
+      "iso": "CU-01",
+      "name": "Pinar del Río",
+      "type": "provincia",
+      "id": 3544088
+    },
+    {
+      "admin1": "14",
+      "code": "07",
+      "iso": "CU-07",
+      "name": "Sancti Spíritus",
+      "type": "provincia",
+      "id": 3540665
+    },
+    {
+      "admin1": "15",
+      "code": "13",
+      "iso": "CU-13",
+      "name": "Santiago de Cuba",
+      "type": "provincia",
+      "id": 3536725
+    },
+    {
+      "admin1": "16",
+      "code": "05",
+      "iso": "CU-05",
+      "name": "Villa Clara",
+      "type": "provincia",
+      "id": 3534168
+    }
+  ],
+  "DO": [
+    {
+      "admin1": "01",
+      "code": "02",
+      "iso": "DO-02",
+      "name": "Azua",
+      "type": "provincia",
+      "id": 3512209
+    },
+    {
+      "admin1": "02",
+      "code": "03",
+      "iso": "DO-03",
+      "name": "Baoruco",
+      "type": "provincia",
+      "id": 3512050
+    },
+    {
+      "admin1": "03",
+      "code": "04",
+      "iso": "DO-04",
+      "name": "Barahona",
+      "type": "provincia",
+      "id": 3512042
+    },
+    {
+      "admin1": "04",
+      "code": "05",
+      "iso": "DO-05",
+      "name": "Dajabón",
+      "type": "provincia",
+      "id": 3508951
+    },
+    {
+      "admin1": "34",
+      "code": "01",
+      "iso": "DO-01",
+      "name": "Distrito Nacional",
+      "type": "distrito",
+      "id": 3496024
+    },
+    {
+      "admin1": "06",
+      "code": "06",
+      "iso": "DO-06",
+      "name": "Duarte",
+      "type": "provincia",
+      "id": 3508718
+    },
+    {
+      "admin1": "28",
+      "code": "08",
+      "iso": "DO-08",
+      "name": "El Seibo",
+      "type": "provincia",
+      "id": 3506189
+    },
+    {
+      "admin1": "11",
+      "code": "07",
+      "iso": "DO-07",
+      "name": "Elías Piña",
+      "type": "provincia",
+      "id": 3507269
+    },
+    {
+      "admin1": "08",
+      "code": "09",
+      "iso": "DO-09",
+      "name": "Espaillat",
+      "type": "provincia",
+      "id": 3505867
+    },
+    {
+      "admin1": "29",
+      "code": "30",
+      "iso": "DO-30",
+      "name": "Hato Mayor",
+      "type": "provincia",
+      "id": 3504766
+    },
+    {
+      "admin1": "19",
+      "code": "19",
+      "iso": "DO-19",
+      "name": "Hermanas Mirabal",
+      "type": "provincia",
+      "id": 3493282
+    },
+    {
+      "admin1": "09",
+      "code": "10",
+      "iso": "DO-10",
+      "name": "Independencia",
+      "type": "provincia",
+      "id": 3504326
+    },
+    {
+      "admin1": "10",
+      "code": "11",
+      "iso": "DO-11",
+      "name": "La Altagracia",
+      "type": "provincia",
+      "id": 3503706
+    },
+    {
+      "admin1": "12",
+      "code": "12",
+      "iso": "DO-12",
+      "name": "La Romana",
+      "type": "provincia",
+      "id": 3500955
+    },
+    {
+      "admin1": "30",
+      "code": "13",
+      "iso": "DO-13",
+      "name": "La Vega",
+      "type": "provincia",
+      "id": 3499977
+    },
+    {
+      "admin1": "14",
+      "code": "14",
+      "iso": "DO-14",
+      "name": "María Trinidad Sánchez",
+      "type": "provincia",
+      "id": 3496772
+    },
+    {
+      "admin1": "31",
+      "code": "28",
+      "iso": "DO-28",
+      "name": "Monseñor Nouel",
+      "type": "provincia",
+      "id": 3496274
+    },
+    {
+      "admin1": "15",
+      "code": "15",
+      "iso": "DO-15",
+      "name": "Monte Cristi",
+      "type": "provincia",
+      "id": 3496200
+    },
+    {
+      "admin1": "32",
+      "code": "29",
+      "iso": "DO-29",
+      "name": "Monte Plata",
+      "type": "provincia",
+      "id": 3496132
+    },
+    {
+      "admin1": "16",
+      "code": "16",
+      "iso": "DO-16",
+      "name": "Pedernales",
+      "type": "provincia",
+      "id": 3495136
+    },
+    {
+      "admin1": "35",
+      "code": "17",
+      "iso": "DO-17",
+      "name": "Peravia",
+      "type": "provincia",
+      "id": 3495015
+    },
+    {
+      "admin1": "18",
+      "code": "18",
+      "iso": "DO-18",
+      "name": "Puerto Plata",
+      "type": "provincia",
+      "id": 3494267
+    },
+    {
+      "admin1": "20",
+      "code": "20",
+      "iso": "DO-20",
+      "name": "Samaná",
+      "type": "provincia",
+      "id": 3493232
+    },
+    {
+      "admin1": "33",
+      "code": "21",
+      "iso": "DO-21",
+      "name": "San Cristóbal",
+      "type": "provincia",
+      "id": 3493186
+    },
+    {
+      "admin1": "36",
+      "code": "31",
+      "iso": "DO-31",
+      "name": "San José de Ocoa",
+      "type": "provincia",
+      "id": 6201372
+    },
+    {
+      "admin1": "23",
+      "code": "22",
+      "iso": "DO-22",
+      "name": "San Juan",
+      "type": "provincia",
+      "id": 3493091
+    },
+    {
+      "admin1": "24",
+      "code": "23",
+      "iso": "DO-23",
+      "name": "San Pedro de Macorís",
+      "type": "provincia",
+      "id": 3493031
+    },
+    {
+      "admin1": "21",
+      "code": "24",
+      "iso": "DO-24",
+      "name": "Sánchez Ramírez",
+      "type": "provincia",
+      "id": 3493192
+    },
+    {
+      "admin1": "25",
+      "code": "25",
+      "iso": "DO-25",
+      "name": "Santiago",
+      "type": "provincia",
+      "id": 3492918
+    },
+    {
+      "admin1": "26",
+      "code": "26",
+      "iso": "DO-26",
+      "name": "Santiago Rodríguez",
+      "type": "provincia",
+      "id": 3492912
+    },
+    {
+      "admin1": "37",
+      "code": "32",
+      "iso": "DO-32",
+      "name": "Santo Domingo",
+      "type": "provincia",
+      "id": 6201373
+    },
+    {
+      "admin1": "27",
+      "code": "27",
+      "iso": "DO-27",
+      "name": "Valverde",
+      "type": "provincia",
+      "id": 3492112
+    }
+  ],
+  "EC": [
+    {
+      "admin1": "02",
+      "code": "A",
+      "iso": "EC-A",
+      "name": "Azuay",
+      "type": "provincia",
+      "id": 3660431
+    },
+    {
+      "admin1": "03",
+      "code": "B",
+      "iso": "EC-B",
+      "name": "Bolívar",
+      "type": "provincia",
+      "id": 3660130
+    },
+    {
+      "admin1": "04",
+      "code": "F",
+      "iso": "EC-F",
+      "name": "Cañar",
+      "type": "provincia",
+      "id": 3659849
+    },
+    {
+      "admin1": "05",
+      "code": "C",
+      "iso": "EC-C",
+      "name": "Carchi",
+      "type": "provincia",
+      "id": 3659718
+    },
+    {
+      "admin1": "06",
+      "code": "H",
+      "iso": "EC-H",
+      "name": "Chimborazo",
+      "type": "provincia",
+      "id": 3659237
+    },
+    {
+      "admin1": "07",
+      "code": "X",
+      "iso": "EC-X",
+      "name": "Cotopaxi",
+      "type": "provincia",
+      "id": 3658766
+    },
+    {
+      "admin1": "08",
+      "code": "O",
+      "iso": "EC-O",
+      "name": "El Oro",
+      "type": "provincia",
+      "id": 3658195
+    },
+    {
+      "admin1": "09",
+      "code": "E",
+      "iso": "EC-E",
+      "name": "Esmeraldas",
+      "type": "provincia",
+      "id": 3657986
+    },
+    {
+      "admin1": "01",
+      "code": "W",
+      "iso": "EC-W",
+      "name": "Galápagos",
+      "type": "provincia",
+      "id": 3657879
+    },
+    {
+      "admin1": "10",
+      "code": "G",
+      "iso": "EC-G",
+      "name": "Guayas",
+      "type": "provincia",
+      "id": 3657505
+    },
+    {
+      "admin1": "11",
+      "code": "I",
+      "iso": "EC-I",
+      "name": "Imbabura",
+      "type": "provincia",
+      "id": 3655635
+    },
+    {
+      "admin1": "12",
+      "code": "L",
+      "iso": "EC-L",
+      "name": "Loja",
+      "type": "provincia",
+      "id": 3654665
+    },
+    {
+      "admin1": "13",
+      "code": "R",
+      "iso": "EC-R",
+      "name": "Los Ríos",
+      "type": "provincia",
+      "id": 3654592
+    },
+    {
+      "admin1": "14",
+      "code": "M",
+      "iso": "EC-M",
+      "name": "Manabí",
+      "type": "provincia",
+      "id": 3654451
+    },
+    {
+      "admin1": "15",
+      "code": "S",
+      "iso": "EC-S",
+      "name": "Morona-Santiago",
+      "type": "provincia",
+      "id": 3654005
+    },
+    {
+      "admin1": "23",
+      "code": "N",
+      "iso": "EC-N",
+      "name": "Napo",
+      "type": "provincia",
+      "id": 3653890
+    },
+    {
+      "admin1": "24",
+      "code": "D",
+      "iso": "EC-D",
+      "name": "Orellana",
+      "type": "provincia",
+      "id": 3830306
+    },
+    {
+      "admin1": "17",
+      "code": "Y",
+      "iso": "EC-Y",
+      "name": "Pastaza",
+      "type": "provincia",
+      "id": 3653392
+    },
+    {
+      "admin1": "18",
+      "code": "P",
+      "iso": "EC-P",
+      "name": "Pichincha",
+      "type": "provincia",
+      "id": 3653224
+    },
+    {
+      "admin1": "25",
+      "code": "SE",
+      "iso": "EC-SE",
+      "name": "Santa Elena",
+      "type": "provincia",
+      "id": 7062138
+    },
+    {
+      "admin1": "26",
+      "code": "SD",
+      "iso": "EC-SD",
+      "name": "Santo Domingo de los Tsáchilas",
+      "type": "provincia",
+      "id": 7062136
+    },
+    {
+      "admin1": "22",
+      "code": "U",
+      "iso": "EC-U",
+      "name": "Sucumbíos",
+      "type": "provincia",
+      "id": 3830305
+    },
+    {
+      "admin1": "19",
+      "code": "T",
+      "iso": "EC-T",
+      "name": "Tungurahua",
+      "type": "provincia",
+      "id": 3650445
+    },
+    {
+      "admin1": "20",
+      "code": "Z",
+      "iso": "EC-Z",
+      "name": "Zamora-Chinchipe",
+      "type": "provincia",
+      "id": 3649953
+    }
+  ],
+  "SV": [
+    {
+      "admin1": "01",
+      "code": "AH",
+      "iso": "SV-AH",
+      "name": "Ahuachapán",
+      "type": "departamento",
+      "id": 3587425
+    },
+    {
+      "admin1": "02",
+      "code": "CA",
+      "iso": "SV-CA",
+      "name": "Cabañas",
+      "type": "departamento",
+      "id": 3587217
+    },
+    {
+      "admin1": "03",
+      "code": "CH",
+      "iso": "SV-CH",
+      "name": "Chalatenango",
+      "type": "departamento",
+      "id": 3587090
+    },
+    {
+      "admin1": "04",
+      "code": "CU",
+      "iso": "SV-CU",
+      "name": "Cuscatlán",
+      "type": "departamento",
+      "id": 3586831
+    },
+    {
+      "admin1": "05",
+      "code": "LI",
+      "iso": "SV-LI",
+      "name": "La Libertad",
+      "type": "departamento",
+      "id": 3585155
+    },
+    {
+      "admin1": "06",
+      "code": "PA",
+      "iso": "SV-PA",
+      "name": "La Paz",
+      "type": "departamento",
+      "id": 3585087
+    },
+    {
+      "admin1": "07",
+      "code": "UN",
+      "iso": "SV-UN",
+      "name": "La Unión",
+      "type": "departamento",
+      "id": 3584767
+    },
+    {
+      "admin1": "08",
+      "code": "MO",
+      "iso": "SV-MO",
+      "name": "Morazán",
+      "type": "departamento",
+      "id": 3584317
+    },
+    {
+      "admin1": "09",
+      "code": "SM",
+      "iso": "SV-SM",
+      "name": "San Miguel",
+      "type": "departamento",
+      "id": 3583462
+    },
+    {
+      "admin1": "10",
+      "code": "SS",
+      "iso": "SV-SS",
+      "name": "San Salvador",
+      "type": "departamento",
+      "id": 3583360
+    },
+    {
+      "admin1": "12",
+      "code": "SV",
+      "iso": "SV-SV",
+      "name": "San Vicente",
+      "type": "departamento",
+      "id": 3583176
+    },
+    {
+      "admin1": "11",
+      "code": "SA",
+      "iso": "SV-SA",
+      "name": "Santa Ana",
+      "type": "departamento",
+      "id": 3583332
+    },
+    {
+      "admin1": "13",
+      "code": "SO",
+      "iso": "SV-SO",
+      "name": "Sonsonate",
+      "type": "departamento",
+      "id": 3583101
+    },
+    {
+      "admin1": "14",
+      "code": "US",
+      "iso": "SV-US",
+      "name": "Usulután",
+      "type": "departamento",
+      "id": 3582882
+    }
+  ],
+  "GT": [
+    {
+      "admin1": "01",
+      "code": "AV",
+      "iso": "GT-AV",
+      "name": "Alta Verapaz",
+      "type": "departamento",
+      "id": 3599773
+    },
+    {
+      "admin1": "02",
+      "code": "BV",
+      "iso": "GT-BV",
+      "name": "Baja Verapaz",
+      "type": "departamento",
+      "id": 3599602
+    },
+    {
+      "admin1": "03",
+      "code": "CM",
+      "iso": "GT-CM",
+      "name": "Chimaltenango",
+      "type": "departamento",
+      "id": 3598571
+    },
+    {
+      "admin1": "04",
+      "code": "CQ",
+      "iso": "GT-CQ",
+      "name": "Chiquimula",
+      "type": "departamento",
+      "id": 3598464
+    },
+    {
+      "admin1": "05",
+      "code": "PR",
+      "iso": "GT-PR",
+      "name": "El Progreso",
+      "type": "departamento",
+      "id": 3596416
+    },
+    {
+      "admin1": "06",
+      "code": "ES",
+      "iso": "GT-ES",
+      "name": "Escuintla",
+      "type": "departamento",
+      "id": 3595802
+    },
+    {
+      "admin1": "07",
+      "code": "GU",
+      "iso": "GT-GU",
+      "name": "Guatemala",
+      "type": "departamento",
+      "id": 3595530
+    },
+    {
+      "admin1": "08",
+      "code": "HU",
+      "iso": "GT-HU",
+      "name": "Huehuetenango",
+      "type": "departamento",
+      "id": 3595415
+    },
+    {
+      "admin1": "09",
+      "code": "IZ",
+      "iso": "GT-IZ",
+      "name": "Izabal",
+      "type": "departamento",
+      "id": 3595259
+    },
+    {
+      "admin1": "10",
+      "code": "JA",
+      "iso": "GT-JA",
+      "name": "Jalapa",
+      "type": "departamento",
+      "id": 3595236
+    },
+    {
+      "admin1": "11",
+      "code": "JU",
+      "iso": "GT-JU",
+      "name": "Jutiapa",
+      "type": "departamento",
+      "id": 3595067
+    },
+    {
+      "admin1": "12",
+      "code": "PE",
+      "iso": "GT-PE",
+      "name": "Petén",
+      "type": "departamento",
+      "id": 3591410
+    },
+    {
+      "admin1": "13",
+      "code": "QZ",
+      "iso": "GT-QZ",
+      "name": "Quetzaltenango",
+      "type": "departamento",
+      "id": 3590978
+    },
+    {
+      "admin1": "14",
+      "code": "QC",
+      "iso": "GT-QC",
+      "name": "Quiché",
+      "type": "departamento",
+      "id": 3590964
+    },
+    {
+      "admin1": "15",
+      "code": "RE",
+      "iso": "GT-RE",
+      "name": "Retalhuleu",
+      "type": "departamento",
+      "id": 3590857
+    },
+    {
+      "admin1": "16",
+      "code": "SA",
+      "iso": "GT-SA",
+      "name": "Sacatepéquez",
+      "type": "departamento",
+      "id": 3590686
+    },
+    {
+      "admin1": "17",
+      "code": "SM",
+      "iso": "GT-SM",
+      "name": "San Marcos",
+      "type": "departamento",
+      "id": 3589801
+    },
+    {
+      "admin1": "18",
+      "code": "SR",
+      "iso": "GT-SR",
+      "name": "Santa Rosa",
+      "type": "departamento",
+      "id": 3589172
+    },
+    {
+      "admin1": "19",
+      "code": "SO",
+      "iso": "GT-SO",
+      "name": "Sololá",
+      "type": "departamento",
+      "id": 3588697
+    },
+    {
+      "admin1": "20",
+      "code": "SU",
+      "iso": "GT-SU",
+      "name": "Suchitepéquez",
+      "type": "departamento",
+      "id": 3588668
+    },
+    {
+      "admin1": "21",
+      "code": "TO",
+      "iso": "GT-TO",
+      "name": "Totonicapán",
+      "type": "departamento",
+      "id": 3588257
+    },
+    {
+      "admin1": "22",
+      "code": "ZA",
+      "iso": "GT-ZA",
+      "name": "Zacapa",
+      "type": "departamento",
+      "id": 3587586
+    }
+  ],
+  "HN": [
+    {
+      "admin1": "01",
+      "code": "AT",
+      "iso": "HN-AT",
+      "name": "Atlántida",
+      "type": "departamento",
+      "id": 3615027
+    },
+    {
+      "admin1": "02",
+      "code": "CH",
+      "iso": "HN-CH",
+      "name": "Choluteca",
+      "type": "departamento",
+      "id": 3613527
+    },
+    {
+      "admin1": "03",
+      "code": "CL",
+      "iso": "HN-CL",
+      "name": "Colón",
+      "type": "departamento",
+      "id": 3613358
+    },
+    {
+      "admin1": "04",
+      "code": "CM",
+      "iso": "HN-CM",
+      "name": "Comayagua",
+      "type": "departamento",
+      "id": 3613319
+    },
+    {
+      "admin1": "05",
+      "code": "CP",
+      "iso": "HN-CP",
+      "name": "Copán",
+      "type": "departamento",
+      "id": 3613229
+    },
+    {
+      "admin1": "06",
+      "code": "CR",
+      "iso": "HN-CR",
+      "name": "Cortés",
+      "type": "departamento",
+      "id": 3613140
+    },
+    {
+      "admin1": "07",
+      "code": "EP",
+      "iso": "HN-EP",
+      "name": "El Paraíso",
+      "type": "departamento",
+      "id": 3610942
+    },
+    {
+      "admin1": "08",
+      "code": "FM",
+      "iso": "HN-FM",
+      "name": "Francisco Morazán",
+      "type": "departamento",
+      "id": 3609672
+    },
+    {
+      "admin1": "09",
+      "code": "GD",
+      "iso": "HN-GD",
+      "name": "Gracias a Dios",
+      "type": "departamento",
+      "id": 3609583
+    },
+    {
+      "admin1": "10",
+      "code": "IN",
+      "iso": "HN-IN",
+      "name": "Intibucá",
+      "type": "departamento",
+      "id": 3608833
+    },
+    {
+      "admin1": "11",
+      "code": "IB",
+      "iso": "HN-IB",
+      "name": "Islas de la Bahía",
+      "type": "departamento",
+      "id": 3608814
+    },
+    {
+      "admin1": "12",
+      "code": "LP",
+      "iso": "HN-LP",
+      "name": "La Paz",
+      "type": "departamento",
+      "id": 3607251
+    },
+    {
+      "admin1": "13",
+      "code": "LE",
+      "iso": "HN-LE",
+      "name": "Lempira",
+      "type": "departamento",
+      "id": 3606066
+    },
+    {
+      "admin1": "14",
+      "code": "OC",
+      "iso": "HN-OC",
+      "name": "Ocotepeque",
+      "type": "departamento",
+      "id": 3604318
+    },
+    {
+      "admin1": "15",
+      "code": "OL",
+      "iso": "HN-OL",
+      "name": "Olancho",
+      "type": "departamento",
+      "id": 3604249
+    },
+    {
+      "admin1": "16",
+      "code": "SB",
+      "iso": "HN-SB",
+      "name": "Santa Bárbara",
+      "type": "departamento",
+      "id": 3601689
+    },
+    {
+      "admin1": "17",
+      "code": "VA",
+      "iso": "HN-VA",
+      "name": "Valle",
+      "type": "departamento",
+      "id": 3600456
+    },
+    {
+      "admin1": "18",
+      "code": "YO",
+      "iso": "HN-YO",
+      "name": "Yoro",
+      "type": "departamento",
+      "id": 3600193
+    }
+  ],
+  "MX": [
+    {
+      "admin1": "01",
+      "code": "AGU",
+      "iso": "MX-AGU",
+      "name": "Aguascalientes",
+      "type": "estado",
+      "id": 4019231
+    },
+    {
+      "admin1": "02",
+      "code": "BCN",
+      "iso": "MX-BCN",
+      "name": "Baja California",
+      "type": "estado",
+      "id": 4017700
+    },
+    {
+      "admin1": "03",
+      "code": "BCS",
+      "iso": "MX-BCS",
+      "name": "Baja California Sur",
+      "type": "estado",
+      "id": 4017698
+    },
+    {
+      "admin1": "04",
+      "code": "CAM",
+      "iso": "MX-CAM",
+      "name": "Campeche",
+      "type": "estado",
+      "id": 3531730
+    },
+    {
+      "admin1": "05",
+      "code": "CHP",
+      "iso": "MX-CHP",
+      "name": "Chiapas",
+      "type": "estado",
+      "id": 3531011
+    },
+    {
+      "admin1": "06",
+      "code": "CHH",
+      "iso": "MX-CHH",
+      "name": "Chihuahua",
+      "type": "estado",
+      "id": 4014336
+    },
+    {
+      "admin1": "09",
+      "code": "CMX",
+      "iso": "MX-CMX",
+      "name": "Ciudad de México",
+      "type": "distrito federal",
+      "id": 3527646
+    },
+    {
+      "admin1": "07",
+      "code": "COA",
+      "iso": "MX-COA",
+      "name": "Coahuila de Zaragoza",
+      "type": "estado",
+      "id": 4013674
+    },
+    {
+      "admin1": "08",
+      "code": "COL",
+      "iso": "MX-COL",
+      "name": "Colima",
+      "type": "estado",
+      "id": 4013513
+    },
+    {
+      "admin1": "10",
+      "code": "DUR",
+      "iso": "MX-DUR",
+      "name": "Durango",
+      "type": "estado",
+      "id": 4011741
+    },
+    {
+      "admin1": "15",
+      "code": "MEX",
+      "iso": "MX-MEX",
+      "name": "Estado de México",
+      "type": "estado",
+      "id": 3523272
+    },
+    {
+      "admin1": "11",
+      "code": "GUA",
+      "iso": "MX-GUA",
+      "name": "Guanajuato",
+      "type": "estado",
+      "id": 4005267
+    },
+    {
+      "admin1": "12",
+      "code": "GRO",
+      "iso": "MX-GRO",
+      "name": "Guerrero",
+      "type": "estado",
+      "id": 3527213
+    },
+    {
+      "admin1": "13",
+      "code": "HID",
+      "iso": "MX-HID",
+      "name": "Hidalgo",
+      "type": "estado",
+      "id": 3527115
+    },
+    {
+      "admin1": "14",
+      "code": "JAL",
+      "iso": "MX-JAL",
+      "name": "Jalisco",
+      "type": "estado",
+      "id": 4004156
+    },
+    {
+      "admin1": "16",
+      "code": "MIC",
+      "iso": "MX-MIC",
+      "name": "Michoacán de Ocampo",
+      "type": "estado",
+      "id": 3995955
+    },
+    {
+      "admin1": "17",
+      "code": "MOR",
+      "iso": "MX-MOR",
+      "name": "Morelos",
+      "type": "estado",
+      "id": 3522961
+    },
+    {
+      "admin1": "18",
+      "code": "NAY",
+      "iso": "MX-NAY",
+      "name": "Nayarit",
+      "type": "estado",
+      "id": 3995012
+    },
+    {
+      "admin1": "19",
+      "code": "NLE",
+      "iso": "MX-NLE",
+      "name": "Nuevo León",
+      "type": "estado",
+      "id": 3522542
+    },
+    {
+      "admin1": "20",
+      "code": "OAX",
+      "iso": "MX-OAX",
+      "name": "Oaxaca",
+      "type": "estado",
+      "id": 3522509
+    },
+    {
+      "admin1": "21",
+      "code": "PUE",
+      "iso": "MX-PUE",
+      "name": "Puebla",
+      "type": "estado",
+      "id": 3521082
+    },
+    {
+      "admin1": "22",
+      "code": "QUE",
+      "iso": "MX-QUE",
+      "name": "Querétaro",
+      "type": "estado",
+      "id": 3520914
+    },
+    {
+      "admin1": "23",
+      "code": "ROO",
+      "iso": "MX-ROO",
+      "name": "Quintana Roo",
+      "type": "estado",
+      "id": 3520887
+    },
+    {
+      "admin1": "24",
+      "code": "SLP",
+      "iso": "MX-SLP",
+      "name": "San Luis Potosí",
+      "type": "estado",
+      "id": 3985605
+    },
+    {
+      "admin1": "25",
+      "code": "SIN",
+      "iso": "MX-SIN",
+      "name": "Sinaloa",
+      "type": "estado",
+      "id": 3983035
+    },
+    {
+      "admin1": "26",
+      "code": "SON",
+      "iso": "MX-SON",
+      "name": "Sonora",
+      "type": "estado",
+      "id": 3982846
+    },
+    {
+      "admin1": "27",
+      "code": "TAB",
+      "iso": "MX-TAB",
+      "name": "Tabasco",
+      "type": "estado",
+      "id": 3516458
+    },
+    {
+      "admin1": "28",
+      "code": "TAM",
+      "iso": "MX-TAM",
+      "name": "Tamaulipas",
+      "type": "estado",
+      "id": 3516391
+    },
+    {
+      "admin1": "29",
+      "code": "TLA",
+      "iso": "MX-TLA",
+      "name": "Tlaxcala",
+      "type": "estado",
+      "id": 3515359
+    },
+    {
+      "admin1": "30",
+      "code": "VER",
+      "iso": "MX-VER",
+      "name": "Veracruz de Ignacio de la Llave",
+      "type": "estado",
+      "id": 3514780
+    },
+    {
+      "admin1": "31",
+      "code": "YUC",
+      "iso": "MX-YUC",
+      "name": "Yucatán",
+      "type": "estado",
+      "id": 3514211
+    },
+    {
+      "admin1": "32",
+      "code": "ZAC",
+      "iso": "MX-ZAC",
+      "name": "Zacatecas",
+      "type": "estado",
+      "id": 3979840
+    }
+  ],
+  "NI": [
+    {
+      "admin1": "01",
+      "code": "BO",
+      "iso": "NI-BO",
+      "name": "Boaco",
+      "type": "departamento",
+      "id": 3620673
+    },
+    {
+      "admin1": "02",
+      "code": "CA",
+      "iso": "NI-CA",
+      "name": "Carazo",
+      "type": "departamento",
+      "id": 3620481
+    },
+    {
+      "admin1": "03",
+      "code": "CI",
+      "iso": "NI-CI",
+      "name": "Chinandega",
+      "type": "departamento",
+      "id": 3620380
+    },
+    {
+      "admin1": "04",
+      "code": "CO",
+      "iso": "NI-CO",
+      "name": "Chontales",
+      "type": "departamento",
+      "id": 3620368
+    },
+    {
+      "admin1": "18",
+      "code": "AN",
+      "iso": "NI-AN",
+      "name": "Costa Caribe Norte",
+      "type": "región autónoma",
+      "id": 3830308
+    },
+    {
+      "admin1": "17",
+      "code": "AS",
+      "iso": "NI-AS",
+      "name": "Costa Caribe Sur",
+      "type": "región autónoma",
+      "id": 3830307
+    },
+    {
+      "admin1": "05",
+      "code": "ES",
+      "iso": "NI-ES",
+      "name": "Estelí",
+      "type": "departamento",
+      "id": 3619193
+    },
+    {
+      "admin1": "06",
+      "code": "GR",
+      "iso": "NI-GR",
+      "name": "Granada",
+      "type": "departamento",
+      "id": 3619135
+    },
+    {
+      "admin1": "07",
+      "code": "JI",
+      "iso": "NI-JI",
+      "name": "Jinotega",
+      "type": "departamento",
+      "id": 3618928
+    },
+    {
+      "admin1": "08",
+      "code": "LE",
+      "iso": "NI-LE",
+      "name": "León",
+      "type": "departamento",
+      "id": 3618029
+    },
+    {
+      "admin1": "09",
+      "code": "MD",
+      "iso": "NI-MD",
+      "name": "Madriz",
+      "type": "departamento",
+      "id": 3617796
+    },
+    {
+      "admin1": "10",
+      "code": "MN",
+      "iso": "NI-MN",
+      "name": "Managua",
+      "type": "departamento",
+      "id": 3617762
+    },
+    {
+      "admin1": "11",
+      "code": "MS",
+      "iso": "NI-MS",
+      "name": "Masaya",
+      "type": "departamento",
+      "id": 3617722
+    },
+    {
+      "admin1": "12",
+      "code": "MT",
+      "iso": "NI-MT",
+      "name": "Matagalpa",
+      "type": "departamento",
+      "id": 3617707
+    },
+    {
+      "admin1": "13",
+      "code": "NS",
+      "iso": "NI-NS",
+      "name": "Nueva Segovia",
+      "type": "departamento",
+      "id": 3617458
+    },
+    {
+      "admin1": "14",
+      "code": "SJ",
+      "iso": "NI-SJ",
+      "name": "Río San Juan",
+      "type": "departamento",
+      "id": 3617056
+    },
+    {
+      "admin1": "15",
+      "code": "RI",
+      "iso": "NI-RI",
+      "name": "Rivas",
+      "type": "departamento",
+      "id": 3617051
+    }
+  ],
+  "PA": [
+    {
+      "admin1": "01",
+      "code": "1",
+      "iso": "PA-1",
+      "name": "Bocas del Toro",
+      "type": "provincia",
+      "id": 3713954
+    },
+    {
+      "admin1": "02",
+      "code": "4",
+      "iso": "PA-4",
+      "name": "Chiriquí",
+      "type": "provincia",
+      "id": 3712410
+    },
+    {
+      "admin1": "03",
+      "code": "2",
+      "iso": "PA-2",
+      "name": "Coclé",
+      "type": "provincia",
+      "id": 3712162
+    },
+    {
+      "admin1": "04",
+      "code": "3",
+      "iso": "PA-3",
+      "name": "Colón",
+      "type": "provincia",
+      "id": 3712073
+    },
+    {
+      "admin1": "05",
+      "code": "5",
+      "iso": "PA-5",
+      "name": "Darién",
+      "type": "provincia",
+      "id": 3711671
+    },
+    {
+      "admin1": "11",
+      "code": "EM",
+      "iso": "PA-EM",
+      "name": "Emberá-Wounaan",
+      "type": "comarca indígena",
+      "id": 7303686
+    },
+    {
+      "admin1": "09",
+      "code": "KY",
+      "iso": "PA-KY",
+      "name": "Guna Yala",
+      "type": "comarca indígena",
+      "id": 3701537
+    },
+    {
+      "admin1": "06",
+      "code": "6",
+      "iso": "PA-6",
+      "name": "Herrera",
+      "type": "provincia",
+      "id": 3708710
+    },
+    {
+      "admin1": "07",
+      "code": "7",
+      "iso": "PA-7",
+      "name": "Los Santos",
+      "type": "provincia",
+      "id": 3704961
+    },
+    {
+      "admin1": "NT",
+      "code": "NT",
+      "iso": "PA-NT",
+      "name": "Naso Tjër Di",
+      "type": "comarca indígena",
+      "id": 12508964
+    },
+    {
+      "admin1": "12",
+      "code": "NB",
+      "iso": "PA-NB",
+      "name": "Ngäbe-Buglé",
+      "type": "comarca indígena",
+      "id": 7303688
+    },
+    {
+      "admin1": "08",
+      "code": "8",
+      "iso": "PA-8",
+      "name": "Panamá",
+      "type": "provincia",
+      "id": 3703433
+    },
+    {
+      "admin1": "13",
+      "code": "10",
+      "iso": "PA-10",
+      "name": "Panamá Oeste",
+      "type": "provincia",
+      "id": 11353126
+    },
+    {
+      "admin1": "10",
+      "code": "9",
+      "iso": "PA-9",
+      "name": "Veraguas",
+      "type": "provincia",
+      "id": 3700159
+    }
+  ],
+  "PY": [
+    {
+      "admin1": "23",
+      "code": "16",
+      "iso": "PY-16",
+      "name": "Alto Paraguay",
+      "type": "departamento",
+      "id": 3439441
+    },
+    {
+      "admin1": "01",
+      "code": "10",
+      "iso": "PY-10",
+      "name": "Alto Paraná",
+      "type": "departamento",
+      "id": 3439440
+    },
+    {
+      "admin1": "02",
+      "code": "13",
+      "iso": "PY-13",
+      "name": "Amambay",
+      "type": "departamento",
+      "id": 3439433
+    },
+    {
+      "admin1": "22",
+      "code": "ASU",
+      "iso": "PY-ASU",
+      "name": "Asunción",
+      "type": "capital",
+      "id": 3474570
+    },
+    {
+      "admin1": "24",
+      "code": "19",
+      "iso": "PY-19",
+      "name": "Boquerón",
+      "type": "departamento",
+      "id": 3867442
+    },
+    {
+      "admin1": "04",
+      "code": "5",
+      "iso": "PY-5",
+      "name": "Caaguazú",
+      "type": "departamento",
+      "id": 3439312
+    },
+    {
+      "admin1": "05",
+      "code": "6",
+      "iso": "PY-6",
+      "name": "Caazapá",
+      "type": "departamento",
+      "id": 3439296
+    },
+    {
+      "admin1": "19",
+      "code": "14",
+      "iso": "PY-14",
+      "name": "Canindeyú",
+      "type": "departamento",
+      "id": 3439216
+    },
+    {
+      "admin1": "06",
+      "code": "11",
+      "iso": "PY-11",
+      "name": "Central",
+      "type": "departamento",
+      "id": 3439137
+    },
+    {
+      "admin1": "07",
+      "code": "1",
+      "iso": "PY-1",
+      "name": "Concepción",
+      "type": "departamento",
+      "id": 3438833
+    },
+    {
+      "admin1": "08",
+      "code": "3",
+      "iso": "PY-3",
+      "name": "Cordillera",
+      "type": "departamento",
+      "id": 3438827
+    },
+    {
+      "admin1": "10",
+      "code": "4",
+      "iso": "PY-4",
+      "name": "Guairá",
+      "type": "departamento",
+      "id": 3438049
+    },
+    {
+      "admin1": "11",
+      "code": "7",
+      "iso": "PY-7",
+      "name": "Itapúa",
+      "type": "departamento",
+      "id": 3437923
+    },
+    {
+      "admin1": "12",
+      "code": "8",
+      "iso": "PY-8",
+      "name": "Misiones",
+      "type": "departamento",
+      "id": 3437727
+    },
+    {
+      "admin1": "13",
+      "code": "12",
+      "iso": "PY-12",
+      "name": "Ñeembucú",
+      "type": "departamento",
+      "id": 3437677
+    },
+    {
+      "admin1": "15",
+      "code": "9",
+      "iso": "PY-9",
+      "name": "Paraguarí",
+      "type": "departamento",
+      "id": 3437599
+    },
+    {
+      "admin1": "16",
+      "code": "15",
+      "iso": "PY-15",
+      "name": "Presidente Hayes",
+      "type": "departamento",
+      "id": 3437443
+    },
+    {
+      "admin1": "17",
+      "code": "2",
+      "iso": "PY-2",
+      "name": "San Pedro",
+      "type": "departamento",
+      "id": 3437027
+    }
+  ],
+  "PE": [
+    {
+      "admin1": "01",
+      "code": "AMA",
+      "iso": "PE-AMA",
+      "name": "Amazonas",
+      "type": "región",
+      "id": 3699699
+    },
+    {
+      "admin1": "02",
+      "code": "ANC",
+      "iso": "PE-ANC",
+      "name": "Áncash",
+      "type": "región",
+      "id": 3699674
+    },
+    {
+      "admin1": "03",
+      "code": "APU",
+      "iso": "PE-APU",
+      "name": "Apurímac",
+      "type": "región",
+      "id": 3947421
+    },
+    {
+      "admin1": "04",
+      "code": "ARE",
+      "iso": "PE-ARE",
+      "name": "Arequipa",
+      "type": "región",
+      "id": 3947319
+    },
+    {
+      "admin1": "05",
+      "code": "AYA",
+      "iso": "PE-AYA",
+      "name": "Ayacucho",
+      "type": "región",
+      "id": 3947018
+    },
+    {
+      "admin1": "06",
+      "code": "CAJ",
+      "iso": "PE-CAJ",
+      "name": "Cajamarca",
+      "type": "región",
+      "id": 3699087
+    },
+    {
+      "admin1": "07",
+      "code": "CAL",
+      "iso": "PE-CAL",
+      "name": "Callao",
+      "type": "región",
+      "id": 3946080
+    },
+    {
+      "admin1": "08",
+      "code": "CUS",
+      "iso": "PE-CUS",
+      "name": "Cusco",
+      "type": "región",
+      "id": 3941583
+    },
+    {
+      "admin1": "09",
+      "code": "HUV",
+      "iso": "PE-HUV",
+      "name": "Huancavelica",
+      "type": "región",
+      "id": 3939467
+    },
+    {
+      "admin1": "10",
+      "code": "HUC",
+      "iso": "PE-HUC",
+      "name": "Huánuco",
+      "type": "región",
+      "id": 3696416
+    },
+    {
+      "admin1": "11",
+      "code": "ICA",
+      "iso": "PE-ICA",
+      "name": "Ica",
+      "type": "región",
+      "id": 3938526
+    },
+    {
+      "admin1": "12",
+      "code": "JUN",
+      "iso": "PE-JUN",
+      "name": "Junín",
+      "type": "región",
+      "id": 3937485
+    },
+    {
+      "admin1": "13",
+      "code": "LAL",
+      "iso": "PE-LAL",
+      "name": "La Libertad",
+      "type": "región",
+      "id": 3695781
+    },
+    {
+      "admin1": "14",
+      "code": "LAM",
+      "iso": "PE-LAM",
+      "name": "Lambayeque",
+      "type": "región",
+      "id": 3695753
+    },
+    {
+      "admin1": "15",
+      "code": "LIM",
+      "iso": "PE-LIM",
+      "name": "Lima",
+      "type": "región",
+      "id": 3936452
+    },
+    {
+      "admin1": "LMA",
+      "code": "LMA",
+      "iso": "PE-LMA",
+      "name": "Lima Metropolitana",
+      "type": "municipio",
+      "id": 3936451
+    },
+    {
+      "admin1": "16",
+      "code": "LOR",
+      "iso": "PE-LOR",
+      "name": "Loreto",
+      "type": "región",
+      "id": 3695238
+    },
+    {
+      "admin1": "17",
+      "code": "MDD",
+      "iso": "PE-MDD",
+      "name": "Madre de Dios",
+      "type": "región",
+      "id": 3935619
+    },
+    {
+      "admin1": "18",
+      "code": "MOQ",
+      "iso": "PE-MOQ",
+      "name": "Moquegua",
+      "type": "región",
+      "id": 3934607
+    },
+    {
+      "admin1": "19",
+      "code": "PAS",
+      "iso": "PE-PAS",
+      "name": "Pasco",
+      "type": "región",
+      "id": 3932834
+    },
+    {
+      "admin1": "20",
+      "code": "PIU",
+      "iso": "PE-PIU",
+      "name": "Piura",
+      "type": "región",
+      "id": 3693525
+    },
+    {
+      "admin1": "21",
+      "code": "PUN",
+      "iso": "PE-PUN",
+      "name": "Puno",
+      "type": "región",
+      "id": 3931275
+    },
+    {
+      "admin1": "22",
+      "code": "SAM",
+      "iso": "PE-SAM",
+      "name": "San Martín",
+      "type": "región",
+      "id": 3692385
+    },
+    {
+      "admin1": "23",
+      "code": "TAC",
+      "iso": "PE-TAC",
+      "name": "Tacna",
+      "type": "región",
+      "id": 3928127
+    },
+    {
+      "admin1": "24",
+      "code": "TUM",
+      "iso": "PE-TUM",
+      "name": "Tumbes",
+      "type": "región",
+      "id": 3691146
+    },
+    {
+      "admin1": "25",
+      "code": "UCA",
+      "iso": "PE-UCA",
+      "name": "Ucayali",
+      "type": "región",
+      "id": 3691099
+    }
+  ],
+  "PR": [
+    {
+      "admin1": "001",
+      "code": "001",
+      "iso": "PR-001",
+      "name": "Adjuntas",
+      "type": "municipio",
+      "id": 4562487
+    },
+    {
+      "admin1": "003",
+      "code": "003",
+      "iso": "PR-003",
+      "name": "Aguada",
+      "type": "municipio",
+      "id": 4562503
+    },
+    {
+      "admin1": "005",
+      "code": "005",
+      "iso": "PR-005",
+      "name": "Aguadilla",
+      "type": "municipio",
+      "id": 4562512
+    },
+    {
+      "admin1": "007",
+      "code": "007",
+      "iso": "PR-007",
+      "name": "Aguas Buenas",
+      "type": "municipio",
+      "id": 4562516
+    },
+    {
+      "admin1": "009",
+      "code": "009",
+      "iso": "PR-009",
+      "name": "Aibonito",
+      "type": "municipio",
+      "id": 4562531
+    },
+    {
+      "admin1": "011",
+      "code": "011",
+      "iso": "PR-011",
+      "name": "Añasco",
+      "type": "municipio",
+      "id": 4562605
+    },
+    {
+      "admin1": "013",
+      "code": "013",
+      "iso": "PR-013",
+      "name": "Arecibo",
+      "type": "municipio",
+      "id": 4562640
+    },
+    {
+      "admin1": "015",
+      "code": "015",
+      "iso": "PR-015",
+      "name": "Arroyo",
+      "type": "municipio",
+      "id": 4562682
+    },
+    {
+      "admin1": "017",
+      "code": "017",
+      "iso": "PR-017",
+      "name": "Barceloneta",
+      "type": "municipio",
+      "id": 4562771
+    },
+    {
+      "admin1": "019",
+      "code": "019",
+      "iso": "PR-019",
+      "name": "Barranquitas",
+      "type": "municipio",
+      "id": 4562779
+    },
+    {
+      "admin1": "021",
+      "code": "021",
+      "iso": "PR-021",
+      "name": "Bayamón",
+      "type": "municipio",
+      "id": 4562837
+    },
+    {
+      "admin1": "023",
+      "code": "023",
+      "iso": "PR-023",
+      "name": "Cabo Rojo",
+      "type": "municipio",
+      "id": 4562997
+    },
+    {
+      "admin1": "025",
+      "code": "025",
+      "iso": "PR-025",
+      "name": "Caguas",
+      "type": "municipio",
+      "id": 4563011
+    },
+    {
+      "admin1": "027",
+      "code": "027",
+      "iso": "PR-027",
+      "name": "Camuy",
+      "type": "municipio",
+      "id": 4563065
+    },
+    {
+      "admin1": "029",
+      "code": "029",
+      "iso": "PR-029",
+      "name": "Canóvanas",
+      "type": "municipio",
+      "id": 4563169
+    },
+    {
+      "admin1": "031",
+      "code": "031",
+      "iso": "PR-031",
+      "name": "Carolina",
+      "type": "municipio",
+      "id": 4563244
+    },
+    {
+      "admin1": "033",
+      "code": "033",
+      "iso": "PR-033",
+      "name": "Cataño",
+      "type": "municipio",
+      "id": 4563299
+    },
+    {
+      "admin1": "035",
+      "code": "035",
+      "iso": "PR-035",
+      "name": "Cayey",
+      "type": "municipio",
+      "id": 4563309
+    },
+    {
+      "admin1": "037",
+      "code": "037",
+      "iso": "PR-037",
+      "name": "Ceiba",
+      "type": "municipio",
+      "id": 4563380
+    },
+    {
+      "admin1": "039",
+      "code": "039",
+      "iso": "PR-039",
+      "name": "Ciales",
+      "type": "municipio",
+      "id": 4563774
+    },
+    {
+      "admin1": "041",
+      "code": "041",
+      "iso": "PR-041",
+      "name": "Cidra",
+      "type": "municipio",
+      "id": 4563778
+    },
+    {
+      "admin1": "043",
+      "code": "043",
+      "iso": "PR-043",
+      "name": "Coamo",
+      "type": "municipio",
+      "id": 4563812
+    },
+    {
+      "admin1": "045",
+      "code": "045",
+      "iso": "PR-045",
+      "name": "Comerío",
+      "type": "municipio",
+      "id": 4563921
+    },
+    {
+      "admin1": "047",
+      "code": "047",
+      "iso": "PR-047",
+      "name": "Corozal",
+      "type": "municipio",
+      "id": 4564004
+    },
+    {
+      "admin1": "049",
+      "code": "049",
+      "iso": "PR-049",
+      "name": "Culebra",
+      "type": "municipio",
+      "id": 4564071
+    },
+    {
+      "admin1": "051",
+      "code": "051",
+      "iso": "PR-051",
+      "name": "Dorado",
+      "type": "municipio",
+      "id": 4564134
+    },
+    {
+      "admin1": "053",
+      "code": "053",
+      "iso": "PR-053",
+      "name": "Fajardo",
+      "type": "municipio",
+      "id": 4564949
+    },
+    {
+      "admin1": "054",
+      "code": "054",
+      "iso": "PR-054",
+      "name": "Florida",
+      "type": "municipio",
+      "id": 4564993
+    },
+    {
+      "admin1": "055",
+      "code": "055",
+      "iso": "PR-055",
+      "name": "Guánica",
+      "type": "municipio",
+      "id": 4565091
+    },
+    {
+      "admin1": "057",
+      "code": "057",
+      "iso": "PR-057",
+      "name": "Guayama",
+      "type": "municipio",
+      "id": 4565107
+    },
+    {
+      "admin1": "059",
+      "code": "059",
+      "iso": "PR-059",
+      "name": "Guayanilla",
+      "type": "municipio",
+      "id": 4565112
+    },
+    {
+      "admin1": "061",
+      "code": "061",
+      "iso": "PR-061",
+      "name": "Guaynabo",
+      "type": "municipio",
+      "id": 4565120
+    },
+    {
+      "admin1": "063",
+      "code": "063",
+      "iso": "PR-063",
+      "name": "Gurabo",
+      "type": "municipio",
+      "id": 4565126
+    },
+    {
+      "admin1": "065",
+      "code": "065",
+      "iso": "PR-065",
+      "name": "Hatillo",
+      "type": "municipio",
+      "id": 4565348
+    },
+    {
+      "admin1": "067",
+      "code": "067",
+      "iso": "PR-067",
+      "name": "Hormigueros",
+      "type": "municipio",
+      "id": 4565381
+    },
+    {
+      "admin1": "069",
+      "code": "069",
+      "iso": "PR-069",
+      "name": "Humacao",
+      "type": "municipio",
+      "id": 4565449
+    },
+    {
+      "admin1": "071",
+      "code": "071",
+      "iso": "PR-071",
+      "name": "Isabela",
+      "type": "municipio",
+      "id": 4565581
+    },
+    {
+      "admin1": "073",
+      "code": "073",
+      "iso": "PR-073",
+      "name": "Jayuya",
+      "type": "municipio",
+      "id": 4565684
+    },
+    {
+      "admin1": "075",
+      "code": "075",
+      "iso": "PR-075",
+      "name": "Juana Díaz",
+      "type": "municipio",
+      "id": 4565713
+    },
+    {
+      "admin1": "077",
+      "code": "077",
+      "iso": "PR-077",
+      "name": "Juncos",
+      "type": "municipio",
+      "id": 4565720
+    },
+    {
+      "admin1": "079",
+      "code": "079",
+      "iso": "PR-079",
+      "name": "Lajas",
+      "type": "municipio",
+      "id": 4565900
+    },
+    {
+      "admin1": "081",
+      "code": "081",
+      "iso": "PR-081",
+      "name": "Lares",
+      "type": "municipio",
+      "id": 4565910
+    },
+    {
+      "admin1": "083",
+      "code": "083",
+      "iso": "PR-083",
+      "name": "Las Marías",
+      "type": "municipio",
+      "id": 4565961
+    },
+    {
+      "admin1": "085",
+      "code": "085",
+      "iso": "PR-085",
+      "name": "Las Piedras",
+      "type": "municipio",
+      "id": 4565981
+    },
+    {
+      "admin1": "087",
+      "code": "087",
+      "iso": "PR-087",
+      "name": "Loíza",
+      "type": "municipio",
+      "id": 4566025
+    },
+    {
+      "admin1": "089",
+      "code": "089",
+      "iso": "PR-089",
+      "name": "Luquillo",
+      "type": "municipio",
+      "id": 4566106
+    },
+    {
+      "admin1": "091",
+      "code": "091",
+      "iso": "PR-091",
+      "name": "Manatí",
+      "type": "municipio",
+      "id": 4566138
+    },
+    {
+      "admin1": "093",
+      "code": "093",
+      "iso": "PR-093",
+      "name": "Maricao",
+      "type": "municipio",
+      "id": 4566180
+    },
+    {
+      "admin1": "095",
+      "code": "095",
+      "iso": "PR-095",
+      "name": "Maunabo",
+      "type": "municipio",
+      "id": 4566209
+    },
+    {
+      "admin1": "097",
+      "code": "097",
+      "iso": "PR-097",
+      "name": "Mayagüez",
+      "type": "municipio",
+      "id": 4566217
+    },
+    {
+      "admin1": "099",
+      "code": "099",
+      "iso": "PR-099",
+      "name": "Moca",
+      "type": "municipio",
+      "id": 4566272
+    },
+    {
+      "admin1": "101",
+      "code": "101",
+      "iso": "PR-101",
+      "name": "Morovis",
+      "type": "municipio",
+      "id": 4566334
+    },
+    {
+      "admin1": "103",
+      "code": "103",
+      "iso": "PR-103",
+      "name": "Naguabo",
+      "type": "municipio",
+      "id": 4566397
+    },
+    {
+      "admin1": "105",
+      "code": "105",
+      "iso": "PR-105",
+      "name": "Naranjito",
+      "type": "municipio",
+      "id": 4566403
+    },
+    {
+      "admin1": "107",
+      "code": "107",
+      "iso": "PR-107",
+      "name": "Orocovis",
+      "type": "municipio",
+      "id": 4566456
+    },
+    {
+      "admin1": "109",
+      "code": "109",
+      "iso": "PR-109",
+      "name": "Patillas",
+      "type": "municipio",
+      "id": 4566654
+    },
+    {
+      "admin1": "111",
+      "code": "111",
+      "iso": "PR-111",
+      "name": "Peñuelas",
+      "type": "municipio",
+      "id": 4566689
+    },
+    {
+      "admin1": "113",
+      "code": "113",
+      "iso": "PR-113",
+      "name": "Ponce",
+      "type": "municipio",
+      "id": 4566886
+    },
+    {
+      "admin1": "115",
+      "code": "115",
+      "iso": "PR-115",
+      "name": "Quebradillas",
+      "type": "municipio",
+      "id": 4567734
+    },
+    {
+      "admin1": "117",
+      "code": "117",
+      "iso": "PR-117",
+      "name": "Rincón",
+      "type": "municipio",
+      "id": 4567727
+    },
+    {
+      "admin1": "119",
+      "code": "119",
+      "iso": "PR-119",
+      "name": "Río Grande",
+      "type": "municipio",
+      "id": 4567823
+    },
+    {
+      "admin1": "121",
+      "code": "121",
+      "iso": "PR-121",
+      "name": "Sabana Grande",
+      "type": "municipio",
+      "id": 4568015
+    },
+    {
+      "admin1": "123",
+      "code": "123",
+      "iso": "PR-123",
+      "name": "Salinas",
+      "type": "municipio",
+      "id": 4568043
+    },
+    {
+      "admin1": "125",
+      "code": "125",
+      "iso": "PR-125",
+      "name": "San Germán",
+      "type": "municipio",
+      "id": 4568105
+    },
+    {
+      "admin1": "127",
+      "code": "127",
+      "iso": "PR-127",
+      "name": "San Juan",
+      "type": "municipio",
+      "id": 4568138
+    },
+    {
+      "admin1": "129",
+      "code": "129",
+      "iso": "PR-129",
+      "name": "San Lorenzo",
+      "type": "municipio",
+      "id": 4568150
+    },
+    {
+      "admin1": "131",
+      "code": "131",
+      "iso": "PR-131",
+      "name": "San Sebastián",
+      "type": "municipio",
+      "id": 4568177
+    },
+    {
+      "admin1": "133",
+      "code": "133",
+      "iso": "PR-133",
+      "name": "Santa Isabel",
+      "type": "municipio",
+      "id": 4568213
+    },
+    {
+      "admin1": "135",
+      "code": "135",
+      "iso": "PR-135",
+      "name": "Toa Alta",
+      "type": "municipio",
+      "id": 4568404
+    },
+    {
+      "admin1": "137",
+      "code": "137",
+      "iso": "PR-137",
+      "name": "Toa Baja",
+      "type": "municipio",
+      "id": 4568408
+    },
+    {
+      "admin1": "139",
+      "code": "139",
+      "iso": "PR-139",
+      "name": "Trujillo Alto",
+      "type": "municipio",
+      "id": 4568452
+    },
+    {
+      "admin1": "141",
+      "code": "141",
+      "iso": "PR-141",
+      "name": "Utuado",
+      "type": "municipio",
+      "id": 4568491
+    },
+    {
+      "admin1": "143",
+      "code": "143",
+      "iso": "PR-143",
+      "name": "Vega Alta",
+      "type": "municipio",
+      "id": 4568529
+    },
+    {
+      "admin1": "145",
+      "code": "145",
+      "iso": "PR-145",
+      "name": "Vega Baja",
+      "type": "municipio",
+      "id": 4568534
+    },
+    {
+      "admin1": "147",
+      "code": "147",
+      "iso": "PR-147",
+      "name": "Vieques",
+      "type": "municipio",
+      "id": 4568924
+    },
+    {
+      "admin1": "149",
+      "code": "149",
+      "iso": "PR-149",
+      "name": "Villalba",
+      "type": "municipio",
+      "id": 4568684
+    },
+    {
+      "admin1": "151",
+      "code": "151",
+      "iso": "PR-151",
+      "name": "Yabucoa",
+      "type": "municipio",
+      "id": 4568909
+    },
+    {
+      "admin1": "153",
+      "code": "153",
+      "iso": "PR-153",
+      "name": "Yauco",
+      "type": "municipio",
+      "id": 4568918
+    }
+  ],
+  "UY": [
+    {
+      "admin1": "01",
+      "code": "AR",
+      "iso": "UY-AR",
+      "name": "Artigas",
+      "type": "departamento",
+      "id": 3443756
+    },
+    {
+      "admin1": "02",
+      "code": "CA",
+      "iso": "UY-CA",
+      "name": "Canelones",
+      "type": "departamento",
+      "id": 3443411
+    },
+    {
+      "admin1": "03",
+      "code": "CL",
+      "iso": "UY-CL",
+      "name": "Cerro Largo",
+      "type": "departamento",
+      "id": 3443173
+    },
+    {
+      "admin1": "04",
+      "code": "CO",
+      "iso": "UY-CO",
+      "name": "Colonia",
+      "type": "departamento",
+      "id": 3443025
+    },
+    {
+      "admin1": "05",
+      "code": "DU",
+      "iso": "UY-DU",
+      "name": "Durazno",
+      "type": "departamento",
+      "id": 3442720
+    },
+    {
+      "admin1": "06",
+      "code": "FS",
+      "iso": "UY-FS",
+      "name": "Flores",
+      "type": "departamento",
+      "id": 3442587
+    },
+    {
+      "admin1": "07",
+      "code": "FD",
+      "iso": "UY-FD",
+      "name": "Florida",
+      "type": "departamento",
+      "id": 3442584
+    },
+    {
+      "admin1": "08",
+      "code": "LA",
+      "iso": "UY-LA",
+      "name": "Lavalleja",
+      "type": "departamento",
+      "id": 3442007
+    },
+    {
+      "admin1": "09",
+      "code": "MA",
+      "iso": "UY-MA",
+      "name": "Maldonado",
+      "type": "departamento",
+      "id": 3441890
+    },
+    {
+      "admin1": "10",
+      "code": "MO",
+      "iso": "UY-MO",
+      "name": "Montevideo",
+      "type": "departamento",
+      "id": 3441572
+    },
+    {
+      "admin1": "11",
+      "code": "PA",
+      "iso": "UY-PA",
+      "name": "Paysandú",
+      "type": "departamento",
+      "id": 3441242
+    },
+    {
+      "admin1": "12",
+      "code": "RN",
+      "iso": "UY-RN",
+      "name": "Río Negro",
+      "type": "departamento",
+      "id": 3440789
+    },
+    {
+      "admin1": "13",
+      "code": "RV",
+      "iso": "UY-RV",
+      "name": "Rivera",
+      "type": "departamento",
+      "id": 3440780
+    },
+    {
+      "admin1": "14",
+      "code": "RO",
+      "iso": "UY-RO",
+      "name": "Rocha",
+      "type": "departamento",
+      "id": 3440771
+    },
+    {
+      "admin1": "15",
+      "code": "SA",
+      "iso": "UY-SA",
+      "name": "Salto",
+      "type": "departamento",
+      "id": 3440711
+    },
+    {
+      "admin1": "16",
+      "code": "SJ",
+      "iso": "UY-SJ",
+      "name": "San José",
+      "type": "departamento",
+      "id": 3440645
+    },
+    {
+      "admin1": "17",
+      "code": "SO",
+      "iso": "UY-SO",
+      "name": "Soriano",
+      "type": "departamento",
+      "id": 3440054
+    },
+    {
+      "admin1": "18",
+      "code": "TA",
+      "iso": "UY-TA",
+      "name": "Tacuarembó",
+      "type": "departamento",
+      "id": 3440033
+    },
+    {
+      "admin1": "19",
+      "code": "TT",
+      "iso": "UY-TT",
+      "name": "Treinta y Tres",
+      "type": "departamento",
+      "id": 3439780
+    }
+  ],
+  "VE": [
+    {
+      "admin1": "01",
+      "code": "Z",
+      "iso": "VE-Z",
+      "name": "Amazonas",
+      "type": "estado",
+      "id": 3649302
+    },
+    {
+      "admin1": "02",
+      "code": "B",
+      "iso": "VE-B",
+      "name": "Anzoátegui",
+      "type": "estado",
+      "id": 3649198
+    },
+    {
+      "admin1": "03",
+      "code": "C",
+      "iso": "VE-C",
+      "name": "Apure",
+      "type": "estado",
+      "id": 3649151
+    },
+    {
+      "admin1": "04",
+      "code": "D",
+      "iso": "VE-D",
+      "name": "Aragua",
+      "type": "estado",
+      "id": 3649110
+    },
+    {
+      "admin1": "05",
+      "code": "E",
+      "iso": "VE-E",
+      "name": "Barinas",
+      "type": "estado",
+      "id": 3648544
+    },
+    {
+      "admin1": "06",
+      "code": "F",
+      "iso": "VE-F",
+      "name": "Bolívar",
+      "type": "estado",
+      "id": 3648106
+    },
+    {
+      "admin1": "07",
+      "code": "G",
+      "iso": "VE-G",
+      "name": "Carabobo",
+      "type": "estado",
+      "id": 3646751
+    },
+    {
+      "admin1": "08",
+      "code": "H",
+      "iso": "VE-H",
+      "name": "Cojedes",
+      "type": "estado",
+      "id": 3645386
+    },
+    {
+      "admin1": "09",
+      "code": "Y",
+      "iso": "VE-Y",
+      "name": "Delta Amacuro",
+      "type": "estado",
+      "id": 3644541
+    },
+    {
+      "admin1": "24",
+      "code": "W",
+      "iso": "VE-W",
+      "name": "Dependencias Federales",
+      "type": "dependencia federal",
+      "id": 3640846
+    },
+    {
+      "admin1": "25",
+      "code": "A",
+      "iso": "VE-A",
+      "name": "Distrito Capital",
+      "type": "distrito capital",
+      "id": 3640847
+    },
+    {
+      "admin1": "11",
+      "code": "I",
+      "iso": "VE-I",
+      "name": "Falcón",
+      "type": "estado",
+      "id": 3640873
+    },
+    {
+      "admin1": "12",
+      "code": "J",
+      "iso": "VE-J",
+      "name": "Guárico",
+      "type": "estado",
+      "id": 3640017
+    },
+    {
+      "admin1": "26",
+      "code": "X",
+      "iso": "VE-X",
+      "name": "La Guaira",
+      "type": "estado",
+      "id": 3830309
+    },
+    {
+      "admin1": "13",
+      "code": "K",
+      "iso": "VE-K",
+      "name": "Lara",
+      "type": "estado",
+      "id": 3636539
+    },
+    {
+      "admin1": "14",
+      "code": "L",
+      "iso": "VE-L",
+      "name": "Mérida",
+      "type": "estado",
+      "id": 3632306
+    },
+    {
+      "admin1": "15",
+      "code": "M",
+      "iso": "VE-M",
+      "name": "Miranda",
+      "type": "estado",
+      "id": 3632191
+    },
+    {
+      "admin1": "16",
+      "code": "N",
+      "iso": "VE-N",
+      "name": "Monagas",
+      "type": "estado",
+      "id": 3632100
+    },
+    {
+      "admin1": "17",
+      "code": "O",
+      "iso": "VE-O",
+      "name": "Nueva Esparta",
+      "type": "estado",
+      "id": 3631462
+    },
+    {
+      "admin1": "18",
+      "code": "P",
+      "iso": "VE-P",
+      "name": "Portuguesa",
+      "type": "estado",
+      "id": 3629941
+    },
+    {
+      "admin1": "19",
+      "code": "R",
+      "iso": "VE-R",
+      "name": "Sucre",
+      "type": "estado",
+      "id": 3626655
+    },
+    {
+      "admin1": "20",
+      "code": "S",
+      "iso": "VE-S",
+      "name": "Táchira",
+      "type": "estado",
+      "id": 3626553
+    },
+    {
+      "admin1": "21",
+      "code": "T",
+      "iso": "VE-T",
+      "name": "Trujillo",
+      "type": "estado",
+      "id": 3625974
+    },
+    {
+      "admin1": "22",
+      "code": "U",
+      "iso": "VE-U",
+      "name": "Yaracuy",
+      "type": "estado",
+      "id": 3625210
+    },
+    {
+      "admin1": "23",
+      "code": "V",
+      "iso": "VE-V",
+      "name": "Zulia",
+      "type": "estado",
+      "id": 3625035
+    }
+  ],
+  "BZ": [
+    {
+      "admin1": "01",
+      "code": "BZ",
+      "iso": "BZ-BZ",
+      "name": "Belize",
+      "type": "distrito",
+      "id": 3582676
+    },
+    {
+      "admin1": "02",
+      "code": "CY",
+      "iso": "BZ-CY",
+      "name": "Cayo",
+      "type": "distrito",
+      "id": 3582429
+    },
+    {
+      "admin1": "03",
+      "code": "CZL",
+      "iso": "BZ-CZL",
+      "name": "Corozal",
+      "type": "distrito",
+      "id": 3582302
+    },
+    {
+      "admin1": "04",
+      "code": "OW",
+      "iso": "BZ-OW",
+      "name": "Orange Walk",
+      "type": "distrito",
+      "id": 3581511
+    },
+    {
+      "admin1": "05",
+      "code": "SC",
+      "iso": "BZ-SC",
+      "name": "Stann Creek",
+      "type": "distrito",
+      "id": 3580975
+    },
+    {
+      "admin1": "06",
+      "code": "TOL",
+      "iso": "BZ-TOL",
+      "name": "Toledo",
+      "type": "distrito",
+      "id": 3580913
+    }
+  ],
+  "GY": [
+    {
+      "admin1": "10",
+      "code": "BA",
+      "iso": "GY-BA",
+      "name": "Barima-Waini",
+      "type": "región",
+      "id": 3379515
+    },
+    {
+      "admin1": "11",
+      "code": "CU",
+      "iso": "GY-CU",
+      "name": "Cuyuni-Mazaruni",
+      "type": "región",
+      "id": 3379023
+    },
+    {
+      "admin1": "12",
+      "code": "DE",
+      "iso": "GY-DE",
+      "name": "Demerara-Mahaica",
+      "type": "región",
+      "id": 3378950
+    },
+    {
+      "admin1": "13",
+      "code": "EB",
+      "iso": "GY-EB",
+      "name": "East Berbice-Corentyne",
+      "type": "región",
+      "id": 3378840
+    },
+    {
+      "admin1": "14",
+      "code": "ES",
+      "iso": "GY-ES",
+      "name": "Essequibo Islands-West Demerara",
+      "type": "región",
+      "id": 3378741
+    },
+    {
+      "admin1": "15",
+      "code": "MA",
+      "iso": "GY-MA",
+      "name": "Mahaica-Berbice",
+      "type": "región",
+      "id": 3377274
+    },
+    {
+      "admin1": "16",
+      "code": "PM",
+      "iso": "GY-PM",
+      "name": "Pomeroon-Supenaam",
+      "type": "región",
+      "id": 3376407
+    },
+    {
+      "admin1": "17",
+      "code": "PT",
+      "iso": "GY-PT",
+      "name": "Potaro-Siparuni",
+      "type": "región",
+      "id": 3376386
+    },
+    {
+      "admin1": "18",
+      "code": "UD",
+      "iso": "GY-UD",
+      "name": "Upper Demerara-Berbice",
+      "type": "región",
+      "id": 3375469
+    },
+    {
+      "admin1": "19",
+      "code": "UT",
+      "iso": "GY-UT",
+      "name": "Upper Takutu-Upper Essequibo",
+      "type": "región",
+      "id": 3375463
+    }
+  ],
+  "SR": [
+    {
+      "admin1": "10",
+      "code": "BR",
+      "iso": "SR-BR",
+      "name": "Brokopondo",
+      "type": "distrito",
+      "id": 3384481
+    },
+    {
+      "admin1": "11",
+      "code": "CM",
+      "iso": "SR-CM",
+      "name": "Commewijne",
+      "type": "distrito",
+      "id": 3384418
+    },
+    {
+      "admin1": "12",
+      "code": "CR",
+      "iso": "SR-CR",
+      "name": "Coronie",
+      "type": "distrito",
+      "id": 3384397
+    },
+    {
+      "admin1": "13",
+      "code": "MA",
+      "iso": "SR-MA",
+      "name": "Marowijne",
+      "type": "distrito",
+      "id": 3383560
+    },
+    {
+      "admin1": "14",
+      "code": "NI",
+      "iso": "SR-NI",
+      "name": "Nickerie",
+      "type": "distrito",
+      "id": 3383438
+    },
+    {
+      "admin1": "15",
+      "code": "PR",
+      "iso": "SR-PR",
+      "name": "Para",
+      "type": "distrito",
+      "id": 3383337
+    },
+    {
+      "admin1": "16",
+      "code": "PM",
+      "iso": "SR-PM",
+      "name": "Paramaribo",
+      "type": "distrito",
+      "id": 3383329
+    },
+    {
+      "admin1": "17",
+      "code": "SA",
+      "iso": "SR-SA",
+      "name": "Saramacca",
+      "type": "distrito",
+      "id": 3383110
+    },
+    {
+      "admin1": "18",
+      "code": "SI",
+      "iso": "SR-SI",
+      "name": "Sipaliwini",
+      "type": "distrito",
+      "id": 3383062
+    },
+    {
+      "admin1": "19",
+      "code": "WA",
+      "iso": "SR-WA",
+      "name": "Wanica",
+      "type": "distrito",
+      "id": 3382761
+    }
+  ],
+  "GF": [
+    {
+      "admin1": "GF",
+      "code": "GF",
+      "iso": "GF-GF",
+      "name": "Guayana Francesa",
+      "type": "territorio",
+      "id": 6690605
+    }
+  ],
+  "HT": [
+    {
+      "admin1": "06",
+      "code": "AR",
+      "iso": "HT-AR",
+      "name": "Artibonite",
+      "type": "departamento",
+      "id": 3731053
+    },
+    {
+      "admin1": "07",
+      "code": "CE",
+      "iso": "HT-CE",
+      "name": "Centre",
+      "type": "departamento",
+      "id": 3728069
+    },
+    {
+      "admin1": "14",
+      "code": "GA",
+      "iso": "HT-GA",
+      "name": "Grand'Anse",
+      "type": "departamento",
+      "id": 3724613
+    },
+    {
+      "admin1": "15",
+      "code": "NI",
+      "iso": "HT-NI",
+      "name": "Nippes",
+      "type": "departamento",
+      "id": 7115999
+    },
+    {
+      "admin1": "09",
+      "code": "ND",
+      "iso": "HT-ND",
+      "name": "Nord",
+      "type": "departamento",
+      "id": 3719543
+    },
+    {
+      "admin1": "10",
+      "code": "NE",
+      "iso": "HT-NE",
+      "name": "Nord-Est",
+      "type": "departamento",
+      "id": 3719540
+    },
+    {
+      "admin1": "03",
+      "code": "NO",
+      "iso": "HT-NO",
+      "name": "Nord-Ouest",
+      "type": "departamento",
+      "id": 3719536
+    },
+    {
+      "admin1": "11",
+      "code": "OU",
+      "iso": "HT-OU",
+      "name": "Ouest",
+      "type": "departamento",
+      "id": 3719432
+    },
+    {
+      "admin1": "12",
+      "code": "SD",
+      "iso": "HT-SD",
+      "name": "Sud",
+      "type": "departamento",
+      "id": 3716952
+    },
+    {
+      "admin1": "13",
+      "code": "SE",
+      "iso": "HT-SE",
+      "name": "Sud-Est",
+      "type": "departamento",
+      "id": 3716950
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+{"id":4562792,"name":"Barriada Polvorin","lat":18.11302,"lng":-66.16044,"population":0,"fcode":"PPL","municipality":"Cayey Barrio-Pueblo"},
+{"id":4562844,"name":"Beatriz","lat":18.15774,"lng":-66.096,"population":0,"fcode":"PPL","municipality":"Beatriz Barrio"},
+{"id":4562974,"name":"Buena Vista","lat":18.11913,"lng":-66.17878,"population":0,"fcode":"PPL","municipality":"Cayey Barrio-Pueblo"},
+{"id":4563044,"name":"Campamento Guavate","lat":18.11413,"lng":-66.06433,"population":0,"fcode":"PPL","municipality":"Farallón Barrio"},
+{"id":4563308,"name":"Cayey","lat":18.11191,"lng":-66.166,"population":18494,"fcode":"PPLA","municipality":"Cayey Barrio-Pueblo"},
+{"id":7276417,"name":"Cayey Zona Urbana","lat":18.11502,"lng":-66.163,"population":0,"fcode":"PPL","municipality":"Cayey Barrio-Pueblo"},
+{"id":4564202,"name":"El Hoyo","lat":18.11385,"lng":-66.16517,"population":0,"fcode":"PPL","municipality":"Cayey Barrio-Pueblo"},
+{"id":4564967,"name":"Fernandez Colon","lat":18.11079,"lng":-66.15739,"population":0,"fcode":"PPL","municipality":"Cayey Barrio-Pueblo"},
+{"id":4565032,"name":"G. L. Garcia","lat":18.12746,"lng":-66.10405,"population":1798,"fcode":"PPL","municipality":"Vegas Barrio"},
+{"id":7275064,"name":"G. L. García Comunidad","ascii":"G. L. Garcia Comunidad","lat":18.1259,"lng":-66.10261,"population":0,"fcode":"PPL","municipality":"Vegas Barrio"},
+{"id":4565627,"name":"Jajome","lat":18.0633,"lng":-66.16017,"population":0,"fcode":"PPL","municipality":"Jájome Bajo Barrio"},
+{"id":4565802,"name":"La Placita","lat":18.12329,"lng":-66.18072,"population":0,"fcode":"PPL","municipality":"Toíta Barrio"},
+{"id":4566260,"name":"Mirador Echevarria","lat":18.10941,"lng":-66.171,"population":0,"fcode":"PPL","municipality":"Cayey Barrio-Pueblo"},
+{"id":4566261,"name":"Mirador Universitario","lat":18.11468,"lng":-66.15211,"population":0,"fcode":"PPL","municipality":"Cayey Barrio-Pueblo"},
+{"id":4568414,"name":"Toita","lat":18.13052,"lng":-66.18989,"population":0,"fcode":"PPL","municipality":"Toíta Barrio"},
+{"id":4568537,"name":"Vegas","lat":18.12857,"lng":-66.10961,"population":0,"fcode":"PPL","municipality":"Vegas Barrio"}
+]

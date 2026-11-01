@@ -1,0 +1,19 @@
+[
+{"id":4562585,"name":"Alturas de San Lorenzo","lat":18.17996,"lng":-65.95739,"population":0,"fcode":"PPL","municipality":"Cerro Gordo Barrio"},
+{"id":4562625,"name":"Aponte","lat":18.19301,"lng":-65.96766,"population":0,"fcode":"PPL","municipality":"Hato Barrio"},
+{"id":4564124,"name":"Dolores Gonzales Diaz Don Lolo","lat":18.18885,"lng":-65.95989,"population":0,"fcode":"PPL","municipality":"San Lorenzo Barrio-Pueblo"},
+{"id":4564125,"name":"Domencech","lat":18.49411,"lng":-67.02574,"population":0,"fcode":"PPL"},
+{"id":4564903,"name":"Estancias de San Lorenzo","lat":18.1894,"lng":-65.96961,"population":0,"fcode":"PPL","municipality":"Hato Barrio"},
+{"id":4565621,"name":"Jagual","lat":18.16163,"lng":-65.99544,"population":1402,"fcode":"PPL","municipality":"Jagual Barrio"},
+{"id":7275074,"name":"Jagual Comunidad","lat":18.16105,"lng":-65.99912,"population":0,"fcode":"PPL","municipality":"Jagual Barrio"},
+{"id":4565665,"name":"Jardines de San Lorenzo","lat":18.18051,"lng":-65.966,"population":0,"fcode":"PPL","municipality":"Quemados Barrio"},
+{"id":4565969,"name":"Las Mercedes","lat":18.18996,"lng":-65.96461,"population":0,"fcode":"PPL","municipality":"Hato Barrio"},
+{"id":4566099,"name":"Luis Munoz Marin","lat":18.1919,"lng":-65.97183,"population":0,"fcode":"PPL","municipality":"Hato Barrio"},
+{"id":4566200,"name":"Masso","lat":18.18635,"lng":-65.96155,"population":0,"fcode":"PPL","municipality":"Quemados Barrio"},
+{"id":4566318,"name":"Monterrey","lat":18.1819,"lng":-65.95683,"population":0,"fcode":"PPL","municipality":"Cerro Gordo Barrio"},
+{"id":4567555,"name":"Quemados","lat":18.18246,"lng":-65.98683,"population":0,"fcode":"PPL","municipality":"Quemados Barrio"},
+{"id":4567991,"name":"Roosevelt","lat":18.19551,"lng":-65.96489,"population":0,"fcode":"PPL","municipality":"San Lorenzo Barrio-Pueblo"},
+{"id":4568149,"name":"San Lorenzo","lat":18.1894,"lng":-65.961,"population":9373,"fcode":"PPLA","municipality":"San Lorenzo Barrio-Pueblo"},
+{"id":7276387,"name":"San Lorenzo Zona Urbana","lat":18.18939,"lng":-65.96749,"population":0,"fcode":"PPL","municipality":"Hato Barrio"},
+{"id":4568204,"name":"Santa Clara","lat":18.19662,"lng":-65.971,"population":0,"fcode":"PPL","municipality":"Hato Barrio"}
+]

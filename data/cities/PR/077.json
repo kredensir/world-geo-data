@@ -1,0 +1,17 @@
+[
+{"id":4563173,"name":"Cantagallo","lat":18.24245,"lng":-65.93489,"population":0,"fcode":"PPL","municipality":"Mamey Barrio"},
+{"id":4564206,"name":"El Mangó","ascii":"El Mango","lat":18.23412,"lng":-65.87961,"population":1979,"fcode":"PPL","municipality":"Caimito Barrio"},
+{"id":7275056,"name":"El Mangó Comunidad","ascii":"El Mango Comunidad","lat":18.23446,"lng":-65.87511,"population":0,"fcode":"PPL","municipality":"Caimito Barrio"},
+{"id":4565639,"name":"Jardines de Barcelona","lat":18.21968,"lng":-65.91627,"population":0,"fcode":"PPL","municipality":"Ceiba Sur Barrio"},
+{"id":4565652,"name":"Jardines de Juncos","lat":18.21523,"lng":-65.91377,"population":0,"fcode":"PPL","municipality":"Ceiba Sur Barrio"},
+{"id":4565718,"name":"Juncos","lat":18.22746,"lng":-65.921,"population":8905,"fcode":"PPLA","municipality":"Juncos Barrio-Pueblo"},
+{"id":7276439,"name":"Juncos Zona Urbana","lat":18.22647,"lng":-65.9163,"population":0,"fcode":"PPL","municipality":"Ceiba Norte Barrio"},
+{"id":4565984,"name":"Las Piñas","ascii":"Las Pinas","lat":18.25162,"lng":-65.91766,"population":0,"fcode":"PPL","municipality":"Gurabo Abajo Barrio"},
+{"id":4566117,"name":"Madrid","lat":18.23357,"lng":-65.92127,"population":0,"fcode":"PPL","municipality":"Juncos Barrio-Pueblo"},
+{"id":4566235,"name":"Mendez Lopez","lat":18.2319,"lng":-65.92211,"population":0,"fcode":"PPL","municipality":"Juncos Barrio-Pueblo"},
+{"id":4568293,"name":"Sector Quemado Interior","lat":18.17885,"lng":-65.97016,"population":0,"fcode":"PPL"},
+{"id":4568501,"name":"Valencia","lat":18.22607,"lng":-65.9185,"population":0,"fcode":"PPL","municipality":"Ceiba Sur Barrio"},
+{"id":4568502,"name":"Valencia","lat":18.22218,"lng":-65.92183,"population":0,"fcode":"PPL","municipality":"Ceiba Sur Barrio"},
+{"id":4568617,"name":"Villa Graciela","lat":18.23773,"lng":-65.92322,"population":0,"fcode":"PPL","municipality":"Mamey Barrio"},
+{"id":4568707,"name":"Virginia Valley","lat":18.21023,"lng":-65.91072,"population":0,"fcode":"PPL","municipality":"Ceiba Sur Barrio"}
+]

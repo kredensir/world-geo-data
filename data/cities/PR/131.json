@@ -1,0 +1,22 @@
+[
+{"id":4562783,"name":"Barriada Chinto Rodon","lat":18.34023,"lng":-66.99101,"population":0,"fcode":"PPL","municipality":"Bahomamey Barrio"},
+{"id":4564185,"name":"El Culebrinas","lat":18.33078,"lng":-66.98934,"population":0,"fcode":"PPL","municipality":"Culebrinas Barrio"},
+{"id":4564200,"name":"El Guayabal","lat":18.33912,"lng":-66.97296,"population":0,"fcode":"PPL","municipality":"Piedras Blancas Barrio"},
+{"id":4564237,"name":"El Salto","lat":18.2944,"lng":-66.91018,"population":0,"fcode":"PPL","municipality":"Perchas 1 Barrio"},
+{"id":4564258,"name":"Emerito Estra da Rivera","lat":18.33384,"lng":-66.99157,"population":0,"fcode":"PPL","municipality":"Bahomamey Barrio"},
+{"id":4565310,"name":"Hacienda San Pedro","lat":18.27301,"lng":-66.93351,"population":0,"fcode":"PPL","municipality":"Perchas 2 Barrio"},
+{"id":4565352,"name":"Hato Arriba","lat":18.35578,"lng":-67.03407,"population":732,"fcode":"PPL","municipality":"Hato Arriba Barrio"},
+{"id":7275069,"name":"Hato Arriba Comunidad","lat":18.35036,"lng":-67.0334,"population":0,"fcode":"PPL","municipality":"Hato Arriba Barrio"},
+{"id":4565669,"name":"Jardines de Venturrini","lat":18.33078,"lng":-66.98434,"population":0,"fcode":"PPL","municipality":"Piedras Blancas Barrio"},
+{"id":4565717,"name":"Juncal","lat":18.31384,"lng":-66.91907,"population":1155,"fcode":"PPL","municipality":"Juncal Barrio"},
+{"id":7275077,"name":"Juncal Comunidad","lat":18.31327,"lng":-66.91874,"population":0,"fcode":"PPL","municipality":"Juncal Barrio"},
+{"id":4565764,"name":"La González","ascii":"La Gonzalez","lat":18.33162,"lng":-66.9974,"population":0,"fcode":"PPL","municipality":"Pozas Barrio"},
+{"id":4565794,"name":"La Parada","lat":18.30495,"lng":-67.02351,"population":0,"fcode":"PPL","municipality":"Sonador Barrio"},
+{"id":4566464,"name":"Pacalelo 38","lat":18.33356,"lng":-66.99323,"population":0,"fcode":"PPL","municipality":"Bahomamey Barrio"},
+{"id":4566665,"name":"Pedro Tomas La Valle","lat":18.33884,"lng":-66.99351,"population":0,"fcode":"PPL","municipality":"Bahomamey Barrio"},
+{"id":4566695,"name":"Perchas","lat":18.30856,"lng":-66.98073,"population":0,"fcode":"PPL","municipality":"Culebrinas Barrio"},
+{"id":4567579,"name":"Ramón Colón","ascii":"Ramon Colon","lat":18.31162,"lng":-65.97655,"population":0,"fcode":"PPL"},
+{"id":4567618,"name":"Reparto Roman","lat":18.33912,"lng":-66.99268,"population":0,"fcode":"PPL","municipality":"Bahomamey Barrio"},
+{"id":4568175,"name":"San Sebastián","ascii":"San Sebastian","lat":18.33662,"lng":-66.99018,"population":11590,"fcode":"PPLA","municipality":"San Sebastián Barrio-Pueblo"},
+{"id":7276388,"name":"San Sebastián Zona Urbana","ascii":"San Sebastian Zona Urbana","lat":18.33547,"lng":-66.99481,"population":0,"fcode":"PPL","municipality":"Bahomamey Barrio"}
+]

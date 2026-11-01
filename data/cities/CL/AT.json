@@ -1,0 +1,22 @@
+[
+{"id":3899924,"name":"Alto del Carmen","lat":-28.75946,"lng":-70.48651,"population":5034,"fcode":"PPL","municipality":"Provincia de Huasco"},
+{"id":3897322,"name":"Caldera","lat":-27.06812,"lng":-70.81921,"population":16150,"fcode":"PPL","municipality":"Provincia de Copiapó"},
+{"id":12440892,"name":"Carrera Pinto","lat":-27.0828,"lng":-69.93042,"population":0,"fcode":"PPL"},
+{"id":12440898,"name":"Carrizalillo","lat":-27.66672,"lng":-69.79467,"population":0,"fcode":"PPL"},
+{"id":3895554,"name":"Chañaral","ascii":"Chanaral","lat":-26.34298,"lng":-70.61648,"population":0,"fcode":"PPLA2","municipality":"Provincia de Chañaral"},
+{"id":3893656,"name":"Copiapó","ascii":"Copiapo","lat":-27.36737,"lng":-70.33219,"population":129280,"fcode":"PPLA","municipality":"Provincia de Copiapó"},
+{"id":12474490,"name":"Desvío","ascii":"Desvio","lat":-29.26222,"lng":-71.03155,"population":0,"fcode":"PPL"},
+{"id":3892454,"name":"Diego de Almagro","lat":-26.39022,"lng":-70.04556,"population":13925,"fcode":"PPL","municipality":"Provincia de Chañaral"},
+{"id":12440871,"name":"Elisa de Bordos","lat":-27.71888,"lng":-70.18801,"population":0,"fcode":"PPL"},
+{"id":3889317,"name":"Freirina","lat":-28.50917,"lng":-71.08124,"population":6038,"fcode":"PPL","municipality":"Provincia de Huasco"},
+{"id":3887758,"name":"Huasco","lat":-28.46599,"lng":-71.22276,"population":8977,"fcode":"PPL","municipality":"Provincia de Huasco"},
+{"id":12436503,"name":"Las Bombas","lat":-26.02928,"lng":-70.43391,"population":0,"fcode":"PPL"},
+{"id":3881739,"name":"Los Molles","lat":-29.08226,"lng":-71.01925,"population":0,"fcode":"PPL"},
+{"id":12407649,"name":"Los Perales","lat":-27.34314,"lng":-70.55668,"population":0,"fcode":"PPL"},
+{"id":3880492,"name":"María Isabel","ascii":"Maria Isabel","lat":-27.33503,"lng":-70.7782,"population":0,"fcode":"PPL"},
+{"id":3874929,"name":"Puerto Viejo","lat":-27.34606,"lng":-70.78011,"population":0,"fcode":"PPL"},
+{"id":3869877,"name":"Tierra Amarilla","lat":-27.46633,"lng":-70.26255,"population":12898,"fcode":"PPL","municipality":"Provincia de Copiapó"},
+{"id":3868633,"name":"Vallenar","lat":-28.57617,"lng":-70.75938,"population":44895,"fcode":"PPLA2","municipality":"Provincia de Huasco"},
+{"id":8259949,"name":"Vallenar","lat":-28.51576,"lng":-70.25551,"population":0,"fcode":"PPLA3","municipality":"Provincia de Huasco"},
+{"id":12440876,"name":"Villa del Cerro","lat":-27.91045,"lng":-70.0276,"population":0,"fcode":"PPL"}
+]

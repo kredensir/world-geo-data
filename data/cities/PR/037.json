@@ -1,0 +1,22 @@
+[
+{"id":4562517,"name":"Aguas Claras","lat":18.25273,"lng":-65.6535,"population":3499,"fcode":"PPL","municipality":"Chupacallos Barrio"},
+{"id":7275017,"name":"Aguas Claras Comunidad","lat":18.24468,"lng":-65.6662,"population":0,"fcode":"PPL","municipality":"Quebrada Seca Barrio"},
+{"id":4562807,"name":"Barrio Limones","lat":18.26551,"lng":-65.66433,"population":0,"fcode":"PPL","municipality":"Saco Barrio"},
+{"id":4562960,"name":"Brisas de Ceiba I","lat":18.26746,"lng":-65.63766,"population":0,"fcode":"PPL","municipality":"Machos Barrio"},
+{"id":4562961,"name":"Brisas de Cieba","lat":18.27107,"lng":-65.63849,"population":0,"fcode":"PPL","municipality":"Machos Barrio"},
+{"id":4563378,"name":"Ceiba","lat":18.26412,"lng":-65.6485,"population":6277,"fcode":"PPLA","municipality":"Ceiba Barrio-Pueblo"},
+{"id":7276418,"name":"Ceiba Zona Urbana","lat":18.26498,"lng":-65.64881,"population":0,"fcode":"PPL","municipality":"Ceiba Barrio-Pueblo"},
+{"id":4564935,"name":"Extension Santa Maria","lat":18.27246,"lng":-65.65933,"population":0,"fcode":"PPL","municipality":"Saco Barrio"},
+{"id":4565645,"name":"Jardines de Ceiba I","lat":18.25996,"lng":-65.651,"population":0,"fcode":"PPL","municipality":"Ceiba Barrio-Pueblo"},
+{"id":4565646,"name":"Jardines de Ceiba II","lat":18.25996,"lng":-65.65461,"population":0,"fcode":"PPL","municipality":"Ceiba Barrio-Pueblo"},
+{"id":4566059,"name":"Los Colinas Santa Maria","lat":18.27634,"lng":-65.64127,"population":0,"fcode":"PPL","municipality":"Machos Barrio"},
+{"id":4829036,"name":"Quebrada Seca","lat":18.23662,"lng":-65.66488,"population":0,"fcode":"PPL","municipality":"Quebrada Seca Barrio"},
+{"id":4567668,"name":"Residencial Jardines de Ceiba","lat":18.26134,"lng":-65.65183,"population":0,"fcode":"PPL","municipality":"Ceiba Barrio-Pueblo"},
+{"id":4567678,"name":"Residencial La Ceiba","lat":18.2669,"lng":-65.64599,"population":0,"fcode":"PPL","municipality":"Ceiba Barrio-Pueblo"},
+{"id":7274993,"name":"Roosevelt Roads Comunidad","lat":18.23498,"lng":-65.6291,"population":0,"fcode":"PPL","municipality":"Guayacán Barrio"},
+{"id":4568222,"name":"Santa María","ascii":"Santa Maria","lat":18.27357,"lng":-65.662,"population":0,"fcode":"PPL","municipality":"Machos Barrio"},
+{"id":4568587,"name":"Villa Avila","lat":18.2669,"lng":-65.64961,"population":0,"fcode":"PPL","municipality":"Ceiba Barrio-Pueblo"},
+{"id":4568676,"name":"Villa del Pilar","lat":18.26884,"lng":-65.6435,"population":0,"fcode":"PPL","municipality":"Machos Barrio"},
+{"id":4568612,"name":"Villa Flores","lat":18.26829,"lng":-65.65322,"population":0,"fcode":"PPL","municipality":"Chupacallos Barrio"},
+{"id":4568647,"name":"Villa Penetro","lat":18.26218,"lng":-65.64877,"population":0,"fcode":"PPL","municipality":"Ceiba Barrio-Pueblo"}
+]
