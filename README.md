@@ -1,69 +1,73 @@
 # World Geo Data 🌎
 
-[![License: MIT](https://img.shields.io/badge/Código-MIT-blue.svg)](LICENSE)
-[![Data: CC BY 4.0](https://img.shields.io/badge/Datos-CC%20BY%204.0-lightgrey.svg)](LICENSE-DATA)
-[![PRs Welcome](https://img.shields.io/badge/PRs-bienvenidos-brightgreen.svg)](CONTRIBUTING.md)
+**Languages:** [English](README.md) · [Español](README.es.md)
 
-Base de datos geográfica abierta de **países, provincias/estados y ciudades**, pensada para ser consumida como JSON estático desde cualquier lenguaje o framework.
+[![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
+[![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](LICENSE-DATA)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-El proyecto nació con datos parciales de Argentina y ahora incluye:
+An open geographic database of **countries, provinces/states and cities**, designed to be consumed as static JSON from any language or framework.
 
-- 🌍 **250 países** con código ISO, bandera, capital, moneda, idioma, población y coordenadas.
-- 🗺️ **508 provincias/estados** de **25 países de América Latina y el Caribe**.
-- 🏙️ **585.789 ciudades y localidades** de esos mismos países, generadas desde GeoNames.
+The project started with partial data for Argentina and now includes:
 
-> **Objetivo:** cubrir progresivamente todos los países del mundo con la mayor cantidad posible de localidades, sin depender de una API propietaria.
+- 🌍 **250 countries** with ISO codes, flag, capital, currency, languages, population and coordinates.
+- 🗺️ **508 provinces/states** across **25 countries in Latin America and the Caribbean**.
+- 🏙️ **585,789 cities and localities** in those countries, generated from GeoNames.
+
+> **Goal:** progressively cover every country in the world with as many localities as possible, without depending on a proprietary API.
+
+> **Documentation:** this README is available in English and Spanish. The detailed schema and API documents are currently in Spanish; translations are welcome.
 
 ---
 
-## 📦 Cobertura actual
+## 📦 Current coverage
 
-| Región | Países | Provincias/estados | Ciudades/localidades |
+| Region | Countries | Provinces/states | Cities/localities |
 |---|---:|---:|---:|
-| América Latina y el Caribe | 25 | 508 | 585.789 |
-| Resto del mundo | 225 | — | — |
-| **Total de países** | **250** | **508** | **585.789** |
+| Latin America and the Caribbean | 25 | 508 | 585,789 |
+| Rest of the world | 225 | — | — |
+| **Total countries** | **250** | **508** | **585,789** |
 
-Países incluidos en esta primera etapa:
+Countries included in this first phase:
 
-`AR` Argentina · `BO` Bolivia · `BR` Brasil · `BZ` Belice · `CL` Chile · `CO` Colombia · `CR` Costa Rica · `CU` Cuba · `DO` República Dominicana · `EC` Ecuador · `SV` El Salvador · `GF` Guayana Francesa · `GT` Guatemala · `GY` Guyana · `HT` Haití · `HN` Honduras · `MX` México · `NI` Nicaragua · `PA` Panamá · `PE` Perú · `PR` Puerto Rico · `PY` Paraguay · `SR` Surinam · `UY` Uruguay · `VE` Venezuela
+`AR` Argentina · `BO` Bolivia · `BR` Brazil · `BZ` Belize · `CL` Chile · `CO` Colombia · `CR` Costa Rica · `CU` Cuba · `DO` Dominican Republic · `EC` Ecuador · `SV` El Salvador · `GF` French Guiana · `GT` Guatemala · `GY` Guyana · `HT` Haiti · `HN` Honduras · `MX` Mexico · `NI` Nicaragua · `PA` Panama · `PE` Peru · `PR` Puerto Rico · `PY` Paraguay · `SR` Suriname · `UY` Uruguay · `VE` Venezuela
 
-Algunos ejemplos de la mejora respecto de la versión anterior:
+Some examples of the improvement over the previous version:
 
-| País / provincia | Antes | Ahora |
+| Country / province | Before | Now |
 |---|---:|---:|
-| Argentina | ~2.000 localidades | **14.582** |
-| Jujuy (AR) | 88 localidades | **460** |
-| Bolivia | 0 localidades | **25.625** |
-| Brasil | 0 localidades | **66.843** |
-| México | 0 localidades | **265.545** |
+| Argentina | ~2,000 localities | **14,582** |
+| Jujuy (AR) | 88 localities | **460** |
+| Bolivia | 0 localities | **25,625** |
+| Brazil | 0 localities | **66,843** |
+| Mexico | 0 localities | **265,545** |
 
-Los conteos exactos y la fecha de generación están en [`data/index.json`](data/index.json).
+Exact counts and the generation timestamp are in [`data/index.json`](data/index.json).
 
-> **Nota:** la comarca Naso Tjër Di (`PA-NT`) figura como estado con 0 localidades porque GeoNames todavía no asigna ciudades a esa división. El archivo `data/cities/PA/NT.json` existe y está vacío para mantener la estructura consistente.
+> **Note:** the Naso Tjër Di comarca (`PA-NT`) appears as a state with 0 localities because GeoNames does not yet assign cities to that division. The file `data/cities/PA/NT.json` exists and is empty to keep the structure consistent.
 
 ---
 
-## 🚀 Inicio rápido
+## 🚀 Quick start
 
-Todos los archivos son JSON públicos. Podés consumirlos directamente desde GitHub:
+All files are public JSON. You can consume them directly from GitHub:
 
 ```js
 const BASE = 'https://raw.githubusercontent.com/kredensir/world-geo-data/main/data';
 
-// 1. Países
+// 1. Countries
 const countries = await fetch(`${BASE}/countries.json`).then((r) => r.json());
 
-// 2. Provincias de Argentina
+// 2. Provinces/states of Argentina
 const states = await fetch(`${BASE}/states/AR.json`).then((r) => r.json());
 
-// 3. Ciudades de Jujuy (AR-Y)
+// 3. Cities of Jujuy (AR-Y)
 const cities = await fetch(`${BASE}/cities/AR/Y.json`).then((r) => r.json());
 
 console.log(cities.map((city) => city.name));
 ```
 
-### Ejemplo de selects encadenados
+### Chained selects example
 
 ```html
 <select id="country"></select>
@@ -80,16 +84,16 @@ const citySelect = document.getElementById('city');
 fetch(`${BASE}/countries.json`)
   .then((response) => response.json())
   .then((countries) => {
-    countrySelect.innerHTML = '<option value="">Seleccionar país</option>';
+    countrySelect.innerHTML = '<option value="">Select a country</option>';
     for (const country of countries) {
-      countrySelect.innerHTML += `<option value="${country.code}">${country.flag} ${country.name_es}</option>`;
+      countrySelect.innerHTML += `<option value="${country.code}">${country.flag} ${country.name}</option>`;
     }
   });
 
 countrySelect.addEventListener('change', async () => {
   stateSelect.disabled = true;
   citySelect.disabled = true;
-  stateSelect.innerHTML = '<option value="">Seleccionar provincia</option>';
+  stateSelect.innerHTML = '<option value="">Select a province/state</option>';
 
   const response = await fetch(`${BASE}/states/${countrySelect.value}.json`);
   if (!response.ok) return;
@@ -103,7 +107,7 @@ countrySelect.addEventListener('change', async () => {
 
 stateSelect.addEventListener('change', async () => {
   citySelect.disabled = true;
-  citySelect.innerHTML = '<option value="">Seleccionar ciudad</option>';
+  citySelect.innerHTML = '<option value="">Select a city</option>';
 
   const response = await fetch(`${BASE}/cities/${countrySelect.value}/${stateSelect.value}.json`);
   if (!response.ok) return;
@@ -128,52 +132,72 @@ countries = requests.get(f"{BASE}/countries.json", timeout=30).json()
 states = requests.get(f"{BASE}/states/AR.json", timeout=30).json()
 cities = requests.get(f"{BASE}/cities/AR/Y.json", timeout=30).json()
 
-print(countries[0]["name_es"])
+print(countries[0]["name"])
 print(states[0]["name"])
 print(cities[0]["name"])
 ```
 
 ### Laravel / PHP
 
-Hay una guía completa en [`examples/laravel-integration.md`](examples/laravel-integration.md).
+See the full guide in [`examples/laravel-integration.md`](examples/laravel-integration.md).
 
 ---
 
-## 🗂️ Estructura del repositorio
+## 🗂️ Repository structure
 
 ```text
 data/
-├── countries.json              # 250 países
-├── index.json                  # metadatos, cobertura y conteos
+├── countries.json              # 250 countries
+├── index.json                  # metadata, coverage and counts
 ├── states/
-│   ├── AR.json                 # provincias de Argentina
-│   ├── BO.json                 # departamentos de Bolivia
+│   ├── AR.json                 # provinces of Argentina
+│   ├── BO.json                 # departments of Bolivia
 │   └── ...
 └── cities/
     ├── AR/
-    │   ├── A.json              # ciudades de Salta
-    │   ├── B.json              # ciudades de Buenos Aires
-    │   ├── Y.json              # ciudades de Jujuy
+    │   ├── A.json              # cities of Salta
+    │   ├── B.json              # cities of Buenos Aires
+    │   ├── Y.json              # cities of Jujuy
     │   └── ...
     ├── BO/
     │   └── ...
     └── ...
 ```
 
-El nombre del archivo de ciudades es el **código ISO 3166-2 de la provincia sin el prefijo del país**:
+### How are files and cities identified?
+
+Files in `data/cities/` are **not one file per city**: they are one file per province/state containing all localities of that division. The filename is the **ISO 3166-2 code of the province without the country prefix**:
 
 - `AR-B` → `data/cities/AR/B.json`
 - `BR-SP` → `data/cities/BR/SP.json`
 - `MX-CMX` → `data/cities/MX/CMX.json`
 - `CO-ANT` → `data/cities/CO/ANT.json`
+- `PR-001` → `data/cities/PR/001.json`
+- `PA-1` → `data/cities/PA/1.json`
 
-Cuando una división no tiene código ISO, se usa el código `admin1` de GeoNames.
+The full ISO code is stored in the `iso` field of `data/states/{CC}.json`. For example, `data/cities/AR/Y.json` corresponds to `AR-Y` (Jujuy), and `data/states/AR.json` contains `"iso": "AR-Y"`. The path `data/cities/AR/Y.json` reconstructs the full code because the country is the parent directory.
+
+### Why not use the city name as the filename?
+
+Because names are neither stable nor unique identifiers:
+
+- There are homonymous cities in different provinces and countries.
+- They contain accents, spaces, apostrophes and characters that behave differently across filesystems.
+- Windows and macOS filesystems are case-insensitive by default.
+- Names can change over time; the GeoNames ID does not.
+- It would create hundreds of thousands of tiny files instead of files grouped by province.
+
+Every city has an `id` field with its **GeoNames ID**, which is unique and stable. That is the recommended identifier for a locality. To display a name to users, use `name` (and `ascii` when present). Do not use the name as a primary key.
+
+There is no global ISO standard for identifying every city in the world. ISO 3166-1 identifies countries and ISO 3166-2 identifies provinces/states; for localities, GeoNames is one of the most widely used open sources. This project combines both: ISO for the administrative hierarchy and GeoNames ID for each locality.
+
+When a division has no ISO code, the GeoNames `admin1` code is used. In the current version, all 508 divisions have an ISO code.
 
 ---
 
-## 🧾 Esquema de datos
+## 🧾 Data schema
 
-### País (`data/countries.json`)
+### Country (`data/countries.json`)
 
 ```json
 {
@@ -200,7 +224,7 @@ Cuando una división no tiene código ISO, se usa el código `admin1` de GeoName
 }
 ```
 
-### Provincia / estado (`data/states/AR.json`)
+### Province / state (`data/states/AR.json`)
 
 ```json
 {
@@ -218,12 +242,12 @@ Cuando una división no tiene código ISO, se usa el código `admin1` de GeoName
 }
 ```
 
-- `code`: código usado en la ruta `cities/{país}/{code}.json`.
-- `iso`: código ISO 3166-2 completo (puede ser `null`).
-- `admin1`: código interno de GeoNames.
-- `cities_count`: cantidad de ciudades en el archivo correspondiente.
+- `code`: code used in the path `cities/{country}/{code}.json`.
+- `iso`: full ISO 3166-2 code (may be `null`).
+- `admin1`: GeoNames internal code.
+- `cities_count`: number of cities in the corresponding file.
 
-### Ciudad / localidad (`data/cities/AR/Y.json`)
+### City / locality (`data/cities/AR/Y.json`)
 
 ```json
 {
@@ -237,66 +261,66 @@ Cuando una división no tiene código ISO, se usa el código `admin1` de GeoName
 }
 ```
 
-Campos:
+Fields:
 
-| Campo | Tipo | Descripción |
+| Field | Type | Description |
 |---|---|---|
-| `id` | number | ID de GeoNames. Único dentro de la localidad. |
-| `name` | string | Nombre de la localidad. |
-| `ascii` | string? | Nombre sin acentos. Solo aparece si difiere de `name`. |
-| `lat`, `lng` | number | Coordenadas en grados decimales (WGS84). |
-| `population` | number | Población según GeoNames. `0` significa desconocida o no informada. |
-| `fcode` | string | Código de tipo de lugar de GeoNames. |
-| `municipality` | string? | Municipio/departamento/partido, cuando GeoNames lo informa. |
-| `timezone` | string? | Zona horaria. Solo aparece si difiere de la zona horaria del estado. |
+| `id` | number | GeoNames ID. Unique for each locality. |
+| `name` | string | Locality name. |
+| `ascii` | string? | Name without accents. Only present when it differs from `name`. |
+| `lat`, `lng` | number | Coordinates in decimal degrees (WGS84). |
+| `population` | number | Population according to GeoNames. `0` means unknown or not reported. |
+| `fcode` | string | GeoNames feature code. |
+| `municipality` | string? | Municipality/department/partido, when GeoNames reports it. |
+| `timezone` | string? | Timezone. Only present when it differs from the state timezone. |
 
-### Códigos `fcode` más frecuentes
+### Most common `fcode` values
 
-| Código | Significado |
+| Code | Meaning |
 |---|---|
-| `PPLC` | Capital nacional |
-| `PPLA` | Capital de una división administrativa de primer nivel |
-| `PPLA2` | Cabecera de una división de segundo nivel (municipio, partido, etc.) |
-| `PPLA3`, `PPLA4`, `PPLA5` | Cabeceras de divisiones de tercer, cuarto y quinto nivel |
-| `PPL` | Ciudad, pueblo o localidad |
-| `PPLF` | Aldea o finca |
-| `PPLG` | Sede de gobierno |
-| `PPLL` | Localidad |
-| `PPLR` | Comunidad religiosa |
-| `PPLS` | Caserío |
+| `PPLC` | National capital |
+| `PPLA` | Capital of a first-level administrative division |
+| `PPLA2` | Seat of a second-level division (municipality, partido, etc.) |
+| `PPLA3`, `PPLA4`, `PPLA5` | Seats of third-, fourth- and fifth-level divisions |
+| `PPL` | City, town or locality |
+| `PPLF` | Farm village |
+| `PPLG` | Seat of government |
+| `PPLL` | Locality |
+| `PPLR` | Religious community |
+| `PPLS` | Hamlet |
 
-No se incluyen:
+Not included:
 
-- `PPLX`: barrios o secciones urbanas.
-- `PPLQ`: lugares abandonados.
-- `PPLW`: lugares destruidos.
-- `PPLH`: lugares históricos.
+- `PPLX`: city districts or urban sections.
+- `PPLQ`: abandoned places.
+- `PPLW`: destroyed places.
+- `PPLH`: historical places.
 
-Esto mantiene el dataset enfocado en localidades pobladas y evita duplicar barrios dentro de una misma ciudad.
+This keeps the dataset focused on populated localities and avoids duplicating neighborhoods inside the same city.
 
 ---
 
-## 🔎 Cómo filtrar
+## 🔎 Filtering
 
-### Solo ciudades principales
+### Main cities only
 
 ```js
 const mainCities = cities.filter((city) => city.population >= 10000);
 ```
 
-### Solo capitales de provincia o país
+### Provincial or national capitals only
 
 ```js
 const capitals = cities.filter((city) => ['PPLC', 'PPLA'].includes(city.fcode));
 ```
 
-### Solo localidades con población informada
+### Localities with a reported population only
 
 ```js
 const withPopulation = cities.filter((city) => city.population > 0);
 ```
 
-### Ordenar por población
+### Sort by population
 
 ```js
 const byPopulation = [...cities].sort((a, b) => b.population - a.population);
@@ -304,141 +328,141 @@ const byPopulation = [...cities].sort((a, b) => b.population - a.population);
 
 ---
 
-## 🔄 Regenerar los datos
+## 🔄 Regenerating the data
 
-El repositorio incluye el generador y el validador:
+The repository includes the generator and validator:
 
 ```bash
-# Requiere Node.js 18+ y tar o unzip
+# Requires Node.js 18+ and tar or unzip
 node scripts/build.js
 
-# Valida que los archivos generados sean consistentes
+# Validate that the generated files are consistent
 node scripts/validate.js
 ```
 
-El generador:
+The generator:
 
-1. Descarga las fuentes de GeoNames en `.cache/geonames/` (ignorado por git).
-2. Lee `countryInfo.txt`, `admin1CodesASCII.txt`, `admin2Codes.txt` y `allCountries.txt`.
-3. Filtra los países configurados y las localidades pobladas.
-4. Escribe `data/countries.json`, `data/states/*.json`, `data/cities/**/*.json` y `data/index.json`.
+1. Downloads the GeoNames sources into `.cache/geonames/` (ignored by git).
+2. Reads `countryInfo.txt`, `admin1CodesASCII.txt`, `admin2Codes.txt` and `allCountries.txt`.
+3. Filters the configured countries and populated localities.
+4. Writes `data/countries.json`, `data/states/*.json`, `data/cities/**/*.json` and `data/index.json`.
 
-Para regenerar solo algunos países:
+To regenerate only some countries:
 
 ```bash
 node scripts/build.js --countries=AR,BO,BR
 ```
 
-### Agregar un país nuevo
+### Adding a new country
 
-1. Agregá el código ISO del país a `DEFAULT_COUNTRIES` en `scripts/build.js`.
-2. Agregá sus provincias/estados a `scripts/data/state-map.json`.
-3. Ejecutá `node scripts/build.js --countries=XX`.
-4. Ejecutá `node scripts/validate.js`.
+1. Add the country's ISO code to `DEFAULT_COUNTRIES` in `scripts/build.js`.
+2. Add its provinces/states to `scripts/data/state-map.json`.
+3. Run `node scripts/build.js --countries=XX`.
+4. Run `node scripts/validate.js`.
 
-El mapa de estados contiene el código `admin1` de GeoNames, el código ISO 3166-2, el nombre para mostrar y el tipo de división. Es el único archivo que hay que editar manualmente para sumar países.
+The state map contains the GeoNames `admin1` code, the ISO 3166-2 code, the display name and the division type. It is the only file that must be edited manually to add countries.
 
 ---
 
-## 🛡️ Validación y seguridad
+## 🛡️ Validation and security
 
-Este repositorio es una **fuente de datos**, no un servicio de validación. Aun así, los datos están normalizados para que puedas validar del lado del servidor:
+This repository is a **data source**, not a validation service. Still, the data is normalized so you can validate on the server:
 
-- Códigos de país ISO 3166-1 alpha-2.
-- Códigos de provincia ISO 3166-2 cuando existen.
-- IDs de GeoNames únicos para cada localidad.
-- Coordenadas y población numéricas.
-- `scripts/validate.js` verifica duplicados, campos faltantes y conteos.
+- ISO 3166-1 alpha-2 country codes.
+- ISO 3166-2 province codes when available.
+- Unique GeoNames IDs for each locality.
+- Numeric coordinates and population.
+- `scripts/validate.js` checks duplicates, missing fields and counts.
 
-Ejemplo de validación en Laravel:
+Laravel validation example:
 
 ```php
 $country = Country::where('code', $request->country)->first();
 if (!$country) {
-    return response()->json(['error' => 'País inválido'], 422);
+    return response()->json(['error' => 'Invalid country'], 422);
 }
 
 $state = State::where('country_code', $country->code)
     ->where('code', $request->state)
     ->first();
 if (!$state) {
-    return response()->json(['error' => 'Provincia inválida'], 422);
+    return response()->json(['error' => 'Invalid province/state'], 422);
 }
 
 $city = City::where('state_code', $state->code)
     ->where('id', $request->city_id)
     ->first();
 if (!$city) {
-    return response()->json(['error' => 'Ciudad inválida'], 422);
+    return response()->json(['error' => 'Invalid city'], 422);
 }
 ```
 
-> No confíes únicamente en los valores que envía el navegador. Validá siempre contra los datos del servidor.
+> Do not trust values sent by the browser alone. Always validate against the server-side data.
 
 ---
 
-## 📚 Fuentes y licencias
+## 📚 Sources and licenses
 
-### Datos
+### Data
 
-- **[GeoNames](https://www.geonames.org/)** — fuente principal de países, divisiones administrativas, localidades, coordenadas y población.
-  Licencia: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-- **[iso-3166-2.js](https://github.com/olahol/iso-3166-2.js)** — códigos y nombres de subdivisiones ISO 3166-2.
-  Licencia: MIT.
-- **[umpirsky/country-list](https://github.com/umpirsky/country-list)** — nombres de países en español.
-  Licencia: MIT.
+- **[GeoNames](https://www.geonames.org/)** — main source of countries, administrative divisions, localities, coordinates and population.
+  License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **[iso-3166-2.js](https://github.com/olahol/iso-3166-2.js)** — ISO 3166-2 subdivision codes and names.
+  License: MIT.
+- **[umpirsky/country-list](https://github.com/umpirsky/country-list)** — country names in Spanish.
+  License: MIT.
 
-Los datos de este repositorio se distribuyen bajo **CC BY 4.0**. Si los usás, tenés que atribuir a World Geo Data y a GeoNames. Ver [`LICENSE-DATA`](LICENSE-DATA) y [`docs/SOURCES.md`](docs/SOURCES.md).
+The data in this repository is distributed under **CC BY 4.0**. If you use it, you must attribute World Geo Data and GeoNames. See [`LICENSE-DATA`](LICENSE-DATA) and [`docs/SOURCES.md`](docs/SOURCES.md).
 
-### Código
+### Code
 
-El generador, el validador y los ejemplos se distribuyen bajo **MIT**. Ver [`LICENSE`](LICENSE).
+The generator, validator and examples are distributed under **MIT**. See [`LICENSE`](LICENSE).
 
-> GeoNames es una base colaborativa: puede contener errores, nombres desactualizados o localidades con población desconocida. Para usos legales, electorales o administrativos, contrastá con la fuente oficial del país.
-
----
-
-## 🤝 Contribuir
-
-Las contribuciones son bienvenidas:
-
-1. Hacé un fork del repositorio.
-2. Creá una rama: `git checkout -b fix/nombre-descriptivo`.
-3. Si corregís datos generados, editá la fuente correspondiente (`scripts/data/state-map.json` o `scripts/build.js`) y volvé a generar.
-4. Ejecutá `node scripts/validate.js`.
-5. Abrí un Pull Request explicando el cambio y la fuente.
-
-No edites manualmente los archivos de `data/` si el cambio se puede reproducir con el generador: en la próxima regeneración se perdería.
-
-Leé [`CONTRIBUTING.md`](CONTRIBUTING.md) para más detalles.
+> GeoNames is a collaborative database: it may contain errors, outdated names or localities with unknown population. For legal, electoral or administrative uses, cross-check with the official source for each country.
 
 ---
 
-## ❓ Preguntas frecuentes
+## 🤝 Contributing
 
-**¿Es gratis?**
-Sí. El código es MIT y los datos son CC BY 4.0. Solo pedimos atribución.
+Contributions are welcome:
 
-**¿Por qué todavía no hay ciudades de todos los países?**
-Esta primera etapa cubre América Latina y el Caribe. El generador ya está preparado para sumar más países agregando su mapa de estados.
+1. Fork the repository.
+2. Create a branch: `git checkout -b fix/descriptive-name`.
+3. If you are fixing generated data, edit the corresponding source (`scripts/data/state-map.json`, `scripts/data/city-overrides.json` or `scripts/build.js`) and regenerate.
+4. Run `node scripts/validate.js`.
+5. Open a Pull Request explaining the change and the source.
 
-**¿Incluye barrios?**
-No. Se excluyen los códigos `PPLX` para evitar duplicar barrios dentro de una ciudad. Si necesitás barrios, se puede agregar una capa separada.
+Do not edit files in `data/` manually if the change can be reproduced with the generator: it would be lost on the next regeneration.
 
-**¿Los datos se actualizan?**
-Sí. La fecha de generación está en `data/index.json`. Para actualizar, ejecutá `node scripts/build.js`.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for details.
 
-**¿Puedo usarlo en producción?**
-Sí, con atribución y validación del lado del servidor. Revisá la sección de licencias.
+---
 
-**¿Cómo sé si una localidad es capital?**
-Mirá el campo `fcode`: `PPLC` es capital nacional y `PPLA` es capital de provincia/estado.
+## ❓ FAQ
 
-**¿Por qué una localidad tiene `population: 0`?**
-Porque GeoNames no informa su población. No significa que esté deshabitada.
+**Is it free?**
+Yes. The code is MIT and the data is CC BY 4.0. We only ask for attribution.
 
-**¿Puedo usar solo los nombres para un select?**
-Sí:
+**Why are there no cities for every country yet?**
+This first phase covers Latin America and the Caribbean. The generator is already prepared to add more countries by adding their state map.
+
+**Does it include neighborhoods?**
+No. `PPLX` codes are excluded to avoid duplicating neighborhoods inside a city. If you need neighborhoods, a separate layer can be added.
+
+**Is the data updated?**
+Yes. The generation date is in `data/index.json`. To update, run `node scripts/build.js`.
+
+**Can I use it in production?**
+Yes, with attribution and server-side validation. See the licenses section.
+
+**How do I know whether a locality is a capital?**
+Check the `fcode` field: `PPLC` is a national capital and `PPLA` is a province/state capital.
+
+**Why does a locality have `population: 0`?**
+Because GeoNames does not report its population. It does not mean the place is uninhabited.
+
+**Can I use only the names for a select?**
+Yes:
 
 ```js
 const names = cities.map((city) => city.name);
@@ -448,23 +472,23 @@ const names = cities.map((city) => city.name);
 
 ## 🗺️ Roadmap
 
-- [x] Países de todo el mundo.
-- [x] Provincias/estados y ciudades de América Latina y el Caribe.
-- [ ] Ciudades de América del Norte, Europa, Asia, África y Oceanía.
-- [ ] Municipios y divisiones de segundo nivel como archivos separados.
-- [ ] Códigos postales.
-- [ ] Índice de búsqueda por nombre normalizado.
-- [ ] Traducciones de nombres de localidades.
-- [ ] API estática documentada con ejemplos para más lenguajes.
+- [x] Countries worldwide.
+- [x] Provinces/states and cities for Latin America and the Caribbean.
+- [ ] Cities for North America, Europe, Asia, Africa and Oceania.
+- [ ] Municipalities and second-level divisions as separate files.
+- [ ] Postal codes.
+- [ ] Search index by normalized name.
+- [ ] Translations of locality names.
+- [ ] Documented static API with examples for more languages.
 
 ---
 
-## 📸 Capturas
+## 📸 Screenshots
 
-### Vista escritorio
+### Desktop view
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/7PJ05XMn/location1.png" alt="Vista escritorio" /></a>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/7PJ05XMn/location1.png" alt="Desktop view" /></a>
 
-### Vista móvil
+### Mobile view
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/dQZrhnm9/location2.png" alt="Vista móvil" /></a>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/dQZrhnm9/location2.png" alt="Mobile view" /></a>
